@@ -283,30 +283,6 @@ https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", beIN Sports Extra
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", ESPN 1 (AR)
-https://comoverfutbol.com/drmplayer.html?get=Ly9lZGdlLWxpdmUxNi1oci5jdmF0dHYuY29tLmFyL2xpdmUvYzNlZHMvRVNQTjJIRC9TQV9MaXZlX2Rhc2hfZW5jXzJBL0VTUE4ySEQubXBk
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", ESPN 2 (AR)
-https://comoverfutbol.com/drmplayer.html?get=Ly9lZGdlLWxpdmUxNi1oci5jdmF0dHYuY29tLmFyL2xpdmUvYzJsaXZlL0VTUE5fSEQvU0FfTGl2ZV9kYXNoX2VuY18yQS9FU1BOX0hELm1wZA==
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", ESPN 3 (AR)
-https://comoverfutbol.com/drmplayer.html?get=aHR0cHM6Ly9lZGdlLWxpdmUxNi1oci5jdmF0dHYuY29tLmFyL2xpdmUvYzNlZHMvRVNQTjMvU0FfTGl2ZV9kYXNoX2VuY18yQS9FU1BOMy5tcGQKCg==
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", ESPN Extra
-https://comoverfutbol.com/drmplayer.html?get=Ly9lZGdlMy1zbC5jdmF0dHYuY29tLmFyL2xpdmUvYzNlZHMvRVNQTkhEL1NBX0xpdmVfZGFzaF9lbmMvRVNQTkhELm1wZA==
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Fox Sports 1 (AR)
-https://comoverfutbol.com/drmplayer.html?get=Ly9lZGdlLWxpdmUxNC1oci5jdmF0dHYuY29tLmFyL2xpdmUvYzNlZHMvRm94U3BvcnRzL1NBX0xpdmVfZGFzaF9lbmNfMkEvRm94U3BvcnRzLm1wZA==
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Fox Sports 2 (AR)
-https://comoverfutbol.com/drmplayer.html?get=Ly9lZGdlLWxpdmUxNC1oci5jdmF0dHYuY29tLmFyL2xpdmUvYzNlZHMvRm94U3BvcnRzMkhEL1NBX0xpdmVfZGFzaF9lbmNfMkEvRm94U3BvcnRzMkhELm1wZA==
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Fox Sports 3 (AR)
-https://comoverfutbol.com/drmplayer.html?get=Ly9lZGdlLWxpdmUxNC1oci5jdmF0dHYuY29tLmFyL2xpdmUvYzNlZHMvRm94U3BvcnRzM0hEL1NBX0xpdmVfZGFzaF9lbmMvRm94U3BvcnRzM0hELm1wZA==
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Fox Sports Premium
-https://comoverfutbol.com/drmplayer.html?get=aHR0cHM6Ly9lZGdlMy1zbC5jdmF0dHYuY29tLmFyLy9saXZlL2MzZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfZW5jXzJBL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC5tcGQ=
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Impact!
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
@@ -321,6 +297,14 @@ http://46.34.209.243/btv/SWM/Eurosport/Eurosport_576p_2000kbps.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Eurosports 2
 http://46.34.209.243/btv/SWM/Eurosport2/Eurosport2_576p_2000kbps.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Dazn 1
+http://stream.tvtap.live:8081/live/it-dazn1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Dazn 2
+http://stream.tvtap.live:8081/live/it-dazn2.stream/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Inestables", Afizzionados
 http://balancer1.iptvmx.com:8081/tecno/Afizzionados.Tecnobyte/chunks.m3u8
