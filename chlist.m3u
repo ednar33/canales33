@@ -292,6 +292,15 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Red Box
 https://dai2.xumo.com/xumocdn/deviceid/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Glory KickBoxing
+https://dai2.xumo.com/xumocdn/deviceid/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", ROH - Ring of Honor
+https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Stadium
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Eurosports 1
 http://46.34.209.243/btv/SWM/Eurosport/Eurosport_576p_2000kbps.m3u8
 
