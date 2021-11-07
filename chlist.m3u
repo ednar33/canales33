@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", adn40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
@@ -275,3 +275,160 @@ http://xite-samsung-de.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Musica", Zapping TV
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Claro Sports
+https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", beIN Sports Extra
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", ESPN 1 (AR)
+https://comoverfutbol.com/drmplayer.html?get=Ly9lZGdlLWxpdmUxNi1oci5jdmF0dHYuY29tLmFyL2xpdmUvYzNlZHMvRVNQTjJIRC9TQV9MaXZlX2Rhc2hfZW5jXzJBL0VTUE4ySEQubXBk
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", ESPN 2 (AR)
+https://comoverfutbol.com/drmplayer.html?get=Ly9lZGdlLWxpdmUxNi1oci5jdmF0dHYuY29tLmFyL2xpdmUvYzJsaXZlL0VTUE5fSEQvU0FfTGl2ZV9kYXNoX2VuY18yQS9FU1BOX0hELm1wZA==
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", ESPN 3 (AR)
+https://comoverfutbol.com/drmplayer.html?get=aHR0cHM6Ly9lZGdlLWxpdmUxNi1oci5jdmF0dHYuY29tLmFyL2xpdmUvYzNlZHMvRVNQTjMvU0FfTGl2ZV9kYXNoX2VuY18yQS9FU1BOMy5tcGQKCg==
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", ESPN Extra
+https://comoverfutbol.com/drmplayer.html?get=Ly9lZGdlMy1zbC5jdmF0dHYuY29tLmFyL2xpdmUvYzNlZHMvRVNQTkhEL1NBX0xpdmVfZGFzaF9lbmMvRVNQTkhELm1wZA==
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Fox Sports 1 (AR)
+https://comoverfutbol.com/drmplayer.html?get=Ly9lZGdlLWxpdmUxNC1oci5jdmF0dHYuY29tLmFyL2xpdmUvYzNlZHMvRm94U3BvcnRzL1NBX0xpdmVfZGFzaF9lbmNfMkEvRm94U3BvcnRzLm1wZA==
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Fox Sports 2 (AR)
+https://comoverfutbol.com/drmplayer.html?get=Ly9lZGdlLWxpdmUxNC1oci5jdmF0dHYuY29tLmFyL2xpdmUvYzNlZHMvRm94U3BvcnRzMkhEL1NBX0xpdmVfZGFzaF9lbmNfMkEvRm94U3BvcnRzMkhELm1wZA==
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Fox Sports 3 (AR)
+https://comoverfutbol.com/drmplayer.html?get=Ly9lZGdlLWxpdmUxNC1oci5jdmF0dHYuY29tLmFyL2xpdmUvYzNlZHMvRm94U3BvcnRzM0hEL1NBX0xpdmVfZGFzaF9lbmMvRm94U3BvcnRzM0hELm1wZA==
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Fox Sports Premium
+https://comoverfutbol.com/drmplayer.html?get=aHR0cHM6Ly9lZGdlMy1zbC5jdmF0dHYuY29tLmFyLy9saXZlL2MzZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfZW5jXzJBL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC5tcGQ=
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Impact!
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", RedBull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Red Box
+https://dai2.xumo.com/xumocdn/deviceid/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Eurosports 1
+http://46.34.209.243/btv/SWM/Eurosport/Eurosport_576p_2000kbps.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Eurosports 2
+http://46.34.209.243/btv/SWM/Eurosport2/Eurosport2_576p_2000kbps.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Inestables", Afizzionados
+http://balancer1.iptvmx.com:8081/tecno/Afizzionados.Tecnobyte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Inestables", Star Channel
+http://balancer1.ottmex.com:8081/tecno/Fox.BKR/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Inestables", Star Fun
+http://balancer1.iptvmx.com:8081/tecno/FoxFamily.Tecnobyte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Inestables", Star Series
+http://balancer1.iptvmx.com:8081/tecno/FoxSeries.Tecnobyte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Inestables", Star Comedy
+http://balancer1.iptvmx.com:8081/tecno/FOXCOMEDY.TecnoByte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Inestables", HBO
+http://balancer1.iptvmx.com:8081/tecno/HBO.Tecnobyte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Inestables", HBO 2
+http://balancer1.iptvmx.com:8081/tecno/Hbo2.Tecnobyte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Inestables", HBO Plus
+http://balancer1.iptvmx.com:8081/tecno/HboPlus.Tecnobyte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Inestables", HBO Signature
+http://balancer1.iptvmx.com:8081/tecno/HboSignature.Tecnobyte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Inestables", HBO Family
+http://balancer1.iptvmx.com:8081/tecno/HboFamily.Tecnobyte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Inestables", HBO Pop
+http://balancer1.iptvmx.com:8081/tecno/HBOPOP.Tecnobyte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Inestables", Telemundo Internacional
+http://balancer1.iptvmx.com:8081/tecno/Telemundoint.TecnoByte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Inestables", Studio Universal
+http://balancer1.iptvmx.com:8081/tecno/StudioUniversal.TecnoByte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Inestables", Fox Sports MX
+http://balancer1.iptvmx.com:8081/tecno/FoxSports1.BKR/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Inestables", Fox Sports MX 2
+http://balancer1.iptvmx.com:8081/tecno/FoxSports2.BKR/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Inestables", Fox Sports MX 3
+http://balancer1.iptvmx.com:8081/tecno/FoxSports3.BKR/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Inestables", TUDN
+http://balancer1.iptvmx.com:8081/tecno/Canal5.TecnoByte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Inestables", Golden Plus
+http://balancer1.iptvmx.com:8081/tecno/GoldenPlus.TecnoByte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Inestables", Golden Premier
+http://balancer1.iptvmx.com:8081/tecno/GoldenPremier.Tecnobyte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Inestables", Nick
+http://balancer1.iptvmx.com:8081/tecno/Nick.TecnoByte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Inestables", Telefé
+http://balancer1.iptvmx.com:8081/tecno/Telefe.TecnoByte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Inestables", Antena 3
+http://balancer1.iptvmx.com:8081/tecno/Antena3.TecnoByte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Inestables", Gala TV
+http://balancer1.iptvmx.com:8081/tecno/GalaTV.TecnoByte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Inestables", Canal Once
+http://balancer1.iptvmx.com:8081/tecno/Canal11.TecnoByte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Inestables", TNT
+http://balancer1.ottmex.com:8081/tecno/Tnt.TecnoByte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Inestables", TNT Series
+http://balancer1.ottmex.com:8081/tecno/TNT_Series.TecnoByte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Inestables", AyE
+http://balancer1.ottmex.com:8081/tecno/AyE.Tecnobyte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Inestables", E!
+http://balancer1.ottmex.com:8081/BKR/Eentertainment.TecnoByte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Inestables", Mas Chic
+http://balancer1.ottmex.com:8081/BKR/MasChic.TecnoByte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Inestables", Sony
+http://balancer1.ottmex.com:8081/tecno/Sony.Tecnobyte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Inestables", Studio Universal
+http://balancer1.ottmex.com:8081/BKR/StudioUniversal.TecnoByte/chunks.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Inestables", Warner
+http://balancer1.ottmex.com:8081/BKR/Warner.TecnoByte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Inestables", Distrito Comedia
+http://balancer1.ottmex.com:8081/tecno/Distritocomedia.TecnoByte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Inestables", Disney Jr
+http://balancer1.ottmex.com:8081/BKR/DisneyJR.Tecnobyte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Inestables", Disney Channel
+http://balancer1.ottmex.com:8081/BKR/Disneychann.TecnoByte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Inestables", Disney XD
+http://balancer1.ottmex.com:8081/BKR/DisneyXD.Tecnobyte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Inestables", Cartoon Network
+http://balancer1.ottmex.com:8081/BKR/CartoonNetwork/chunks.m3u8
