@@ -146,10 +146,14 @@ http://91.126.141.13:1935/live/61/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Telemundo 1
 https://wnjulive-lh.akamaihd.net/i/NY_STREAM7@183615/master.m3u8
+
+TINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Telemundo 1.1
 http://playboxtv.net:25461/live/cynthia/1234/14191.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Telemundo 2
 https://wtmolive-lh.akamaihd.net/i/WTMO_LIVE1@749969/index_1500_av-b.m3u8?sd=10&rebase=on
+
+TINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Telemundo 2.1
 http://playboxtv.net:25461/live/cynthia/1234/6753.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Telenovelas (En Frances)
