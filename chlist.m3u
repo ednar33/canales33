@@ -352,6 +352,9 @@ https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", beIN Sports Extra
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", beIN La Liga
+http://93.152.174.144:4000/play/beinlaliga/index.m3u8?mvk
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Best Cable Sports Perú
 https://tv.siete.us/bestcablesports/bestcablesports/index.m3u8
 
