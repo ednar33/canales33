@@ -21,6 +21,9 @@ http://51.222.43.170:25461/live/ViveConDios9/PFMucmAFQpGh/263287.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Las Estrellas 2
 http://playboxtv.net:25461/live/cynthia/1234/21.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Las Estrellas 3
+http://38.131.11.9:1080/play/a032/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Mexiquense
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/chunklist_w1569948690.m3u8
 
@@ -520,6 +523,48 @@ http://f4.tvxweb.net:8082/35976/video.m3u8?token=MxPReBvRE1
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", Canal RCN
 http://f4.tvxweb.net:8082/42145/video.m3u8?token=MxPReBvRE18
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cristianos", Genesis TV
+http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cristianos", Esperanza TV
+https://hcintlinc.mmdlive.lldns.net/hcintlinc/7af1df165bec4333b62c59afce9c9e49/chunklist_b1128000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cristianos", Extrema TV
+https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AcqBkln.png" group-title="Cristianos", Presencia TV
+https://sm.redconnections.net:1936/presenciatv/presenciatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cristianos", Volvamos a Dios 
+https://stmv.panel.mivideo.pro/remanenteescogido/remanenteescogido/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cristianos", Televida
+https://tls.cdnz.cl/televida/ngrp:live_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cristianos", TV Universal
+https://59c3c7bda15f4.streamlock.net:444/universal/smil:universal.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cristianos", Solidaria TV
+https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cristianos", TBN
+https://5e4e2e0bb2914.streamlock.net/live/ngrp:tbnlive_srt_new.stream_all/.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cristianos", Nuevo Tiempo TV
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cristianos", Red de Radiodifusión - Adventista
+https://3abn-live.akamaized.net/hls/live/2010547/Latino/stream02/streamPlaylist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cristianos", Logos TV
+https://streamer1.streamhost.org/salive/logosH/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cristianos", Red Advenir
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/chunklist_w5801226.m3u8
+
 
 
 
