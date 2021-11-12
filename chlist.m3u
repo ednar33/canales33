@@ -529,11 +529,29 @@ http://f4.tvxweb.net:8082/42145/video.m3u8?token=MxPReBvRE18
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cristianos", Genesis TV
 http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cristianos", Dios TeVe
+https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cristianos", Oasis TV
+https://5e85d90130e77.streamlock.net/6020/6020/chunklist_w1704876602.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cristianos", Cadena del Milagro
+https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/chunklist_w422348286
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cristianos", Esperanza TV
 https://hcintlinc.mmdlive.lldns.net/hcintlinc/7af1df165bec4333b62c59afce9c9e49/chunklist_b1128000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cristianos", Extrema TV
 https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cristianos", SMO Positive channel
+http://190.171.121.133:8080/hls/smotv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cristianos", Gracia TV
+https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cristianos", ABN Avivamiento
+https://s2.abntelevision.com/avivamientohd/avivamientohd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AcqBkln.png" group-title="Cristianos", Presencia TV
 https://sm.redconnections.net:1936/presenciatv/presenciatv/playlist.m3u8
