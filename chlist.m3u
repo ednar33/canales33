@@ -114,6 +114,9 @@ https://unlimited1-cl-movistar.dps.live/lared/lared.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", La Sexta
 http://91.126.141.13:1935/live/21/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Chilevision
+https://mdstrm.com/live-stream-playlist-v/5c928b7f6d6f41084bdae898.m3u8?access_token=FroMms4kAz4LXIKrKHbGrYUFwdJeBmmNp5PXaXuZDCq5kQqSCXhaCjBcKwyYWOAjSJH3iUtkHgf
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Latina Peru
 https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_2.m3u8
 
