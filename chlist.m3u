@@ -1,7 +1,7 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://imgur.com/TviWIyE.png" group-title="", Canales33
+#EXTINF:-1 tvg-logo="https://imgur.com/TviWIyE.png" group-title="Actualizacion", Canales33
 http://facebook.com/ednar33tv
-#EXTINF:-1 tvg-logo="https://imgur.com/EkMMbwB.png" group-title="", 15/Nov/2021
+#EXTINF:-1 tvg-logo="https://imgur.com/EkMMbwB.png" group-title="Actualizacion", 15/Nov/2021
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", a+
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
