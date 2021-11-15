@@ -1,693 +1,682 @@
 #EXTM3U
 
-#EXTINF:-1 logo="https://www.televall.online/gallery/amas-loqueves_thumb_wrd3itw6.png" group-title="TV PREMIUM",A MAS MX
-http://tecnotv.club/9nov9/smartv.php?c=amas&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/aztecauno_thumb_a5jlovsb.png" group-title="TV PREMIUM",AZTECA UNO MX
-http://tecnotv.club/9nov9/smartv.php?c=aztecauno&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/canal2_thumb_p29d2q2o.png" group-title="TV PREMIUM",EL DOS MX
-http://tecnotv.club/9nov9/smartv.php?c=eldos&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/canal5hd_thumb_eerrsbn4.png" group-title="TV PREMIUM",CANAL 5 MX
-http://tecnotv.club/9nov9/smartv.php?c=elcinco&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/azteca_7_thumb_s3py9w9m.png" group-title="TV PREMIUM",AZTECA 7
-http://tecnotv.club/9nov9/smartv.php?c=azteca7&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/canal-nueve_thumb.png" group-title="TV PREMIUM",EL NUEVE MX
-http://tecnotv.club/9nov9/smartv.php?c=elnueve&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/imagen-television_thumb.png" group-title="TV PREMIUM",IMAGEN TV
-http://tecnotv.club/9nov9/smartv.php?c=imagentv&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/multimedios_thumb_8l82qlv6.png" group-title="TV PREMIUM",MULTIMEDIOS
-http://tecnotv.club/9nov9/smartv.php?c=multimedios&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/canalonce_thumb_ooo415ez.png" group-title="TV PREMIUM",ONCE TV HD
-http://tecnotv.club/9nov9/smartv.php?c=oncetvhd&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/distritocomediahd_thumb_hesl6u2t.png" group-title="TV PREMIUM",DISTRITO COMEDIA
-http://tecnotv.club/9nov9/smartv.php?c=distrito&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/unicable_thumb_tnkgb3wz.png" group-title="TV PREMIUM",UNICABLE MX
-http://tecnotv.club/9nov9/smartv.php?c=unicable&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/mvstv_thumb_u2i62ke7.png" group-title="TV PREMIUM",MVSTV MX
-http://tecnotv.club/9nov9/smartv.php?c=mvstv&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/antena3-int_thumb_7j9k74ko.png" group-title="TV PREMIUM",ANTENA 3 Int
-http://tecnotv.club/9nov9/smartv.php?c=antena3int&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/atreseries_thumb_7fhcmyie.png" group-title="TV PREMIUM",A3 SERIES
-http://tecnotv.club/9nov9/smartv.php?c=a3series&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/startve_thumb_jf931eul.png" group-title="TV PREMIUM",STAR TVE
-http://tecnotv.club/9nov9/smartv.php?c=startve&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/tve_thumb.png" group-title="TV PREMIUM",TVE
-http://tecnotv.club/9nov9/smartv.php?c=tve&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/caracol-hd_thumb_spazm8wx.png" group-title="TV PREMIUM",CARACOL
-http://tecnotv.club/9nov9/smartv.php?c=caracol&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/rcn_thumb_0ldmlhlo.png" group-title="TV PREMIUM",RCN
-http://tecnotv.club/9nov9/smartv.php?c=rcn&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/galavision_thumb_2v9wmkcw.png" group-title="TV PREMIUM",GALAVISION
-http://tecnotv.club/9nov9/smartv.php?c=galavision&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/glitz_thumb_j4nnbb5s.png" group-title="TV PREMIUM",GLITZ
-http://tecnotv.club/9nov9/smartv.php?c=glitz&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/telemundo_thumb_onsiuk1z.png" group-title="TV PREMIUM",TELEMUNDO
-http://tecnotv.club/9nov9/smartv.php?c=telemundo&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/telemundoint_thumb_jjc1lwt1.png" group-title="TV PREMIUM",TELEMUNDO Internacional
-http://tecnotv.club/9nov9/smartv.php?c=telemundoint&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/unimas_thumb_tk055yz7.png" group-title="TV PREMIUM",UNIMAS
-http://tecnotv.club/9nov9/smartv.php?c=unimas&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/azteca-corazon_thumb.png" group-title="TV PREMIUM",AZ CORAZON
-http://tecnotv.club/9nov9/smartv.php?c=azcorazon&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/a-e_thumb.png" group-title="TV PREMIUM",A&amp;E
-http://tecnotv.club/9nov9/smartv.php?c=ae&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/axn_thumb.png" group-title="TV PREMIUM",AXN
-http://tecnotv.club/9nov9/smartv.php?c=axn&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/comedy-central_thumb.png" group-title="TV PREMIUM",COMEDY CENTRAL
-http://tecnotv.club/9nov9/smartv.php?c=comedy&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/E-_HD_thumb.png" group-title="TV PREMIUM",Entertaiment
-http://tecnotv.club/9nov9/smartv.php?c=e&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/fox_thumb_cefhl8mp.png" group-title="TV PREMIUM",FOX Channel
-http://tecnotv.club/9nov9/smartv.php?c=starch&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/foxlife_thumb.png" group-title="TV PREMIUM",FOX LIFE
-http://tecnotv.club/9nov9/smartv.php?c=starlife&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/fx_thumb.png" group-title="TV PREMIUM",FX
-http://tecnotv.club/9nov9/smartv.php?c=fx&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/id-hd_thumb.png" group-title="TV PREMIUM",INVESTIGATION Discovery
-http://tecnotv.club/9nov9/smartv.php?c=id&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/pasiones_thumb_fkxxp3uh.png" group-title="TV PREMIUM",PASIONES
-http://tecnotv.club/9nov9/smartv.php?c=pasiones&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/rcn-novelas_thumb.png" group-title="TV PREMIUM",RCN Novelas
-http://tecnotv.club/9nov9/smartv.php?c=univtln&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/sonyhd_thumb.png" group-title="TV PREMIUM",SONY Channel
-http://tecnotv.club/9nov9/smartv.php?c=sony&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/tlnovelas_thumb.png" group-title="TV PREMIUM",TLNovelas
-http://tecnotv.club/9nov9/smartv.php?c=tlnovelas&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/tele-novelas_thumb.png" group-title="TV PREMIUM",Tele Novelas
-http://tecnotv.club/9nov9/smartv.php?c=univtln&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/tbs_thumb_tad28ban.png" group-title="TV PREMIUM",TBS
-http://tecnotv.club/9nov9/smartv.php?c=tbs&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/tnt-series_thumb.png" group-title="TV PREMIUM",TNT Series
-http://tecnotv.club/9nov9/smartv.php?c=tntseries&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/true_tv_thumb.png" group-title="TV PREMIUM",TRU TV
-http://tecnotv.club/9nov9/smartv.php?c=trutv&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/universal-channel_thumb.png" group-title="TV PREMIUM",UNIVERSAL TV
-http://tecnotv.club/9nov9/smartv.php?c=universal&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/warner-hd_thumb.png" group-title="TV PREMIUM",WARNER TV
-http://tecnotv.club/9nov9/smartv.php?c=warner&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/azteca-cinema_thumb.png" group-title="TV PREMIUM",AZ CINEMA
-http://tecnotv.club/9nov9/smartv.php?c=azcinema&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/amc_thumb.png" group-title="TV PREMIUM",AMC
-http://tecnotv.club/9nov9/smartv.php?c=amc&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/cinecanal_thumb.png" group-title="TV PREMIUM",CINECANAL
-http://tecnotv.club/9nov9/smartv.php?c=cinecanal&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/cinemax_thumb.png" group-title="TV PREMIUM",CINEMAX
-http://tecnotv.club/9nov9/smartv.php?c=cinemax&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/dhe_thumb_ok5f5kdb.png" group-title="TV PREMIUM",DHE
-http://tecnotv.club/9nov9/smartv.php?c=dhe&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/europa-europa_thumb.png" group-title="TV PREMIUM",EUROPA
-http://tecnotv.club/9nov9/smartv.php?c=eur&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/film-arts_thumb.png" group-title="TV PREMIUM",FILM &amp; ARTS
-http://tecnotv.club/9nov9/smartv.php?c=filmarts&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/fxm_thumb.png" group-title="TV PREMIUM",FXM
-http://tecnotv.club/9nov9/smartv.php?c=fxm&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/i-sat_thumb_xml0yvbq.png" group-title="TV PREMIUM",ISAT
-http://tecnotv.club/9nov9/smartv.php?c=isat&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/multicinema_thumb.png" group-title="TV PREMIUM",MULTICINEMA
-http://tecnotv.club/9nov9/smartv.php?c=mc&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/morbido_thumb.png" group-title="TV PREMIUM",MORBIDO
-http://tecnotv.club/9nov9/smartv.php?c=morbido&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/paramount-channel_thumb.png" group-title="TV PREMIUM",PARAMOUNT Channel
-http://tecnotv.club/9nov9/smartv.php?c=paramount&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/studio-universal_thumb.png" group-title="TV PREMIUM",STUDIO Universal
-http://tecnotv.club/9nov9/smartv.php?c=studiouniversal&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/syfy_thumb.png" group-title="TV PREMIUM",SYFY
-http://tecnotv.club/9nov9/smartv.php?c=syfy&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/tcm_thumb_3s6zdvdf.png" group-title="TV PREMIUM",TCM
-http://tecnotv.club/9nov9/smartv.php?c=tcm&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/tnthd_thumb.png" group-title="TV PREMIUM",TNT
-http://tecnotv.club/9nov9/smartv.php?c=tnt&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/azteca-mundo_thumb.png" group-title="TV PREMIUM",AZ MUNDO
-http://tecnotv.club/9nov9/smartv.php?c=azmundo&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/animal-planet_thumb.png" group-title="TV PREMIUM",ANIMAL Planet
-http://tecnotv.club/9nov9/smartv.php?c=anima&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/discovery_thumb_w785xec9.png" group-title="TV PREMIUM",DISCOVERY Channel
-http://tecnotv.club/9nov9/smartv.php?c=discoverych&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/discovery-sciencie_thumb.png" group-title="TV PREMIUM",Discovery SCIENCE
-http://tecnotv.club/9nov9/smartv.php?c=dciencia&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/discovery-civilization_thumb_w24lqaof.png" group-title="TV PREMIUM",Discovery CIVILIZATION
-http://tecnotv.club/9nov9/smartv.php?c=dcivil&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/discovery-theather-hd_thumb_94ztnt5r.png" group-title="TV PREMIUM",Discovery THEATER
-http://tecnotv.club/9nov9/smartv.php?c=dtheater&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/discovery-turbo_thumb.png" group-title="TV PREMIUM",Discovery TURBO
-http://tecnotv.club/9nov9/smartv.php?c=dturbo&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/discovery-world_thumb.png" group-title="TV PREMIUM",Discovery WORLD
-http://tecnotv.club/9nov9/smartv.php?c=dworld&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/food-network_thumb_k4cddex2.png" group-title="TV PREMIUM",FOOD Network
-http://tecnotv.club/9nov9/smartv.php?c=food&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/gourmet-hd_thumb.png" group-title="TV PREMIUM",EL GOURMET
-http://tecnotv.club/9nov9/smartv.php?c=gourmet&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/lifetime_thumb_854rm6sc.png" group-title="TV PREMIUM",LIFE TIME
-http://tecnotv.club/9nov9/smartv.php?c=lifetime&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/history-channel_thumb_52xiseat.png" group-title="TV PREMIUM",HISTORY Channel
-http://tecnotv.club/9nov9/smartv.php?c=history&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/h2_thumb_3qp9wks3.png" group-title="TV PREMIUM",Histrory 2
-http://tecnotv.club/9nov9/smartv.php?c=h2&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/h-h_thumb_1hls1zvi.png" group-title="TV PREMIUM",Home &amp; Health
-http://tecnotv.club/9nov9/smartv.php?c=hh&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/holatvhd_thumb_42ck5xt3.png" group-title="TV PREMIUM",HOLA TV
-http://tecnotv.club/9nov9/smartv.php?c=holatv&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/maschic-hd_thumb_bmnkvny5.png" group-title="TV PREMIUM",MAS CHIC
-http://tecnotv.club/9nov9/smartv.php?c=maschic&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/natgeo_thumb.png" group-title="TV PREMIUM",NATGEO
-http://tecnotv.club/9nov9/smartv.php?c=natgeo&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/nat-geo-wild_thumb.png" group-title="TV PREMIUM",Natgeo WILD
-http://tecnotv.club/9nov9/smartv.php?c=natgeowild&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/tlc-discovery_thumb.png" group-title="TV PREMIUM",TLC Discovery
-http://tecnotv.club/9nov9/smartv.php?c=tlc&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/atv_thumb_ogtaz4l4.png" group-title="TV PREMIUM",ATV PE
-http://tecnotv.club/9nov9/smartv.php?c=atv&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/telemundo_thumb_pm42cso6.png" group-title="TV PREMIUM",TELEMUNDO
-http://tecnotv.club/9nov9/smartv.php?c=telemundo&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/azteca_7_thumb_z8j9a9k6.png" group-title="TV PREMIUM",AZTECA 7
-http://tecnotv.club/9nov9/smartv.php?c=azteca7&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/azteca7_hd_thumb_kx43r8w4.png" group-title="TV PREMIUM",AZTECA 7 HD
-http://tecnotv.club/9nov9/smartv.php?c=azteca7hd&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/imagen-television_thumb_lt3bmioc.png" group-title="TV PREMIUM",IMAGEN TV
-http://tecnotv.club/9nov9/smartv.php?c=imagentv&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/canal2_thumb_c0tdyvib.png" group-title="TV PREMIUM",EL DOS MX
-http://tecnotv.club/9nov9/smartv.php?c=eldos&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/canal5_thumb.png" group-title="TV PREMIUM",EL CINCO MX
-http://tecnotv.club/9nov9/smartv.php?c=elcinco&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/canal5hd_thumb_hbzbxtre.png" group-title="TV PREMIUM",EL CINCO MX HD
-http://tecnotv.club/9nov9/smartv.php?c=elcincohd&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/universo_thumb.png" group-title="TV PREMIUM",UNIVERSO
-http://tecnotv.club/9nov9/smartv.php?c=universo&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/amas-loqueves_thumb_vnp10hdh.png" group-title="TV PREMIUM",A MAS MX
-http://tecnotv.club/9nov9/smartv.php?c=amas&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/aztecauno_thumb_qzhjpcjg.png" group-title="TV PREMIUM",AZTECA UNO MX
-http://tecnotv.club/9nov9/smartv.php?c=aztecauno&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/canal-nueve_thumb_k6waf67p.png" group-title="TV PREMIUM",EL NUEVE MX
-http://tecnotv.club/9nov9/smartv.php?c=elnueve&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/canal22_thumb.png" group-title="TV PREMIUM",CANAL 22
-http://tecnotv.club/9nov9/smartv.php?c=canal22&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/multimedios_thumb_1ofztmcu.png" group-title="TV PREMIUM",MULTIMEDIOS
-http://tecnotv.club/9nov9/smartv.php?c=multimedios&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/distritocomediahd_thumb_mcnzeyl4.png" group-title="TV PREMIUM",DISTRITO COMEDIA
-http://tecnotv.club/9nov9/smartv.php?c=distrito&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/unicable_thumb_sjrqxgyp.png" group-title="TV PREMIUM",UNICABLE MX
-http://tecnotv.club/9nov9/smartv.php?c=unicable&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/mvstv_thumb_gzn6vx85.png" group-title="TV PREMIUM",MVSTV MX
-http://tecnotv.club/9nov9/smartv.php?c=mvstv&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/antena3-int_thumb_rqi0xknx.png" group-title="TV PREMIUM",ANTENA 3 Int
-http://tecnotv.club/9nov9/smartv.php?c=antena3int&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/atreseries_thumb_t1n3i8af.png" group-title="TV PREMIUM",A3 SERIES
-http://tecnotv.club/9nov9/smartv.php?c=a3series&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/startve_thumb_8hmptgtk.png" group-title="TV PREMIUM",STAR TVE
-http://tecnotv.club/9nov9/smartv.php?c=startve&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/tve_thumb_qqjtz6zo.png" group-title="TV PREMIUM",TVE
-http://tecnotv.club/9nov9/smartv.php?c=tve&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/galavision_thumb_3i7ogk78.png" group-title="TV PREMIUM",GALAVISION
-http://tecnotv.club/9nov9/smartv.php?c=galavision&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/glitz_thumb_vtxvtu67.png" group-title="TV PREMIUM",GLITZ
-http://tecnotv.club/9nov9/smartv.php?c=glitz&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/telemundoint_thumb_p7xebjba.png" group-title="TV PREMIUM",TELEMUNDO Internacional
-http://tecnotv.club/9nov9/smartv.php?c=telemundoint&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/unimas_thumb_wxa71tym.png" group-title="TV PREMIUM",UNIMAS
-http://tecnotv.club/9nov9/smartv.php?c=unimas&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/univision-byn_thumb.png" group-title="TV PREMIUM",UNIV
-http://tecnotv.club/9nov9/smartv.php?c=univ-1&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/azteca-corazon_thumb_2y0z1mzn.png" group-title="TV PREMIUM",AZ CORAZON
-http://tecnotv.club/9nov9/smartv.php?c=azcorazon&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/a-e_thumb_aet0jyrv.png" group-title="TV PREMIUM",A&amp;E
-http://tecnotv.club/9nov9/smartv.php?c=ae&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/axn_thumb_jb4r8ldj.png" group-title="TV PREMIUM",AXN
-http://tecnotv.club/9nov9/smartv.php?c=axn&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/comedy-central_thumb_7wsjaz71.png" group-title="TV PREMIUM",COMEDY CENTRAL
-http://tecnotv.club/9nov9/smartv.php?c=comedy&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/E-_HD_thumb_ubsuu763.png" group-title="TV PREMIUM",Entertaiment
-http://tecnotv.club/9nov9/smartv.php?c=e&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/fx_thumb_893wqbrx.png" group-title="TV PREMIUM",FX
-http://tecnotv.club/9nov9/smartv.php?c=fx&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/id-hd_thumb_5eopp6dh.png" group-title="TV PREMIUM",INVESTIGATION Discovery
-http://tecnotv.club/9nov9/smartv.php?c=id&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/pasiones_thumb_kgs5tfda.png" group-title="TV PREMIUM",PASIONES
-http://tecnotv.club/9nov9/smartv.php?c=pasiones&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/sonyhd_thumb_7r585x1b.png" group-title="TV PREMIUM",SONY Channel
-http://tecnotv.club/9nov9/smartv.php?c=sony&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/tbs_thumb_51jyhhtw.png" group-title="TV PREMIUM",TBS
-http://tecnotv.club/9nov9/smartv.php?c=tbs&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/tele-novelas_thumb_4uevbhcn.png" group-title="TV PREMIUM",Tele Novelas
-http://tecnotv.club/9nov9/smartv.php?c=univtln&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/tlnovelas_thumb_xb9ee19s.png" group-title="TV PREMIUM",TLNovelas
-http://tecnotv.club/9nov9/smartv.php?c=tlnovelas&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/tnt-series_thumb_wtoy5jr7.png" group-title="TV PREMIUM",TNT Series
-http://tecnotv.club/9nov9/smartv.php?c=tntseries&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/true_tv_thumb_dcjone03.png" group-title="TV PREMIUM",TRU TV
-http://tecnotv.club/9nov9/smartv.php?c=trutv&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/universal-channel_thumb_mw0y1iyp.png" group-title="TV PREMIUM",UNIVERSAL TV
-http://tecnotv.club/9nov9/smartv.php?c=universal&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/warner-hd_thumb_fhauomx4.png" group-title="TV PREMIUM",WARNER TV
-http://tecnotv.club/9nov9/smartv.php?c=warner&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/azteca-cinema_thumb_rr2otvqk.png" group-title="TV PREMIUM",AZ CINEMA
-http://tecnotv.club/9nov9/smartv.php?c=azcinema&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/amc_thumb_36hzyn0i.png" group-title="TV PREMIUM",AMC
-http://tecnotv.club/9nov9/smartv.php?c=amc&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/cinecanal_thumb_a6si0aqd.png" group-title="TV PREMIUM",CINECANAL
-http://tecnotv.club/9nov9/smartv.php?c=cinecanal&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/cinemax_thumb_uyjn9wjq.png" group-title="TV PREMIUM",CINEMAX
-http://tecnotv.club/9nov9/smartv.php?c=cinemax&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/sony-cine_thumb.png" group-title="TV PREMIUM",CINE SONY
-http://tecnotv.club/9nov9/smartv.php?c=cinesony&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/dhe_thumb_efxwccar.png" group-title="TV PREMIUM",DHE
-http://tecnotv.club/9nov9/smartv.php?c=dhe&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/europa-europa_thumb_5fvv0zrs.png" group-title="TV PREMIUM",EUROPA
-http://tecnotv.club/9nov9/smartv.php?c=eur&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/film-arts_thumb_hskiue4h.png" group-title="TV PREMIUM",FILM &amp; ARTS
-http://tecnotv.club/9nov9/smartv.php?c=filmarts&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/fxm_thumb_0otuc3b6.png" group-title="TV PREMIUM",FXM
-http://tecnotv.club/9nov9/smartv.php?c=fxm&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/i-sat_thumb_mrkjq36y.png" group-title="TV PREMIUM",ISAT
-http://tecnotv.club/9nov9/smartv.php?c=isat&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/multicinema_thumb_v0dkfvdu.png" group-title="TV PREMIUM",MULTICINEMA
-http://tecnotv.club/9nov9/smartv.php?c=mc&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/morbido_thumb_afwniff2.png" group-title="TV PREMIUM",MORBIDO
-http://tecnotv.club/9nov9/smartv.php?c=morbido&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/paramount-channel_thumb_4o89e82d.png" group-title="TV PREMIUM",PARAMOUNT Channel
-http://tecnotv.club/9nov9/smartv.php?c=paramount&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/studio-universal_thumb_bznlwuul.png" group-title="TV PREMIUM",STUDIO Universal
-http://tecnotv.club/9nov9/smartv.php?c=studiouniversal&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/syfy_thumb_uk8a7igg.png" group-title="TV PREMIUM",SYFY
-http://tecnotv.club/9nov9/smartv.php?c=syfy&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/tcm_thumb_lbgqm4fy.png" group-title="TV PREMIUM",TCM
-http://tecnotv.club/9nov9/smartv.php?c=tcm&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/tnthd_thumb_osuqe2yr.png" group-title="TV PREMIUM",TNT
-http://tecnotv.club/9nov9/smartv.php?c=tnt&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/azteca-mundo_thumb_drbjrt59.png" group-title="TV PREMIUM",AZ MUNDO
-http://tecnotv.club/9nov9/smartv.php?c=azmundo&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/animal-planet_thumb_umeu0s53.png" group-title="TV PREMIUM",ANIMAL Planet
-http://tecnotv.club/9nov9/smartv.php?c=anima&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/discovery_thumb_557q3bh7.png" group-title="TV PREMIUM",DISCOVERY Channel
-http://tecnotv.club/9nov9/smartv.php?c=discoverych&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/discovery-sciencie_thumb_jpx4036r.png" group-title="TV PREMIUM",Discovery SCIENCE
-http://tecnotv.club/9nov9/smartv.php?c=dciencia&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/discovery-civilization_thumb_lgwg7wps.png" group-title="TV PREMIUM",Discovery CIVILIZATION
-http://tecnotv.club/9nov9/smartv.php?c=dcivil&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/discovery-theather-hd_thumb_57w0plxw.png" group-title="TV PREMIUM",Discovery THEATER
-http://tecnotv.club/9nov9/smartv.php?c=dtheater&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/discovery-turbo_thumb_mrk8u8o1.png" group-title="TV PREMIUM",Discovery TURBO
-http://tecnotv.club/9nov9/smartv.php?c=dturbo&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/discovery-world_thumb_a4z1w08q.png" group-title="TV PREMIUM",Discovery WORLD
-http://tecnotv.club/9nov9/smartv.php?c=dworld&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/food-network_thumb_fm8jvpw8.png" group-title="TV PREMIUM",FOOD Network
-http://tecnotv.club/9nov9/smartv.php?c=food&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/gourmet-hd_thumb_gfkwfhhx.png" group-title="TV PREMIUM",EL GOURMET
-http://tecnotv.club/9nov9/smartv.php?c=gourmet&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/lifetime_thumb_s1h9ixxd.png" group-title="TV PREMIUM",LIFE TIME
-http://tecnotv.club/9nov9/smartv.php?c=lifetime&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/history-channel_thumb_su52wnw4.png" group-title="TV PREMIUM",HISTORY Channel
-http://tecnotv.club/9nov9/smartv.php?c=history&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/h2_thumb_y6k2cd0x.png" group-title="TV PREMIUM",Histrory 2
-http://tecnotv.club/9nov9/smartv.php?c=h2&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/h-h_thumb_vcsfnsms.png" group-title="TV PREMIUM",Home &amp; Health
-http://tecnotv.club/9nov9/smartv.php?c=hh&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/holatvhd_thumb_m19ujz7i.png" group-title="TV PREMIUM",HOLA TV
-http://tecnotv.club/9nov9/smartv.php?c=holatv&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/maschic-hd_thumb_pvr0jtbt.png" group-title="TV PREMIUM",MAS CHIC
-http://tecnotv.club/9nov9/smartv.php?c=maschic&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/natgeo_thumb_jfx9xfle.png" group-title="TV PREMIUM",NATGEO
-http://tecnotv.club/9nov9/smartv.php?c=natgeo&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/nat-geo-wild_thumb_0kd65hqz.png" group-title="TV PREMIUM",Natgeo WILD
-http://tecnotv.club/9nov9/smartv.php?c=natgeowild&k=tecno&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/tlc-discovery_thumb_7dgud1ly.png" group-title="TV PREMIUM",TLC Discovery
-http://tecnotv.club/9nov9/smartv.php?c=tlc&k=tecno&f=.m3u8
+#EXTINF:-1 group-title="INFANTIL",TOONCAST
+http://tecnotv.club/15nov/geomex.php?c=108&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="INFANTIL",DISCOVERY KIDS
+http://tecnotv.club/15nov/geomex.php?c=109&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="INFANTIL",NICK
+http://tecnotv.club/15nov/geomex.php?c=110&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="INFANTIL",DISNEY XD
+http://tecnotv.club/15nov/geomex.php?c=111&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="INFANTIL",CARTOON NETWORK
+http://tecnotv.club/15nov/geomex.php?c=112&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="INFANTIL",DISNEY CHANNEL
+http://tecnotv.club/15nov/geomex.php?c=113&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="INFANTIL",sunERANG
+http://tecnotv.club/15nov/geomex.php?c=115&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 group-title="INFANTIL",BABY TV 
+http://tecnotv.club/15nov/geomex.php?c=116&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="INFANTIL",NICK JR
+http://tecnotv.club/15nov/geomex.php?c=117&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="INFANTIL",DISNEY JR
+http://tecnotv.club/15nov/geomex.php?c=118&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 group-title="INFANTIL",NICKTOONS SD 
+http://tecnotv.club/15nov/geomex.php?c=1708&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="INFANTIL",BABY FIRST
+http://tecnotv.club/15nov/geomex.php?c=1984&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="INFANTIL",NICK 2  
+http://tecnotv.club/15nov/geomex.php?c=2147&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 group-title="INFANTIL",NAT GEO KIDS  
+http://tecnotv.club/15nov/geomex.php?c=2373&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 group-title="INFANTIL",BIT ME  
+http://tecnotv.club/15nov/geomex.php?c=2591&p=3&k=tecnotv&f=.m3u8
 
 
-#EXTINF:-1 group-title="DEPORTES",AZTECA UNO MX
-http://tecnotv.club/9nov9/sport.php?c=aztecauno&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",CANAL 2 MX
-http://tecnotv.club/9nov9/sport.php?c=eldos&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",CANAL 5 MX
-http://tecnotv.club/9nov9/sport.php?c=elcinco&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",AZTECA 7 MX
-http://tecnotv.club/9nov9/sport.php?c=azteca7&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",NUEVE
-http://tecnotv.club/9nov9/sport.php?c=elnueve&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",IMAGEN TV
-http://tecnotv.club/9nov9/sport.php?c=imagentv&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",STAR ACTION
-http://tecnotv.club/9nov9/sport.php?c=staraction&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",SPACE
-http://tecnotv.club/9nov9/sport.php?c=space&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",ADRENALINA
-http://tecnotv.club/9nov9/sport.php?c=adrenalina&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",AFIZZIONADOS
-http://tecnotv.club/9nov9/sport.php?c=afizzionados&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",AyM Sports
-http://tecnotv.club/9nov9/sport.php?c=aymsports&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",BASKET AMERICAS
-http://tecnotv.club/9nov9/sport.php?c=basket&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",BEIN SPORTS Ñ
-http://tecnotv.club/9nov9/sport.php?c=beines&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",BEIN US HD
-http://tecnotv.club/9nov9/sport.php?c=beinhd&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",DIRECTV SPORTS
-http://tecnotv.club/9nov9/sport.php?c=directv&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",DIRECTV 2
-http://tecnotv.club/9nov9/sport.php?c=directv2&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",CLARO SPORTS
-http://tecnotv.club/9nov9/sport.php?c=clarosports&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN Deportes
-http://tecnotv.club/9nov9/sport.php?c=espndep&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 1 MX
-http://tecnotv.club/9nov9/sport.php?c=espn1-mx&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 2 MX
-http://tecnotv.club/9nov9/sport.php?c=espn2-mx&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 3 MX
-http://tecnotv.club/9nov9/sport.php?c=espn3-mx&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN EXTRA
-http://tecnotv.club/9nov9/sport.php?c=espnextra-mx&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 1 MX
-http://tecnotv.club/9nov9/sport.php?c=foxsports1-mx&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 2 MX
-http://tecnotv.club/9nov9/sport.php?c=foxsports2-mx&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 3 MX
-http://tecnotv.club/9nov9/sport.php?c=foxsports3-mx&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",FOX SPORTS PREMIUM
-http://tecnotv.club/9nov9/sport.php?c=foxsportsp&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",GALAVISION
-http://tecnotv.club/9nov9/sport.php?c=galavision&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",GOL PERU
-http://tecnotv.club/9nov9/sport.php?c=golperu&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",GOLTV
-http://tecnotv.club/9nov9/sport.php?c=goltv&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",GOLF CHANNEL
-http://tecnotv.club/9nov9/sport.php?c=golf&k=tecno&f=.m3u8
+#EXTINF:-1 group-title="CULTURA",DISCOVERY ID
+http://tecnotv.club/15nov/geomex.php?c=68&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="CULTURA",GARAGE TV 
+http://tecnotv.club/15nov/geomex.php?c=75&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="CULTURA",DISCOVERY CHANNEL
+http://tecnotv.club/15nov/geomex.php?c=86&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="CULTURA",ANIMAL PLANET
+http://tecnotv.club/15nov/geomex.php?c=88&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="CULTURA",HISTORY
+http://tecnotv.club/15nov/geomex.php?c=89&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="CULTURA",NAT GEO  
+http://tecnotv.club/15nov/geomex.php?c=91&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="CULTURA",NAT GEO WILD
+http://tecnotv.club/15nov/geomex.php?c=92&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 group-title="CULTURA",DISCOVERY THEATER
+http://tecnotv.club/15nov/geomex.php?c=95&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 group-title="CULTURA",H&H
+http://tecnotv.club/15nov/geomex.php?c=96&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 group-title="CULTURA",TLC
+http://tecnotv.club/15nov/geomex.php?c=97&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 group-title="CULTURA",DISCOVERY SCIENCE  
+http://tecnotv.club/15nov/geomex.php?c=98&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="CULTURA",DISCOVERY CIVILIZATION
+http://tecnotv.club/15nov/geomex.php?c=99&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="CULTURA",DISCOVERY WORLD
+http://tecnotv.club/15nov/geomex.php?c=101&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 group-title="CULTURA",TVE
+http://tecnotv.club/15nov/geomex.php?c=198&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 group-title="CULTURA",SHOPPING
+http://tecnotv.club/15nov/geomex.php?c=1943&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 group-title="CULTURA",FOOD NETWORK 
+http://tecnotv.club/15nov/geomex.php?c=2145&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 group-title="CULTURA",STAR TVE 
+http://tecnotv.club/15nov/geomex.php?c=2375&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 group-title="CULTURA",DISCOVERY TURBO
+http://tecnotv.club/15nov/geomex.php?c=2379&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="CULTURA",CURIOSITY STREAM
+http://tecnotv.club/15nov/geomex.php?c=2594&p=3&k=tecnotv&f=.m3u8
+
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO",TELEMUNDO INTERNACIONAL
+http://tecnotv.club/15nov/geomex.php?c=85&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="ENTRETENIMIENTO",FOX  
+http://tecnotv.club/15nov/geomex.php?c=46&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",SONY  
+http://tecnotv.club/15nov/geomex.php?c=48&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="ENTRETENIMIENTO",WARNER  
+http://tecnotv.club/15nov/geomex.php?c=52&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="ENTRETENIMIENTO",E!
+http://tecnotv.club/15nov/geomex.php?c=55&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="ENTRETENIMIENTO",UNIVERSAL
+http://tecnotv.club/15nov/geomex.php?c=57&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="ENTRETENIMIENTO",SYFY
+http://tecnotv.club/15nov/geomex.php?c=59&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="ENTRETENIMIENTO",FX
+http://tecnotv.club/15nov/geomex.php?c=60&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="ENTRETENIMIENTO",A&E
+http://tecnotv.club/15nov/geomex.php?c=62&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="ENTRETENIMIENTO",AXN
+http://tecnotv.club/15nov/geomex.php?c=64&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="ENTRETENIMIENTO",UNICABLE SD
+http://tecnotv.club/15nov/geomex.php?c=66&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="ENTRETENIMIENTO",SUNDANCE TV
+http://tecnotv.club/15nov/geomex.php?c=69&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 group-title="ENTRETENIMIENTO",sun SERIES
+http://tecnotv.club/15nov/geomex.php?c=71&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 group-title="ENTRETENIMIENTO",GLITZ
+http://tecnotv.club/15nov/geomex.php?c=76&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 group-title="ENTRETENIMIENTO",GOURMET 
+http://tecnotv.club/15nov/geomex.php?c=74&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",FOX LIFE
+http://tecnotv.club/15nov/geomex.php?c=77&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="ENTRETENIMIENTO",DISTRITO COMEDIA SD
+http://tecnotv.club/15nov/geomex.php?c=78&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="ENTRETENIMIENTO",TRUTV
+http://tecnotv.club/15nov/geomex.php?c=79&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 group-title="ENTRETENIMIENTO",TL NOVELAS SD
+http://tecnotv.club/15nov/geomex.php?c=83&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="ENTRETENIMIENTO",LIFETIME 
+http://tecnotv.club/15nov/geomex.php?c=94&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ANTENA 3
+http://tecnotv.club/15nov/geomex.php?c=199&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="ENTRETENIMIENTO",FOX HD 
+http://tecnotv.club/15nov/geomex.php?c=201&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",WARNER HD 
+http://tecnotv.club/15nov/geomex.php?c=205&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="ENTRETENIMIENTO",UNIVERSAL HD
+http://tecnotv.club/15nov/geomex.php?c=207&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="ENTRETENIMIENTO",FX HD
+http://tecnotv.club/15nov/geomex.php?c=209&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",TRUTV HD
+http://tecnotv.club/15nov/geomex.php?c=215&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="ENTRETENIMIENTO",HOLA TV HD
+http://tecnotv.club/15nov/geomex.php?c=219&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 group-title="ENTRETENIMIENTO",COMEDY CENTRAL
+http://tecnotv.club/15nov/geomex.php?c=340&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="ENTRETENIMIENTO",COMEDY CENTRAL SD
+http://tecnotv.club/15nov/geomex.php?c=341&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 group-title="ENTRETENIMIENTO",UNICABLE
+http://tecnotv.club/15nov/geomex.php?c=1499&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="ENTRETENIMIENTO",MAS CHIC
+http://tecnotv.club/15nov/geomex.php?c=1842&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="ENTRETENIMIENTO",A3SERIES
+http://tecnotv.club/15nov/geomex.php?c=2113&p=3&k=tecnotv&f=.m3u8
+
+
+#EXTINF:-1 group-title="CINE Y SERIES",A3CINE 
+http://tecnotv.club/15nov/geomex.php?c=3112&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 group-title="CINE Y SERIES",TBS SD  
+http://tecnotv.club/15nov/geomex.php?c=81&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 group-title="CINE Y SERIES",DE PELICULA + 
+http://tecnotv.club/15nov/geomex.php?c=121&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="CINE Y SERIES",GOLDEN +
+http://tecnotv.club/15nov/geomex.php?c=122&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="CINE Y SERIES",GOLDEN
+http://tecnotv.club/15nov/geomex.php?c=123&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="CINE Y SERIES",GOLDEN EDGE
+http://tecnotv.club/15nov/geomex.php?c=124&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 group-title="CINE Y SERIES",sun 
+http://tecnotv.club/15nov/geomex.php?c=126&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="CINE Y SERIES",TCM
+http://tecnotv.club/15nov/geomex.php?c=128&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="CINE Y SERIES",SPACE
+http://tecnotv.club/15nov/geomex.php?c=129&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="CINE Y SERIES",AMC 
+http://tecnotv.club/15nov/geomex.php?c=131&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="CINE Y SERIES",STUDIO UNIVERSAL
+http://tecnotv.club/15nov/geomex.php?c=132&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="CINE Y SERIES",I SAT  
+http://tecnotv.club/15nov/geomex.php?c=135&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="CINE Y SERIES",EUROPA CHANNEL 
+http://tecnotv.club/15nov/geomex.php?c=136&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="CINE Y SERIES",FILMS & ARTS
+http://tecnotv.club/15nov/geomex.php?c=137&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="CINE Y SERIES",FXM
+http://tecnotv.club/15nov/geomex.php?c=138&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="CINE Y SERIES",FXM SD 
+http://tecnotv.club/15nov/geomex.php?c=332&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",FOX SERIES
+http://tecnotv.club/15nov/geomex.php?c=139&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="CINE Y SERIES",MORBIDO
+http://tecnotv.club/15nov/geomex.php?c=140&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="CINE Y SERIES",FOX MOVIES 
+http://tecnotv.club/15nov/geomex.php?c=146&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="CINE Y SERIES",CINECANAL
+http://tecnotv.club/15nov/geomex.php?c=149&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="CINE Y SERIES",CINEMAX 
+http://tecnotv.club/15nov/geomex.php?c=158&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",AMC  
+http://tecnotv.club/15nov/geomex.php?c=328&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="CINE Y SERIES",DE PELICULA SD
+http://tecnotv.club/15nov/geomex.php?c=335&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="CINE Y SERIES",FOX ACTION
+http://tecnotv.club/15nov/geomex.php?c=336&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 group-title="CINE Y SERIES",PARAMOUNT CHANNEL 
+http://tecnotv.club/15nov/geomex.php?c=1726&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="CINE Y SERIES",FOX CINEMA SD
+http://tecnotv.club/15nov/geomex.php?c=1729&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="CINE Y SERIES",FOX CLASSICS SD
+http://tecnotv.club/15nov/geomex.php?c=1732&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",AZ CINEMA 
+http://tecnotv.club/15nov/geomex.php?c=1787&p=3&k=tecnotv&f=.m3u8
+
+
+#EXTINF:-1 group-title="MUSICA",MTV LIVE
+http://tecnotv.club/15nov/geomex.php?c=211&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="MUSICA",MTV
+http://tecnotv.club/15nov/geomex.php?c=212&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="MUSICA",MTV HITS SD
+http://tecnotv.club/15nov/geomex.php?c=213&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="MUSICA",VH1 CLASSIC SD
+http://tecnotv.club/15nov/geomex.php?c=214&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 group-title="MUSICA",VH1 SD 
+http://tecnotv.club/15nov/geomex.php?c=217&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="MUSICA",TELEHIT URBANO SD
+http://tecnotv.club/15nov/geomex.php?c=218&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 group-title="MUSICA",TELEHIT +
+http://tecnotv.club/15nov/geomex.php?c=220&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="MUSICA",BANDAMAX SD
+http://tecnotv.club/15nov/geomex.php?c=221&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="MUSICA",AZ CLIC
+http://tecnotv.club/15nov/geomex.php?c=223&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 group-title="MUSICA",VH1 HD
+http://tecnotv.club/15nov/geomex.php?c=334&p=3&k=tecnotv&f=.m3u8
+
+
+#EXTINF:-1 group-title="NOTICIAS",FOROTV HD
+http://tecnotv.club/15nov/geomex.php?c=4&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",FOROTV SD
+http://tecnotv.club/15nov/geomex.php?c=19&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 group-title="NOTICIAS",ADN40
+http://tecnotv.club/15nov/geomex.php?c=40&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 group-title="NOTICIAS",ADN 40 HD
+http://tecnotv.club/15nov/geomex.php?c=184&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="NOTICIAS",CNN
+http://tecnotv.club/15nov/geomex.php?c=185&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="NOTICIAS",CNN SD
+http://tecnotv.club/15nov/geomex.php?c=186&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="NOTICIAS",CNN Ñ SD
+http://tecnotv.club/15nov/geomex.php?c=187&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",WOBI 
+http://tecnotv.club/15nov/geomex.php?c=102&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 group-title="NOTICIAS",FOXN EWS
+http://tecnotv.club/15nov/geomex.php?c=188&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="NOTICIAS",BLOOMBERG 
+http://tecnotv.club/15nov/geomex.php?c=190&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="NOTICIAS",BBC SD
+http://tecnotv.club/15nov/geomex.php?c=191&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 group-title="NOTICIAS",AL JAAZERA 
+http://tecnotv.club/15nov/geomex.php?c=192&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="NOTICIAS",NTN 24
+http://tecnotv.club/15nov/geomex.php?c=194&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="NOTICIAS",JUSTICIA TV 
+http://tecnotv.club/15nov/geomex.php?c=196&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 group-title="NOTICIAS",HLN
+http://tecnotv.club/15nov/geomex.php?c=197&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 group-title="NOTICIAS",DW 
+http://tecnotv.club/15nov/geomex.php?c=203&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="NOTICIAS",RT
+http://tecnotv.club/15nov/geomex.php?c=999&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="NOTICIAS",MILENIO HD
+http://tecnotv.club/15nov/geomex.php?c=1250&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="NOTICIAS",MILENIO SD 
+http://tecnotv.club/15nov/geomex.php?c=1252&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="NOTICIAS",EXCELSIOR TV
+http://tecnotv.club/15nov/geomex.php?c=1449&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="NOTICIAS",EL FINANCIERO HD 
+http://tecnotv.club/15nov/geomex.php?c=1649&p=3&k=tecnotv&f=.m3u8  
+ #EXTINF:-1 group-title="NOTICIAS",RT ESPAÑOL
+http://tecnotv.club/15nov/geomex.php?c=2091&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 group-title="NOTICIAS",FRANCE 24
+http://tecnotv.club/15nov/geomex.php?c=2402&p=3&k=tecnotv&f=.m3u8
+
+
+#EXTINF:-1 group-title="DEPORTES",ESPN + 
+http://tecnotv.club/15nov/geomex.php?c=167&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 group-title="DEPORTES",ESPN 
+http://tecnotv.club/15nov/geomex.php?c=168&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="DEPORTES",ESPN 2
+http://tecnotv.club/15nov/geomex.php?c=169&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS
+http://tecnotv.club/15nov/geomex.php?c=170&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 2
+http://tecnotv.club/15nov/geomex.php?c=172&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="DEPORTES",TUDN
+http://tecnotv.club/15nov/geomex.php?c=174&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 3 
+http://tecnotv.club/15nov/geomex.php?c=178&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="DEPORTES",GOLF
+http://tecnotv.club/15nov/geomex.php?c=179&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="DEPORTES",AYM SPORTS
+http://tecnotv.club/15nov/geomex.php?c=180&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 group-title="DEPORTES",ESPN 3 
+http://tecnotv.club/15nov/geomex.php?c=345&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="DEPORTES",TUDN HD (2)
+http://tecnotv.club/15nov/geomex.php?c=1049&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 group-title="DEPORTES",ADRENALINA SPORTS HD
+http://tecnotv.club/15nov/geomex.php?c=1799&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="DEPORTES",LAS
+http://tecnotv.club/15nov/geomex.php?c=2089&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES",HAVOC
-http://tecnotv.club/9nov9/sport.php?c=havoc&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",NFL NETWORK
-http://tecnotv.club/9nov9/sport.php?c=nfl&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",LAS Deportes
-http://tecnotv.club/9nov9/sport.php?c=las&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",LALIGA
-http://tecnotv.club/9nov9/sport.php?c=laliga&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",M LALIGA
-http://tecnotv.club/9nov9/sport.php?c=mlaliga&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",M LIGA DE CAMPEONES
-http://tecnotv.club/9nov9/sport.php?c=mligadec&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",TELEMUNDO
-http://tecnotv.club/9nov9/sport.php?c=telemundo&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",TUDN MX
-http://tecnotv.club/9nov9/sport.php?c=tudn-mx&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",TUDN US
-http://tecnotv.club/9nov9/sport.php?c=tudn-us&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",TVC Deportes
-http://tecnotv.club/9nov9/sport.php?c=tvcdep-mx&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",TyC SPORTS
-http://tecnotv.club/9nov9/sport.php?c=tycsports&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",UNIMAS
-http://tecnotv.club/9nov9/sport.php?c=unimas&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",UNIVERSO
-http://tecnotv.club/9nov9/sport.php?c=universo&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",NBC SPORTS NET
-http://tecnotv.club/9nov9/sport.php?c=nbcsn&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",WIN SPORTS
-http://tecnotv.club/9nov9/sport.php?c=winsports&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",WIN SPORTS PLUS
-http://tecnotv.club/9nov9/sport.php?c=winplus&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",FIGHT TIME
-http://tecnotv.club/9nov9/sport.php?c=fight&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",UFC
-http://tecnotv.club/9nov9/sport.php?c=ufc&k=tecno&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",WWE
-http://tecnotv.club/9nov9/sport.php?c=wwe&k=tecno&f=.m3u8
+http://tecnotv.club/15nov/geomex.php?c=2148&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 group-title="DEPORTES",TVC DEPORTES
+http://tecnotv.club/15nov/geomex.php?c=2157&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="DEPORTES",CLARO SPORTS HD  
+http://tecnotv.club/15nov/geomex.php?c=2564&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="DEPORTES",FUEL TV HD 
+http://tecnotv.club/15nov/geomex.php?c=2587&p=3&k=tecnotv&f=.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Alf" tvg-logo="" group-title="24/7",Alf
-http://tecnotv.club/9nov9/smartv2.php?c=1836
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja" tvg-logo="" group-title="24/7",Bob Esponja
-http://tecnotv.club/9nov9/smartv2.php?c=1837
-#EXTINF:-1 tvg-id="" tvg-name="caballeros del zodiaco" tvg-logo="" group-title="24/7",caballeros del zodiaco
-http://tecnotv.club/9nov9/smartv2.php?c=1838
-#EXTINF:-1 tvg-id="" tvg-name="Desafio de fuego latinoamericana" tvg-logo="" group-title="24/7",Desafio de fuego latinoamericana
-http://tecnotv.club/9nov9/smartv2.php?c=1839
-#EXTINF:-1 tvg-id="" tvg-name="Dinosaurios" tvg-logo="" group-title="24/7",Dinosaurios
-http://tecnotv.club/9nov9/smartv2.php?c=1840
-#EXTINF:-1 tvg-id="" tvg-name="Dragon ball GT" tvg-logo="" group-title="24/7",Dragon ball GT
-http://tecnotv.club/9nov9/smartv2.php?c=1841
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super" tvg-logo="" group-title="24/7",Dragon Ball Super
-http://tecnotv.club/9nov9/smartv2.php?c=1842
-#EXTINF:-1 tvg-id="" tvg-name="Dragon ball z" tvg-logo="" group-title="24/7",Dragon ball z
-http://tecnotv.club/9nov9/smartv2.php?c=1843
-#EXTINF:-1 tvg-id="" tvg-name="El chapuli­n colorado" tvg-logo="" group-title="24/7",El chapuli­n colorado
-http://tecnotv.club/9nov9/smartv2.php?c=1844
-#EXTINF:-1 tvg-id="" tvg-name="El chavo del 8" tvg-logo="" group-title="24/7",El chavo del 8
-http://tecnotv.club/9nov9/smartv2.php?c=1845
-#EXTINF:-1 tvg-id="" tvg-name="he man" tvg-logo="" group-title="24/7",he man
-http://tecnotv.club/9nov9/smartv2.php?c=1846
-#EXTINF:-1 tvg-id="" tvg-name="Malcolm" tvg-logo="" group-title="24/7",Malcolm
-http://tecnotv.club/9nov9/smartv2.php?c=1847
-#EXTINF:-1 tvg-id="" tvg-name="Mazingerz" tvg-logo="" group-title="24/7",Mazingerz
-http://tecnotv.club/9nov9/smartv2.php?c=1848
-#EXTINF:-1 tvg-id="" tvg-name="naruto" tvg-logo="" group-title="24/7",naruto
-http://tecnotv.club/9nov9/smartv2.php?c=1849
-#EXTINF:-1 tvg-id="" tvg-name="peliculas estrenos" tvg-logo="" group-title="24/7",peliculas estrenos
-http://tecnotv.club/9nov9/smartv2.php?c=1850
-#EXTINF:-1 tvg-id="" tvg-name="pinky" tvg-logo="" group-title="24/7",pinky
-http://tecnotv.club/9nov9/smartv2.php?c=1851
-#EXTINF:-1 tvg-id="" tvg-name="pokemon" tvg-logo="" group-title="24/7",pokemon
-http://tecnotv.club/9nov9/smartv2.php?c=1852
-#EXTINF:-1 tvg-id="" tvg-name="robotech" tvg-logo="" group-title="24/7",robotech
-http://tecnotv.club/9nov9/smartv2.php?c=1853
-#EXTINF:-1 tvg-id="" tvg-name="sailor" tvg-logo="" group-title="24/7",sailor
-http://tecnotv.club/9nov9/smartv2.php?c=1854
-#EXTINF:-1 tvg-id="" tvg-name="shera" tvg-logo="" group-title="24/7",shera
-http://tecnotv.club/9nov9/smartv2.php?c=1855
-#EXTINF:-1 tvg-id="" tvg-name="simpsons" tvg-logo="" group-title="24/7",simpsons
-http://tecnotv.club/9nov9/smartv2.php?c=1856
-#EXTINF:-1 tvg-id="" tvg-name="Smallville" tvg-logo="" group-title="24/7",Smallville
-http://tecnotv.club/9nov9/smartv2.php?c=1857
-#EXTINF:-1 tvg-id="" tvg-name="South" tvg-logo="" group-title="24/7",South
-http://tecnotv.club/9nov9/smartv2.php?c=1858
-#EXTINF:-1 tvg-id="" tvg-name="Spiderman" tvg-logo="" group-title="24/7",Spiderman
-http://tecnotv.club/9nov9/smartv2.php?c=1859
-#EXTINF:-1 tvg-id="" tvg-name="Strangerthings" tvg-logo="" group-title="24/7",Strangerthings
-http://tecnotv.club/9nov9/smartv2.php?c=1860
-#EXTINF:-1 tvg-id="" tvg-name="Super campeones" tvg-logo="" group-title="24/7",Super campeones
-http://tecnotv.club/9nov9/smartv2.php?c=1861
-#EXTINF:-1 tvg-id="" tvg-name="The walking dead" tvg-logo="" group-title="24/7",The walking dead
-http://tecnotv.club/9nov9/smartv2.php?c=1862
-#EXTINF:-1 tvg-id="" tvg-name="thundercats" tvg-logo="" group-title="24/7",thundercats
-http://tecnotv.club/9nov9/smartv2.php?c=1863
-#EXTINF:-1 tvg-id="" tvg-name=" xmen" tvg-logo="" group-title="24/7", xmen
-http://tecnotv.club/9nov9/smartv2.php?c=1864
-#EXTINF:-1 tvg-id="" tvg-name="Escobar el patron del mal" tvg-logo="" group-title="24/7",Escobar el patron del mal
-http://tecnotv.club/9nov9/smartv2.php?c=1865
-#EXTINF:-1 tvg-id="" tvg-name="Los locos Addams" tvg-logo="" group-title="24/7",Los locos Addams
-http://tecnotv.club/9nov9/smartv2.php?c=1866
+*** NACIONALES ***
+#EXTINF:-1 group-title="MEXICO",ONCE NINOS (CLASES)
+http://tecnotv.club/15nov/geomex.php?c=3315&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 group-title="MEXICO",AZTECA 7.3 (CLASES)
+http://tecnotv.club/15nov/geomex.php?c=3316&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 group-title="MEXICO",AZTECA UNO HD
+http://tecnotv.club/15nov/geomex.php?c=7&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",AZ CLIC HD
+http://tecnotv.club/15nov/geomex.php?c=11&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 group-title="MEXICO",LAS ESTRELLAS
+http://tecnotv.club/15nov/geomex.php?c=17&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 group-title="MEXICO",CANAL 5
+http://tecnotv.club/15nov/geomex.php?c=20&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 group-title="MEXICO",AZTECA 7
+http://tecnotv.club/15nov/geomex.php?c=21&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 group-title="MEXICO",NU9VE
+http://tecnotv.club/15nov/geomex.php?c=24&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 group-title="MEXICO",ONCE
+http://tecnotv.club/15nov/geomex.php?c=25&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 group-title="MEXICO",AZTECA UNO
+http://tecnotv.club/15nov/geomex.php?c=27&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 group-title="MEXICO",TELEFORMULA SD
+http://tecnotv.club/15nov/geomex.php?c=32&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 group-title="MEXICO",MEXIQUENSE TV
+http://tecnotv.club/15nov/geomex.php?c=44&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",AZ CORAZON 
+http://tecnotv.club/15nov/geomex.php?c=70&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO",AZ MUNDO
+http://tecnotv.club/15nov/geomex.php?c=84&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO",AZTECA 7 HD 
+http://tecnotv.club/15nov/geomex.php?c=317&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO",AZTECA 7 HD (2)
+http://tecnotv.club/15nov/geomex.php?c=322&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO",IMAGEN TV  
+http://tecnotv.club/15nov/geomex.php?c=2298&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS MTY
+http://tecnotv.club/15nov/geomex.php?c=2305&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO",APREDNE TV
+http://tecnotv.club/15nov/geomex.php?c=401&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS CDMX
+http://tecnotv.club/15nov/geomex.php?c=1253&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 group-title="MEXICO",NU9VE HD
+http://tecnotv.club/15nov/geomex.php?c=1783&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO",LAS ESTRELLAS HD
+http://tecnotv.club/15nov/geomex.php?c=1784&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO",CANAL 5 HD (2)
+http://tecnotv.club/15nov/geomex.php?c=1785&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",ONCE HD 
+http://tecnotv.club/15nov/geomex.php?c=1942&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO",MVS TV
+http://tecnotv.club/15nov/geomex.php?c=2149&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO",TVC
+http://tecnotv.club/15nov/geomex.php?c=2156&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 group-title="MEXICO",CANAL 4 
+http://tecnotv.club/15nov/geomex.php?c=2274&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO",CANAL 8
+http://tecnotv.club/15nov/geomex.php?c=2307&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO",TELEVISA PUEBLA
+http://tecnotv.club/15nov/geomex.php?c=2312&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO",A+ 
+http://tecnotv.club/15nov/geomex.php?c=2316&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO",TVMAS
+http://tecnotv.club/15nov/geomex.php?c=2324&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO",CANAL DEL CONGRESO
+http://tecnotv.club/15nov/geomex.php?c=2331&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS CDMX
+http://tecnotv.club/15nov/geomex.php?c=2352&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO",IMAGEN TV HD  
+http://tecnotv.club/15nov/geomex.php?c=2606&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO",ACADEMIA
+http://tecnotv.club/15nov/geomex.php?c=2703&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS HD
+http://tecnotv.club/15nov/geomex.php?c=2882&p=3&k=tecnotv&f=.m3u8 
+
+
+#EXTINF:-1 group-title="24/7",CAILLOU
+http://tecnotv.club/15nov/24.php?c=65403
+#EXTINF:-1 group-title="24/7",CORAJE EL PERRO COBARDE
+http://tecnotv.club/15nov/24.php?c=65404
+#EXTINF:-1 group-title="24/7",CUENTRO GREEM
+http://tecnotv.club/15nov/24.php?c=65405
+#EXTINF:-1 group-title="24/7",DINOSAURIOS 1991
+http://tecnotv.club/15nov/24.php?c=65406
+#EXTINF:-1 group-title="24/7",DRAGON BALL 1984
+http://tecnotv.club/15nov/24.php?c=65407
+#EXTINF:-1 group-title="24/7",LOS SIMPSON
+http://tecnotv.club/15nov/24.php?c=65408
+#EXTINF:-1 group-title="24/7",SOUTH PARK
+http://tecnotv.club/15nov/24.php?c=65409
+#EXTINF:-1 group-title="24/7",THE WALKING DEAD
+http://tecnotv.club/15nov/24.php?c=65410
+#EXTINF:-1 group-title="24/7",ALF
+http://tecnotv.club/15nov/24.php?c=65411
+#EXTINF:-1 group-title="24/7",AÑOS MARAVILLOSOS 1988
+http://tecnotv.club/15nov/24.php?c=65412
+#EXTINF:-1 group-title="24/7",BARNY Y SUS AMIGOS
+http://tecnotv.club/15nov/24.php?c=65413
+#EXTINF:-1 group-title="24/7",BATMAN 1966 RETRO
+http://tecnotv.club/15nov/24.php?c=65414
+#EXTINF:-1 group-title="24/7",BATMAN ANIMADO 1992
+http://tecnotv.club/15nov/24.php?c=65415
+#EXTINF:-1 group-title="24/7",BOB ESPONJA
+http://tecnotv.club/15nov/24.php?c=65416
+#EXTINF:-1 group-title="24/7",BREAKING  BAD
+http://tecnotv.club/15nov/24.php?c=65417
+#EXTINF:-1 group-title="24/7",CABALLEROS DEL ZODIACO
+http://tecnotv.club/15nov/24.php?c=65418
+#EXTINF:-1 group-title="24/7",CANTINFLAS
+http://tecnotv.club/15nov/24.php?c=65419
+#EXTINF:-1 group-title="24/7",CASA DE LOS DIBUJOS
+http://tecnotv.club/15nov/24.php?c=65420
+#EXTINF:-1 group-title="24/7",CASO CERRADO
+http://tecnotv.club/15nov/24.php?c=65421
+#EXTINF:-1 group-title="24/7",CSI: MIAMI
+http://tecnotv.club/15nov/24.php?c=65422
+#EXTINF:-1 group-title="24/7",Death note
+http://tecnotv.club/15nov/24.php?c=65423
+#EXTINF:-1 group-title="24/7",DESAFIO SOBRE FUEGO LATIN AMERICA
+http://tecnotv.club/15nov/24.php?c=65424
+#EXTINF:-1 group-title="24/7",Dog el cazarrecompensas
+http://tecnotv.club/15nov/24.php?c=65425
+#EXTINF:-1 group-title="24/7",DON GATO Y SU PANDILLA
+http://tecnotv.club/15nov/24.php?c=65426
+#EXTINF:-1 group-title="24/7",DRAGON BALL GT 1996
+http://tecnotv.club/15nov/24.php?c=65427
+#EXTINF:-1 group-title="24/7",DRAGON BALL SUPER
+http://tecnotv.club/15nov/24.php?c=65428
+#EXTINF:-1 group-title="24/7",DRAGON BALL Z 1989
+http://tecnotv.club/15nov/24.php?c=65429
+#EXTINF:-1 group-title="24/7",El Avispón Verde
+http://tecnotv.club/15nov/24.php?c=65430
+#EXTINF:-1 group-title="24/7",EL CHAPULIN COLORADO
+http://tecnotv.club/15nov/24.php?c=65431
+#EXTINF:-1 group-title="24/7",EL CHAVO DEL 8
+http://tecnotv.club/15nov/24.php?c=65432
+#EXTINF:-1 group-title="24/7",EL CHEMA
+http://tecnotv.club/15nov/24.php?c=65433
+#EXTINF:-1 group-title="24/7",EL COYOTE Y CORRE CAMINOS
+http://tecnotv.club/15nov/24.php?c=65434
+#EXTINF:-1 group-title="24/7",EL PATRON DEL MAL
+http://tecnotv.club/15nov/24.php?c=65435
+#EXTINF:-1 group-title="24/7",EL SEÑOR DE LOS CIELOS
+http://tecnotv.club/15nov/24.php?c=65436
+#EXTINF:-1 group-title="24/7",FUTURAMA 1999
+http://tecnotv.club/15nov/24.php?c=65437
+#EXTINF:-1 group-title="24/7",HAPPY TREE FRIENDS
+http://tecnotv.club/15nov/24.php?c=65438
+#EXTINF:-1 group-title="24/7",He-Man
+http://tecnotv.club/15nov/24.php?c=65439
+#EXTINF:-1 group-title="24/7",HÉROES EN PIJAMAS
+http://tecnotv.club/15nov/24.php?c=65440
+#EXTINF:-1 group-title="24/7",JUEGO DE TRONOS
+http://tecnotv.club/15nov/24.php?c=65441
+#EXTINF:-1 group-title="24/7",LA CASA DE PAPEL
+http://tecnotv.club/15nov/24.php?c=65442
+#EXTINF:-1 group-title="24/7",LA FAMILIA MONSTERS 1964
+http://tecnotv.club/15nov/24.php?c=65443
+#EXTINF:-1 group-title="24/7",LA HORA PICO
+http://tecnotv.club/15nov/24.php?c=65444
+#EXTINF:-1 group-title="24/7",LA HORMIGA TOMICA
+http://tecnotv.club/15nov/24.php?c=65445
+#EXTINF:-1 group-title="24/7",LA PANTERA ROSA
+http://tecnotv.club/15nov/24.php?c=65446
+#EXTINF:-1 group-title="24/7",LA RISA EN VACIONES
+http://tecnotv.club/15nov/24.php?c=65447
+#EXTINF:-1 group-title="24/7",LA ROSA DE GUADALUPE
+http://tecnotv.club/15nov/24.php?c=65448
+#EXTINF:-1 group-title="24/7",LAZY TOWN
+http://tecnotv.club/15nov/24.php?c=65449
+#EXTINF:-1 group-title="24/7",LE TEMES ALA OSCURIDAD
+http://tecnotv.club/15nov/24.php?c=65450
+#EXTINF:-1 group-title="24/7",LOS LOCOS ADDAMS
+http://tecnotv.club/15nov/24.php?c=65451
+#EXTINF:-1 group-title="24/7",LOS PICA PIEDRAS
+http://tecnotv.club/15nov/24.php?c=65452
+#EXTINF:-1 group-title="24/7",LUIS MIGUEL LA SERIE 2018
+http://tecnotv.club/15nov/24.php?c=65453
+#EXTINF:-1 group-title="24/7",Malcolm in the middle 2000
+http://tecnotv.club/15nov/24.php?c=65454
+#EXTINF:-1 group-title="24/7",MasterChef PLUTO TV
+http://tecnotv.club/15nov/24.php?c=65455
+#EXTINF:-1 group-title="24/7",Mazinger Z
+http://tecnotv.club/15nov/24.php?c=65456
+#EXTINF:-1 group-title="24/7",MR BEAN
+http://tecnotv.club/15nov/24.php?c=65457
+#EXTINF:-1 group-title="24/7",Naruto
+http://tecnotv.club/15nov/24.php?c=65458
+#EXTINF:-1 group-title="24/7",Palazuelos Mi Rey |
+http://tecnotv.club/15nov/24.php?c=65459
+#EXTINF:-1 group-title="24/7",Peliculas de terror
+http://tecnotv.club/15nov/24.php?c=65460
+#EXTINF:-1 group-title="24/7",PELICULAS ESTRENOS 2018
+http://tecnotv.club/15nov/24.php?c=65461
+#EXTINF:-1 group-title="24/7",PEPPA PIG
+http://tecnotv.club/15nov/24.php?c=65462
+#EXTINF:-1 group-title="24/7",PINKY y CEREBRO
+http://tecnotv.club/15nov/24.php?c=65463
+#EXTINF:-1 group-title="24/7",Pokémon
+http://tecnotv.club/15nov/24.php?c=65464
+#EXTINF:-1 group-title="24/7",POWER RANGERS
+http://tecnotv.club/15nov/24.php?c=65465
+#EXTINF:-1 group-title="24/7",Ranma  -½
+http://tecnotv.club/15nov/24.php?c=65466
+#EXTINF:-1 group-title="24/7",ROBOTECH
+http://tecnotv.club/15nov/24.php?c=65467
+#EXTINF:-1 group-title="24/7",SAILOR MOON
+http://tecnotv.club/15nov/24.php?c=65468
+#EXTINF:-1 group-title="24/7",Shark Tank México TEP 1
+http://tecnotv.club/15nov/24.php?c=65469
+#EXTINF:-1 group-title="24/7",Shark Tank México TEP 2
+http://tecnotv.club/15nov/24.php?c=65470
+#EXTINF:-1 group-title="24/7",SHERA
+http://tecnotv.club/15nov/24.php?c=65471
+#EXTINF:-1 group-title="24/7",SMALLVILLE
+http://tecnotv.club/15nov/24.php?c=65472
+#EXTINF:-1 group-title="24/7",SPIDER-MAN
+http://tecnotv.club/15nov/24.php?c=65473
+#EXTINF:-1 group-title="24/7",STRANGER THINGS
+http://tecnotv.club/15nov/24.php?c=65474
+#EXTINF:-1 group-title="24/7",SUPER CAMPEONES
+http://tecnotv.club/15nov/24.php?c=65475
+#EXTINF:-1 group-title="24/7",THUNDERCAST
+http://tecnotv.club/15nov/24.php?c=65476
+#EXTINF:-1 group-title="24/7",Wipeout
+http://tecnotv.club/15nov/24.php?c=65477
+#EXTINF:-1 group-title="24/7",XMEN ANIME
+http://tecnotv.club/15nov/24.php?c=65478
+#EXTINF:-1 group-title="24/7", 24/7Lucha Libre AAA
+http://tecnotv.club/15nov/24.php?c=65479
+#EXTINF:-1 group-title="24/7", 24/7Lucha Libre AAA Worldwide*
+http://tecnotv.club/15nov/24.php?c=65480
+#EXTINF:-1 group-title="24/7", SIMPSONS TEM27-30
+http://tecnotv.club/15nov/24.php?c=65481
+#EXTINF:-1 group-title="24/7", SIMPSONS TEMP 18-21
+http://tecnotv.club/15nov/24.php?c=65482
+#EXTINF:-1 group-title="24/7", SIMPSONS TEMP22-26
+http://tecnotv.club/15nov/24.php?c=65483
+
 
 
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/assets/images/default/channel.id-featured-default.jpg" group-title="PLUTO TV", Pluto Tv
-http://tecnotv.club/9nov9/plutotv.php?c=5e793a7cfbdf780007f7eb75
+http://tecnotv.club/15nov/plutotv.php?c=5e793a7cfbdf780007f7eb75
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/featuredImage.jpg" group-title="PLUTO TV", Cine Suspenso
-http://tecnotv.club/9nov9/plutotv.php?c=5ddc4e8bcbb9010009b4e84f
+http://tecnotv.club/15nov/plutotv.php?c=5ddc4e8bcbb9010009b4e84f
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/featuredImage.jpg" group-title="PLUTO TV", Cine Accion
-http://tecnotv.club/9nov9/plutotv.php?c=5dcb62e63d4d8f0009f36881
+http://tecnotv.club/15nov/plutotv.php?c=5dcb62e63d4d8f0009f36881
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/featuredImage.jpg" group-title="PLUTO TV", Estrellas en Accion
-http://tecnotv.club/9nov9/plutotv.php?c=5e972a21ad709d00074195ba
+http://tecnotv.club/15nov/plutotv.php?c=5e972a21ad709d00074195ba
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/featuredImage.jpg" group-title="PLUTO TV", Cine Comedia
-http://tecnotv.club/9nov9/plutotv.php?c=5dcdde78f080d900098550e4
+http://tecnotv.club/15nov/plutotv.php?c=5dcdde78f080d900098550e4
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/featuredImage.jpg" group-title="PLUTO TV", Cine Terror
-http://tecnotv.club/9nov9/plutotv.php?c=5dcddf1ed95e740009fef7ab
+http://tecnotv.club/15nov/plutotv.php?c=5dcddf1ed95e740009fef7ab
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/featuredImage.jpg" group-title="PLUTO TV", Viajes
-http://tecnotv.club/9nov9/plutotv.php?c=5dcddfbdb7cf0e0009ae09ea
+http://tecnotv.club/15nov/plutotv.php?c=5dcddfbdb7cf0e0009ae09ea
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/featuredImage.jpg" group-title="PLUTO TV", Cine Drama
-http://tecnotv.club/9nov9/plutotv.php?c=5dcddfcb229eff00091b6bdf
+http://tecnotv.club/15nov/plutotv.php?c=5dcddfcb229eff00091b6bdf
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/featuredImage.jpg" group-title="PLUTO TV", Cocina
-http://tecnotv.club/9nov9/plutotv.php?c=5dcde0657444a40009cd2422
+http://tecnotv.club/15nov/plutotv.php?c=5dcde0657444a40009cd2422
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/featuredImage.jpg" group-title="PLUTO TV", Deportes
-http://tecnotv.club/9nov9/plutotv.php?c=5dcde07af1c85b0009b18651
+http://tecnotv.club/15nov/plutotv.php?c=5dcde07af1c85b0009b18651
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/featuredImage.jpg" group-title="PLUTO TV", Novelas
-http://tecnotv.club/9nov9/plutotv.php?c=5dcde0cc2efd2700090b7ff4
+http://tecnotv.club/15nov/plutotv.php?c=5dcde0cc2efd2700090b7ff4
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/featuredImage.jpg" group-title="PLUTO TV", Series
-http://tecnotv.club/9nov9/plutotv.php?c=5dcde1317578340009b751d0
+http://tecnotv.club/15nov/plutotv.php?c=5dcde1317578340009b751d0
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/featuredImage.jpg" group-title="PLUTO TV", Anime
-http://tecnotv.club/9nov9/plutotv.php?c=5dcde17bf6591d0009839e02
+http://tecnotv.club/15nov/plutotv.php?c=5dcde17bf6591d0009839e02
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/featuredImage.jpg" group-title="PLUTO TV", Reality
-http://tecnotv.club/9nov9/plutotv.php?c=5dcde197f6591d0009839e04
+http://tecnotv.club/15nov/plutotv.php?c=5dcde197f6591d0009839e04
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/featuredImage.jpg" group-title="PLUTO TV", Investiga
-http://tecnotv.club/9nov9/plutotv.php?c=5dcde27ffae9520009c0c75a
+http://tecnotv.club/15nov/plutotv.php?c=5dcde27ffae9520009c0c75a
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/featuredImage.jpg" group-title="PLUTO TV", Junior
-http://tecnotv.club/9nov9/plutotv.php?c=5dcde2ac4bc6c500094ab45b
+http://tecnotv.club/15nov/plutotv.php?c=5dcde2ac4bc6c500094ab45b
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/featuredImage.jpg" group-title="PLUTO TV", Cine Estelar
-http://tecnotv.club/9nov9/plutotv.php?c=5dcde437229eff00091b6c30
+http://tecnotv.club/15nov/plutotv.php?c=5dcde437229eff00091b6c30
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/featuredImage.jpg" group-title="PLUTO TV", Hogar
-http://tecnotv.club/9nov9/plutotv.php?c=5dd6ab8056beb000091fc6b6
+http://tecnotv.club/15nov/plutotv.php?c=5dd6ab8056beb000091fc6b6
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd6d935d000120009bc1132/featuredImage.jpg" group-title="PLUTO TV", Competencias
-http://tecnotv.club/9nov9/plutotv.php?c=5dd6d935d000120009bc1132
+http://tecnotv.club/15nov/plutotv.php?c=5dd6d935d000120009bc1132
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/featuredImage.jpg" group-title="PLUTO TV", Kids
-http://tecnotv.club/9nov9/plutotv.php?c=5dd6dae8ce788b0009eaf77b
+http://tecnotv.club/15nov/plutotv.php?c=5dd6dae8ce788b0009eaf77b
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/featuredImage.jpg" group-title="PLUTO TV", Velocidad
-http://tecnotv.club/9nov9/plutotv.php?c=5dd6dc7480e3550009133d4a
+http://tecnotv.club/15nov/plutotv.php?c=5dd6dc7480e3550009133d4a
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/featuredImage.jpg" group-title="PLUTO TV", Cine Familia
-http://tecnotv.club/9nov9/plutotv.php?c=5dd6ddb30a1d8a000908ed4c
+http://tecnotv.club/15nov/plutotv.php?c=5dd6ddb30a1d8a000908ed4c
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/featuredImage.jpg" group-title="PLUTO TV", Teen
-http://tecnotv.club/9nov9/plutotv.php?c=5dd6de52b9914200091f047a
+http://tecnotv.club/15nov/plutotv.php?c=5dd6de52b9914200091f047a
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/featuredImage.jpg" group-title="PLUTO TV", Cine Romance
-http://tecnotv.club/9nov9/plutotv.php?c=5dd7ea2aeab5230009986735
+http://tecnotv.club/15nov/plutotv.php?c=5dd7ea2aeab5230009986735
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/featuredImage.jpg" group-title="PLUTO TV", Animales
-http://tecnotv.club/9nov9/plutotv.php?c=5dd834c66fe2ca0009303b8d
+http://tecnotv.club/15nov/plutotv.php?c=5dd834c66fe2ca0009303b8d
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/featuredImage.jpg" group-title="PLUTO TV", Series Latinas
-http://tecnotv.club/9nov9/plutotv.php?c=5dd837642c6e9300098ad484
+http://tecnotv.club/15nov/plutotv.php?c=5dd837642c6e9300098ad484
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/featuredImage.jpg" group-title="PLUTO TV", Naturaleza
-http://tecnotv.club/9nov9/plutotv.php?c=5dd85eac039bba0009e86d1d
+http://tecnotv.club/15nov/plutotv.php?c=5dd85eac039bba0009e86d1d
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/featuredImage.jpg" group-title="PLUTO TV", Nick Clasico
-http://tecnotv.club/9nov9/plutotv.php?c=5ddd7c348520b40009c347e2
+http://tecnotv.club/15nov/plutotv.php?c=5ddd7c348520b40009c347e2
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/featuredImage.jpg" group-title="PLUTO TV", Nick Jr Club
-http://tecnotv.club/9nov9/plutotv.php?c=5ddd7cb2cbb9010009b4fe32
+http://tecnotv.club/15nov/plutotv.php?c=5ddd7cb2cbb9010009b4fe32
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5de58ef515635d00091f605d/featuredImage.jpg" group-title="PLUTO TV", Degrassi
-http://tecnotv.club/9nov9/plutotv.php?c=5de58ef515635d00091f605d
+http://tecnotv.club/15nov/plutotv.php?c=5de58ef515635d00091f605d
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/featuredImage.jpg" group-title="PLUTO TV", Series Retro
-http://tecnotv.club/9nov9/plutotv.php?c=5de802659167b10009e7deba
+http://tecnotv.club/15nov/plutotv.php?c=5de802659167b10009e7deba
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/featuredImage.jpg" group-title="PLUTO TV", Mtv Classic
-http://tecnotv.club/9nov9/plutotv.php?c=5de91b7ea86ee60009d89e75
+http://tecnotv.club/15nov/plutotv.php?c=5de91b7ea86ee60009d89e75
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/featuredImage.jpg" group-title="PLUTO TV", Telefe clasico
-http://tecnotv.club/9nov9/plutotv.php?c=5de91cf02fc07c0009910465
+http://tecnotv.club/15nov/plutotv.php?c=5de91cf02fc07c0009910465
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/featuredImage.jpg" group-title="PLUTO TV", Cine
-http://tecnotv.club/9nov9/plutotv.php?c=5defde6d6c07b50009cf0757
+http://tecnotv.club/15nov/plutotv.php?c=5defde6d6c07b50009cf0757
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/featuredImage.jpg" group-title="PLUTO TV", MasterChef
-http://tecnotv.club/9nov9/plutotv.php?c=5e3ddbd27091820009f86dd9
+http://tecnotv.club/15nov/plutotv.php?c=5e3ddbd27091820009f86dd9
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e3ddd1a3ef73b00091d5779/featuredImage.jpg" group-title="PLUTO TV", Futbol para Fans
-http://tecnotv.club/9nov9/plutotv.php?c=5e3ddd1a3ef73b00091d5779
+http://tecnotv.club/15nov/plutotv.php?c=5e3ddd1a3ef73b00091d5779
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/featuredImage.jpg" group-title="PLUTO TV", Minuto para Ganar
-http://tecnotv.club/9nov9/plutotv.php?c=5e46e64dc73db400094b5f0b
+http://tecnotv.club/15nov/plutotv.php?c=5e46e64dc73db400094b5f0b
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/featuredImage.jpg" group-title="PLUTO TV", Los archivos del FBI
-http://tecnotv.club/9nov9/plutotv.php?c=5e67d41b93312100076f3fca
+http://tecnotv.club/15nov/plutotv.php?c=5e67d41b93312100076f3fca
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e67e20c93312100076f3ffe/featuredImage.jpg" group-title="PLUTO TV", BABAR
-http://tecnotv.club/9nov9/plutotv.php?c=5e67e20c93312100076f3ffe
+http://tecnotv.club/15nov/plutotv.php?c=5e67e20c93312100076f3ffe
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/featuredImage.jpg" group-title="PLUTO TV", Anime Accion
-http://tecnotv.club/9nov9/plutotv.php?c=5e6a4d875d7ccf0007cc2cf1
+http://tecnotv.club/15nov/plutotv.php?c=5e6a4d875d7ccf0007cc2cf1
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e8f8e7598841d0007bf35b3/featuredImage.jpg" group-title="PLUTO TV", Comedy Central Stand-Up
-http://tecnotv.club/9nov9/plutotv.php?c=5e8f8e7598841d0007bf35b3
+http://tecnotv.club/15nov/plutotv.php?c=5e8f8e7598841d0007bf35b3
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/featuredImage.jpg" group-title="PLUTO TV", Peleas
-http://tecnotv.club/9nov9/plutotv.php?c=5e98b0447665f200078caded
+http://tecnotv.club/15nov/plutotv.php?c=5e98b0447665f200078caded
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/featuredImage.jpg" group-title="PLUTO TV", The New Detectives
-http://tecnotv.club/9nov9/plutotv.php?c=5ea71d48af1d0b0007d837f4
+http://tecnotv.club/15nov/plutotv.php?c=5ea71d48af1d0b0007d837f4
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/featuredImage.jpg" group-title="PLUTO TV", Rugrats Crecidos
-http://tecnotv.club/9nov9/plutotv.php?c=5ea7215005d66d0007e8128a
+http://tecnotv.club/15nov/plutotv.php?c=5ea7215005d66d0007e8128a
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5ec5761aabe4690007f6e047/featuredImage.jpg" group-title="PLUTO TV", Star Trek
-http://tecnotv.club/9nov9/plutotv.php?c=5ec5761aabe4690007f6e047
-
-
-
-#EXTINF:-1 group-title="24/7",POWER RANGERS
-http://tecnotv.club/9nov9/smartv2.php?c=303
-#EXTINF:-1 group-title="24/7",ROBOTECH
-http://tecnotv.club/9nov9/smartv2.php?c=304
-#EXTINF:-1 group-title="24/7",SAILOR MOON
-http://tecnotv.club/9nov9/smartv2.php?c=305
-#EXTINF:-1 group-title="24/7", LOS SIMPSON-
-http://tecnotv.club/9nov9/smartv2.php?c=307
-#EXTINF:-1 group-title="24/7",SMALLVILLE
-http://tecnotv.club/9nov9/smartv2.php?c=308
-#EXTINF:-1 group-title="24/7", SOUTH PARK
-http://tecnotv.club/9nov9/smartv2.php?c=309
-#EXTINF:-1 group-title="24/7",SPIDER-MAN
-http://tecnotv.club/9nov9/smartv2.php?c=310
-#EXTINF:-1 group-title="24/7",STRANGER THINGS
-http://tecnotv.club/9nov9/smartv2.php?c=311
-#EXTINF:-1 group-title="24/7",SUPER CAMPEONES
-http://tecnotv.club/9nov9/smartv2.php?c=312
-#EXTINF:-1 group-title="24/7",Peliculas de terror
-http://tecnotv.club/9nov9/smartv2.php?c=313
-#EXTINF:-1 group-title="24/7",THUNDERCAST
-http://tecnotv.club/9nov9/smartv2.php?c=314
-#EXTINF:-1 group-title="24/7", THE WALKING DEAD
-http://tecnotv.club/9nov9/smartv2.php?c=315
-#EXTINF:-1 group-title="24/7",BARNY Y SUS AMIGOS
-http://tecnotv.club/9nov9/smartv2.php?c=316
-#EXTINF:-1 group-title="24/7",BOB ESPONJA
-http://tecnotv.club/9nov9/smartv2.php?c=317
-#EXTINF:-1 group-title="24/7", CAILLOU
-http://tecnotv.club/9nov9/smartv2.php?c=318
-#EXTINF:-1 group-title="24/7",EL COYOTE Y CORRE CAMINOS
-http://tecnotv.club/9nov9/smartv2.php?c=319
-#EXTINF:-1 group-title="24/7",DESAFIO SOBRE FUEGO LATIN AMERICA
-http://tecnotv.club/9nov9/smartv2.php?c=320
-#EXTINF:-1 group-title="24/7",HAPPY TREE FRIENDS
-http://tecnotv.club/9nov9/smartv2.php?c=321
-#EXTINF:-1 group-title="24/7",LA RISA EN VACIONES
-http://tecnotv.club/9nov9/smartv2.php?c=322
-#EXTINF:-1 group-title="24/7",LAZY TOWN
-http://tecnotv.club/9nov9/smartv2.php?c=323
-#EXTINF:-1 group-title="24/7",LA PANTERA ROSA
-http://tecnotv.club/9nov9/smartv2.php?c=325
-#EXTINF:-1 group-title="24/7",PEPPA PIG
-http://tecnotv.club/9nov9/smartv2.php?c=326
-#EXTINF:-1 group-title="24/7",LA HORA PICO
-http://tecnotv.club/9nov9/smartv2.php?c=327
-#EXTINF:-1 group-title="24/7",HÉROES EN PIJAMAS
-http://tecnotv.club/9nov9/smartv2.php?c=328
-#EXTINF:-1 group-title="24/7",Shark Tank México TEP 2
-http://tecnotv.club/9nov9/smartv2.php?c=329
-#EXTINF:-1 group-title="24/7",Shark Tank México TEP 1
-http://tecnotv.club/9nov9/smartv2.php?c=330
-#EXTINF:-1 group-title="24/7",XMEN ANIME
-http://tecnotv.club/9nov9/smartv2.php?c=331
-#EXTINF:-1 group-title="24/7",BREAKING  BAD
-http://tecnotv.club/9nov9/smartv2.php?c=332
-#EXTINF:-1 group-title="24/7",CABALLEROS DEL ZODIACO
-http://tecnotv.club/9nov9/smartv2.php?c=333
-#EXTINF:-1 group-title="24/7",LA CASA DE PAPEL
-http://tecnotv.club/9nov9/smartv2.php?c=334
-#EXTINF:-1 group-title="24/7",EL CHAVO DEL 8
-http://tecnotv.club/9nov9/smartv2.php?c=335
-#EXTINF:-1 group-title="24/7",EL CHEMA
-http://tecnotv.club/9nov9/smartv2.php?c=336
-#EXTINF:-1 group-title="24/7",EL SEÑOR DE LOS CIELOS
-http://tecnotv.club/9nov9/smartv2.php?c=337
-#EXTINF:-1 group-title="24/7", CORAJE EL PERRO COBARDE
-http://tecnotv.club/9nov9/smartv2.php?c=338
-#EXTINF:-1 group-title="24/7",CSI: MIAMI
-http://tecnotv.club/9nov9/smartv2.php?c=339
-#EXTINF:-1 group-title="24/7", CUENTRO GREEM
-http://tecnotv.club/9nov9/smartv2.php?c=340
-#EXTINF:-1 group-title="24/7",DRAGON BALL SUPER
-http://tecnotv.club/9nov9/smartv2.php?c=341
-#EXTINF:-1 group-title="24/7",ALF
-http://tecnotv.club/9nov9/smartv2.php?c=342
-#EXTINF:-1 group-title="24/7",SHERA
-http://tecnotv.club/9nov9/smartv2.php?c=343
-#EXTINF:-1 group-title="24/7", DINOSAURIOS 1991
-http://tecnotv.club/9nov9/smartv2.php?c=344
-#EXTINF:-1 group-title="24/7", DRAGON BALL 1984
-http://tecnotv.club/9nov9/smartv2.php?c=345
-#EXTINF:-1 group-title="24/7",DRAGON BALL GT 1996
-http://tecnotv.club/9nov9/smartv2.php?c=346
-#EXTINF:-1 group-title="24/7",DRAGON BALL Z 1989
-http://tecnotv.club/9nov9/smartv2.php?c=347
-#EXTINF:-1 group-title="24/7",EL CHAPULIN COLORADO
-http://tecnotv.club/9nov9/smartv2.php?c=348
-#EXTINF:-1 group-title="24/7",EL PATRON DEL MAL 
-http://tecnotv.club/9nov9/smartv2.php?c=349
-#EXTINF:-1 group-title="24/7",PELICULAS ESTRENOS 2018
-http://tecnotv.club/9nov9/smartv2.php?c=350
-#EXTINF:-1 group-title="24/7",FUTURAMA 1999
-http://tecnotv.club/9nov9/smartv2.php?c=351
-#EXTINF:-1 group-title="24/7",JUEGO DE TRONOS
-http://tecnotv.club/9nov9/smartv2.php?c=352
-#EXTINF:-1 group-title="24/7",He-Man
-http://tecnotv.club/9nov9/smartv2.php?c=353
-#EXTINF:-1 group-title="24/7",LA ROSA DE GUADALUPE
-http://tecnotv.club/9nov9/smartv2.php?c=354
-#EXTINF:-1 group-title="24/7",LOS LOCOS ADDAMS
-http://tecnotv.club/9nov9/smartv2.php?c=355
-#EXTINF:-1 group-title="24/7",LA FAMILIA MONSTERS 1964
-http://tecnotv.club/9nov9/smartv2.php?c=356
-#EXTINF:-1 group-title="24/7",LUIS MIGUEL LA SERIE 2018
-http://tecnotv.club/9nov9/smartv2.php?c=357
-#EXTINF:-1 group-title="24/7",Malcolm in the middle 2000
-http://tecnotv.club/9nov9/smartv2.php?c=358
-#EXTINF:-1 group-title="24/7",AÑOS MARAVILLOSOS 1988
-http://tecnotv.club/9nov9/smartv2.php?c=359
-#EXTINF:-1 group-title="24/7",Mazinger Z
-http://tecnotv.club/9nov9/smartv2.php?c=360
-#EXTINF:-1 group-title="24/7",Naruto
-http://tecnotv.club/9nov9/smartv2.php?c=361
-#EXTINF:-1 group-title="24/7",PINKY y CEREBRO
-http://tecnotv.club/9nov9/smartv2.php?c=362
-#EXTINF:-1 group-title="24/7",Pokémon
-http://tecnotv.club/9nov9/smartv2.php?c=363
+http://tecnotv.club/15nov/plutotv.php?c=5ec5761aabe4690007f6e047
 
 #EXTINF:-1 group-title="MUSICA" tvg-id="1" tvg-name="Rewind TV" tvg-logo="https://lh3.googleusercontent.com/-DNyXu-b4s7U/Xw5ewsB00fI/AAAAAAAA21g/BxwNdcI3djYxvx4JKkpiGWruGj2DwFNkgCK8BGAsYHg/s0/2020-07-14.png", Rewind TV
 https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
