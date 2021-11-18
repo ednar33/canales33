@@ -745,7 +745,7 @@ http://tecnotv.club/15nov/geomex.php?c=1732&p=3&k=tecnotv&f=.m3u8
 http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cristianos", Enlace TV
-https://11554-1.b.cdn13.com/LiveHTTPOrigin/live/chunklist.m3u8
+https://1-349-11554-1.b.cdn13.com/LiveHTTPOrigin/live/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cristianos", Dios TeVe
 https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
