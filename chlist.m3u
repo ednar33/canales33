@@ -14,7 +14,7 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Canal 5
-https://blackghost.live/play/totalp1-112.php?c=20&p=3&k=black&f=.m3u8
+https://blackghost.live/play/totalp1-119.php?c=20&p=3&k=black&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Canal 5-2
 http://tecnotv.club/15nov/geomex.php?c=20&p=3&k=tecnotv&f=.m3u8
@@ -23,7 +23,7 @@ http://tecnotv.club/15nov/geomex.php?c=20&p=3&k=tecnotv&f=.m3u8
 http://tecnotv.club/15nov/geomex.php?c=78&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Las Estrellas
-https://blackghost.live/play/totalp1-112.php?c=17&p=3&k=black&f=.m3u8
+https://blackghost.live/play/totalp1-119.php?c=17&p=3&k=black&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Las Estrellas 2
 http://tecnotv.club/15nov/geomex.php?c=1784&p=3&k=tecnotv&f=.m3u8
@@ -71,7 +71,7 @@ https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR=
 https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/2mxdr50g
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Telever
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg/live
+https://www.youtube.com/embed/live_stream?channel=UC5EnLdE7ASjYzWt7wvT-QSg&amp;autoplay=1
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", America TeVe
 https://americateve-rokuus.amagi.tv/amRdirect/platform=rokuplayer/hls/amagi_hls_data_americate-america-teve-roku-us/CDN/playlist.m3u8
@@ -743,6 +743,9 @@ http://tecnotv.club/15nov/geomex.php?c=1732&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cristianos", Genesis TV
 http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cristianos", Enlace TV
+https://11554-1.b.cdn13.com/LiveHTTPOrigin/live/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cristianos", Dios TeVe
 https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
