@@ -73,6 +73,9 @@ https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.twitc
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Telever
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637271569/ei/sXOWYf7YIMuTuALPqIgQ/ip/2806%3A10a6%3A5%3A51f4%3Af4f6%3A34dd%3A8060%3Ad7de/id/g6QDPvuiAXM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wQwIfMu7KDJPsqQrFP3YCi4i265_6le78SmxF42bFZqeAagIgb_cG0YPPA8WVsixo-lk04-1TU15JJ5xnivpUMW-Iz2U%3D/file/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Telever 2
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg/live
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", America TeVe
 https://americateve-rokuus.amagi.tv/amRdirect/platform=rokuplayer/hls/amagi_hls_data_americate-america-teve-roku-us/CDN/playlist.m3u8
 
@@ -745,7 +748,10 @@ http://tecnotv.club/15nov/geomex.php?c=1732&p=3&k=tecnotv&f=.m3u8
 http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cristianos", Enlace TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637271400/ei/CHOWYciGBMvnugKywr2gBA/ip/2806%3A10a6%3A5%3A51f4%3Af4f6%3A34dd%3A8060%3Ad7de/id/xxhFm5RpojU.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAP55wEhBHO6yTQ-iVh2U56fcsqGywz7NFMrJTvUbdAqIAiEA-bv9axZQf8mTevpwdwolgTVqdpti5sVX6Qumx5pfwlk%3D/file/index.m3u8
+https://v4.tustreaming.cl/enlacebpbtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cristianos", Enlace TV
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UC0qFX9cnDZCMSJriRqcN37A/live
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cristianos", Dios TeVe
 https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
