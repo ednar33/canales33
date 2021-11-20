@@ -1198,124 +1198,96 @@ http://fajitasonthagrill.xyz:24561/live/delpiero1537/Rpo78218/87982.m3u8
 http://fajitasonthagrill.xyz:24561/live/delpiero1537/Rpo78218/463.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", TUDN
-http://balancer1.iptvmx.com:8081/tecno/Canal5.TecnoByte/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Telemundo
-http://balancer1.iptvmx.com:8081/tecno/Telemundoint.TecnoByte/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Star Channel
-http://195.181.163.39/LAT_Fox_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Space
-http://195.181.163.39/LAT_Space_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", TNT
-http://195.181.163.39/LAT_TNT_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Espn 2 AR
-http://195.181.163.39/DEP_ESPN_2_ARG/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Espn 3 AR
-https://qlobbidev.s.llnwi.net/bpk-tv/ESPN3/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Fox Sports AR
-http://195.181.163.39/DEP_FOX_SPORTS_ARG/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Fox Sports 2 AR
-http://195.181.163.39/DEP_FOX_SPORTS_2_ARG/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Fox Sports 3 AR
-http://195.181.163.39/DEP_FOX_SPORTS_3_ARG/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", TNT Sports
-http://195.181.163.39:80/DEP_TNT_SPORTS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Win Sports
-http://195.181.163.39:80/DEP_WIN_SPORTS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Cinecanal
-http://195.181.163.39/LAT_Cinecanal_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Azteca 7
-http://195.181.163.39/LAT_Azteca_7_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", TNT Series
-http://195.181.163.39/LAT_TNT_Series_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Star Life
-http://195.181.163.39/LAT_Fox_Life_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", DirecTV Sports
-http://195.181.163.39/ECU-DIRECTTV_SP1/index.m3u8
-#EXTINF:-1,DirecTV Sports 2
-http://195.181.163.39/ECU-DIRECTTV_SP2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", America TV
-https://qlobbidev.s.llnwi.net/bpk-tv/AMERICATV/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Latina
-https://qlobbidev.s.llnwi.net/bpk-tv/LATINA/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Golden Edge
-https://qlobbidev.s.llnwi.net/bpk-tv/GEDGE/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Golden
-https://qlobbidev.s.llnwi.net/bpk-tv/GOLDEN/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Azteca Corazon
-https://qlobbidev.s.llnwi.net/bpk-tv/AZCORAZON/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Azteca Clic
-https://qlobbidev.s.llnwi.net/bpk-tv/AZLIC/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Azteca Cinema
-https://qlobbidev.s.llnwi.net/bpk-tv/AZCINEMA/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Azteca Mundo
-https://qlobbidev.s.llnwi.net/bpk-tv/AZMUNDO/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", De Película
-https://qlobbidev.s.llnwi.net/bpk-tv/DEPELICULA/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Panamericana
-https://qlobbidev.s.llnwi.net/bpk-tv/PANAMERICANA/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", La Tele
-https://qlobbidev.s.llnwi.net/bpk-tv/LATELE/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Las Estrellas
-https://qlobbidev.s.llnwi.net/bpk-tv/ESTRELLAS/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Disney XD
-https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYXD/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Disney Channel
-https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYCHANNEL/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Disney Junior
-https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYJUNIOR/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Nat Geo Wild
-https://qlobbidev.s.llnwi.net/bpk-tv/NATGEOWILD/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", ATV Plus
-https://qlobbidev.s.llnwi.net/bpk-tv/ATVHD/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Exitosa
-https://qlobbidev.s.llnwi.net/bpk-tv/LAEXITOSA/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", ATV Sur
-https://qlobbidev.s.llnwi.net/bpk-tv/ATVSURHD/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Distrito Comedia
-https://qlobbidev.s.llnwi.net/bpk-tv/HISTORY2/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Venus
-https://qlobbidev.s.llnwi.net/bpk-tv/VENUS/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", TV Peru
-https://qlobbidev.s.llnwi.net/bpk-tv/TVPERU/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", AMC
-https://qlobbidev.s.llnwi.net/bpk-tv/AMC/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Canal RCN
-https://qlobbidev.s.llnwi.net/bpk-tv/RCN/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", TlNovelas
-https://qlobbidev.s.llnwi.net/bpk-tv/MERIDIANO/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", National Geographic
-https://qlobbidev.s.llnwi.net/bpk-tv/NATGEO/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", FX
-https://qlobbidev.s.llnwi.net/bpk-tv/FX/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", El Gourmet
-https://qlobbidev.s.llnwi.net/bpk-tv/GOURMET/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Europa Europa
-https://qlobbidev.s.llnwi.net/bpk-tv/EUROPA/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", DHE
-https://qlobbidev.s.llnwi.net/bpk-tv/DHE/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", MTV
-http://195.181.163.39/LAT_MTV_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", TLC
-http://195.181.163.39/LAT_TLC_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Boomerang
-http://195.181.163.39/LAT_Boomerang_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Fox Sports Premium
-http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Telefé
-http://edge1.stg.cvattv.com.ar/live/live2/TelefeHD/SA_Live_fta/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", A&E HD
+http://45.176.70.89:8000/play/a00x
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", AXN HD
+http://45.176.70.89:8000/play/a00w
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", BOOMERANG
+http://45.176.70.89:8000/play/a00b
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", CAROLINA TV
+http://45.176.70.89:8000/play/a018
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", CARTOON
+http://45.176.70.89:8000/play/a00a
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", CGTN
+http://45.176.70.89:8000/play/a01i
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", CNN
-http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", E! Entertainment
-http://190.210.221.119/Processor3_1_chunklist_b1300000.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", ADN 40
-http://balancer1.iptvmx.com:8081/tecno/ADN40.TecnoByte/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", A&E
-http://195.181.163.39/LAT_A&E_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Lifetime
-http://195.181.163.39/LAT_Lifetime_HD/index.m3u8
+http://45.176.70.89:8000/play/a00c
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", CONECTA TV
+http://45.176.70.89:8000/play/a00m
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Dios Te Ve Kids
+http://45.176.70.89:8000/play/a01c
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", E! Entertainment TV
+http://45.176.70.89:8000/play/a00y
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", ECUAVISA ECUADOR
+http://45.176.70.89:8000/play/a00i
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", ENLACE
+http://45.176.70.89:8000/play/a00h
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", EURONEWS HD
+http://45.176.70.89:8000/play/a00r
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", FMH FAMILY
+http://45.176.70.89:8000/play/a003
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", FMH KIDS
+http://45.176.70.89:8000/play/a004
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", FMH MOVIES
+http://45.176.70.89:8000/play/a002
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", FRANCE 24
+http://45.176.70.89:8000/play/a019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", GOLDEN
+http://45.176.70.89:8000/play/a017
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", HISTORY CHANNEL
+http://45.176.70.89:8000/play/a00z
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", HISTORY CHANNEL 2
+http://45.176.70.89:8000/play/a010
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", HTV
+http://45.176.70.89:8000/play/a00d
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", KIZZY
+http://45.176.70.89:8000/play/a006
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", MUNDO +
+http://45.176.70.89:8000/play/a01d
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", OROMAR TV
+http://45.176.70.89:8000/play/a00j
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", RETRO PLUS 2 HD
+http://45.176.70.89:8000/play/a00p
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", RETRO PLUS HD
+http://45.176.70.89:8000/play/a00o
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", REWIND
+http://45.176.70.89:8000/play/a005
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", SONY
+http://45.176.70.89:8000/play/a011
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", SPACE
+http://45.176.70.89:8000/play/a009
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", STANDUP
+http://45.176.70.89:8000/play/a01g
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", STUDIO UNIVERSAL
+http://45.176.70.89:8000/play/a012
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", SURAM
+http://45.176.70.89:8000/play/a00q
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", SYFY
+http://45.176.70.89:8000/play/a015
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", TC HD
+http://45.176.70.89:8000/play/a01b
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", TCM
+http://45.176.70.89:8000/play/a00v
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", TELEAMAZONAS HD
+http://45.176.70.89:8000/play/a01a
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", TELEMUNDO
+http://45.176.70.89:8000/play/a016
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", TLT
+http://45.176.70.89:8000/play/a00g
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", TNT
+http://45.176.70.89:8000/play/a008
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", TNT SERIES
+http://45.176.70.89:8000/play/a007
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", TOONCAST
+http://45.176.70.89:8000/play/a00k
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", UNIVERSAL
+http://45.176.70.89:8000/play/a013
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", WARNER
+http://45.176.70.89:8000/play/a014
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", ZONA LATINA
+http://45.176.70.89:8000/play/a01e
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Claro Sports 1
 https://claro-jw.cdn.vustreams.com/live/channel05/live.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Claro Sports 2
@@ -1324,54 +1296,7 @@ https://claro-jw.cdn.vustreams.com/live/channel06/live.isml/master.m3u8
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Claro Sports 4
 https://claro-jw.cdn.vustreams.com/live/channel08/live.isml/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Star Action
-http://balancer1.iptvmx.com:8081/tecno/FoxAction.Tecnobyte/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Afizzionados
-http://balancer1.iptvmx.com:8081/tecno/Afizzionados.Tecnobyte/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Star Fun
-http://balancer1.iptvmx.com:8081/tecno/FoxFamily.Tecnobyte/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Star Series
-http://balancer1.iptvmx.com:8081/tecno/FoxSeries.Tecnobyte/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Star Comedy
-http://balancer1.iptvmx.com:8081/tecno/FOXCOMEDY.TecnoByte/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", HBO
-http://balancer1.iptvmx.com:8081/tecno/HBO.Tecnobyte/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", HBO 2
-http://balancer1.iptvmx.com:8081/tecno/Hbo2.Tecnobyte/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", HBO Plus
-http://balancer1.iptvmx.com:8081/tecno/HboPlus.Tecnobyte/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", HBO Signature
-http://balancer1.iptvmx.com:8081/tecno/HboSignature.Tecnobyte/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", HBO Family
-http://balancer1.iptvmx.com:8081/tecno/HboFamily.Tecnobyte/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", HBO Pop
-http://balancer1.iptvmx.com:8081/tecno/HBOPOP.Tecnobyte/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Telemundo
-http://balancer1.iptvmx.com:8081/tecno/Telemundoint.TecnoByte/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Studio Universal
-http://balancer1.iptvmx.com:8081/tecno/StudioUniversal.TecnoByte/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Fox Sports MX
-http://balancer1.iptvmx.com:8081/tecno/FoxSports1.BKR/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Fox Sports MX 2
-http://balancer1.iptvmx.com:8081/tecno/FoxSports2.BKR/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Fox Sports MX 3
-http://balancer1.iptvmx.com:8081/tecno/FoxSports3.BKR/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", TUDN
-http://balancer1.iptvmx.com:8081/tecno/Canal5.TecnoByte/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Golden Plus
-http://balancer1.iptvmx.com:8081/tecno/GoldenPlus.TecnoByte/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Golden Premier
-http://balancer1.iptvmx.com:8081/tecno/GoldenPremier.Tecnobyte/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Nick
-http://balancer1.iptvmx.com:8081/tecno/Nick.TecnoByte/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Telefé
-http://balancer1.iptvmx.com:8081/tecno/Telefe.TecnoByte/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Antena 3
-http://balancer1.iptvmx.com:8081/tecno/Antena3.TecnoByte/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Gala TV
-http://balancer1.iptvmx.com:8081/tecno/GalaTV.TecnoByte/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Canal Once
-http://balancer1.iptvmx.com:8081/tecno/Canal11.TecnoByte/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Movistar Deportes
 http://31.220.41.86:8081/live/es-movistar-deportes2.stream/playlist.m3u8
