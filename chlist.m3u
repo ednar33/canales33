@@ -748,6 +748,7 @@ http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8
 https://v4.tustreaming.cl/enlacebpbtv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cristianos", Enlace TV
+http://45.176.70.89:8000/play/a00h
 https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UC0qFX9cnDZCMSJriRqcN37A/live
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cristianos", Dios TeVe
@@ -1371,6 +1372,11 @@ http://balancer1.iptvmx.com:8081/tecno/Antena3.TecnoByte/chunks.m3u8
 http://balancer1.iptvmx.com:8081/tecno/GalaTV.TecnoByte/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Canal Once
 http://balancer1.iptvmx.com:8081/tecno/Canal11.TecnoByte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", Movistar Deportes
+http://31.220.41.86:8081/live/es-movistar-deportes2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Prueba", La Liga
+http://31.220.41.86:8081/live/es-laligatvbar.stream/playlist.m3u8
 
 
 
