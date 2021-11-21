@@ -74,7 +74,7 @@ https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.twitc
 https://www.youtube.com/embed/live_stream?channel=UC5EnLdE7ASjYzWt7wvT-QSg&autoplay=1
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Telever 2
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637478199/ei/15qZYfr9J56D2_gP696_mAc/id/g6QDPvuiAXM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOCq-gr8PaBWw2STVUwDdcdA2DMqsl4FGgwEkSLjYn7kAiB3Zo6KGNMVh1daCmRNS5TJXZU_xX2fhSm3KHu_oJyLqw%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637478199/ei/15qZYfr9J56D2_gP696_mAc/ip/201.111.240.140/id/g6QDPvuiAXM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOCq-gr8PaBWw2STVUwDdcdA2DMqsl4FGgwEkSLjYn7kAiB3Zo6KGNMVh1daCmRNS5TJXZU_xX2fhSm3KHu_oJyLqw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", America TeVe
 https://americateve-rokuus.amagi.tv/amRdirect/platform=rokuplayer/hls/amagi_hls_data_americate-america-teve-roku-us/CDN/playlist.m3u8
