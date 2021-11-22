@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Actualizacion", Visita Canales33.tk
 http://canales33.tk
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Actualizacion", Actualizado el 15/Nov/2021
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Actualizacion", Actualizado el 22/Nov/2021
 https://facebook.com/ednar33tv
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", a+
@@ -131,7 +131,7 @@ https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/33
 https://mdstrm.com/live-stream-playlist-v/5c928b7f6d6f41084bdae898.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Chilevision 2
-http://186.67.117.178:8081/play/a00y/index.m3u8
+http://186.67.117.178:8081/play/a00y/index.m3u8  http://186.67.117.178:8081/play/a00y
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Mi TV (Retro)
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
