@@ -1,3 +1,4 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml"
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Actualizacion", Visita Canales33.tk
 http://canales33.tk
@@ -30,6 +31,9 @@ http://tecnotv.club/22n21/geomex.php?c=1784&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Las Estrellas 3
 http://38.131.11.9:1080/play/a032/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Canal Once
+http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Mexiquense
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/chunklist_w1569948690.m3u8
@@ -139,7 +143,7 @@ https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/33
 https://mdstrm.com/live-stream-playlist-v/5c928b7f6d6f41084bdae898.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Chilevision 2
-http://186.67.117.178:8081/play/a00y/index.m3u8  http://186.67.117.178:8081/play/a00y
+https://mdstrm.com/live-stream-playlist/5cc0855ddf297e136a586daa.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Mi TV (Retro)
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
@@ -179,6 +183,9 @@ http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", UCL 
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", TV Marti - Cuba
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Telemundo 1
 https://wnjulive-lh.akamaihd.net/i/NY_STREAM7@183615/master.m3u8
