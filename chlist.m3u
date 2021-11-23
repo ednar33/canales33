@@ -40,6 +40,9 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Telemax
 https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Teleplay
+https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", TVP Culiacan
 https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/.m3u8
 
@@ -72,6 +75,11 @@ https://www.youtube.com/embed/live_stream?channel=UC5EnLdE7ASjYzWt7wvT-QSg&autop
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Telever 2
 https://www.youtube.com/watch?v=UC5EnLdE7ASjYzWt7wvT-QSg
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Presumiendo México
+https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", America TeVe
 https://americateve-rokuus.amagi.tv/amRdirect/platform=rokuplayer/hls/amagi_hls_data_americate-america-teve-roku-us/CDN/playlist.m3u8
@@ -166,6 +174,9 @@ https://www.dailymotion.com/embed/video/x7wijay?autoplay=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Telecinco
 http://91.126.141.13:1935/live/61/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Venevision
+http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Telemundo 1
 https://wnjulive-lh.akamaihd.net/i/NY_STREAM7@183615/master.m3u8
 
@@ -226,6 +237,9 @@ https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", AFV
 https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Ecuavisa
+http://173.212.247.99/hls/tvec2.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Niños", Baby Shark TV
@@ -268,11 +282,15 @@ https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Noticias", adn40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Noticias", Foro TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Noticias", Uno TV
+https://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Noticias", Estrella News
 https://estrellanews-plex.amagi.tv/playlist.m3u8
@@ -288,6 +306,7 @@ https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Noticias", Euronews ES
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", A3Cine
@@ -431,6 +450,9 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", beIN La Liga
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8?mvk
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", TyC Sports
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Best Cable Sports Perú
 https://tv.siete.us/bestcablesports/bestcablesports/index.m3u8
 
@@ -472,6 +494,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07e
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Pluto AAA
 https://stitcher.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4d17b57e-7af5-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Combat Go
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=726&live=1
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", Cartelera Premiere HD
