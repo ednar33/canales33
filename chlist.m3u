@@ -822,8 +822,7 @@ http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8
 https://v4.tustreaming.cl/enlacebpbtv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cristianos", Enlace TV
-http://45.176.70.89:8000/play/a00h
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UC0qFX9cnDZCMSJriRqcN37A/live
+http://mags.vip:2086/live/shenzi/shenzi/66571.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cristianos", Dios TeVe
 https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
