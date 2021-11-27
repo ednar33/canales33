@@ -539,6 +539,31 @@ https://stitcher.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Combat Go
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=726&live=1
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", * NBA TV
+http://tv.nousiptv.com:8080/live/rommy/12345/358.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", * NBA TV HD
+http://tv.nousiptv.com:8080/live/rommy/12345/3964.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", * NHL
+http://tv.nousiptv.com:8080/live/rommy/12345/4015.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", * NFL Network
+http://tv.nousiptv.com:8080/live/rommy/12345/3695.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", * NFL Red Zone
+http://tv.nousiptv.com:8080/live/rommy/12345/1091617.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", * MLB Network
+http://tv.nousiptv.com:8080/live/rommy/12345/3224.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", * MLB Strike Zone
+http://tv.nousiptv.com:8080/live/rommy/12345/17173.m3u8
+
+
+
+
+
 
 
 
