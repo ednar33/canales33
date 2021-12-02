@@ -1,0 +1,44 @@
+#EXTM3U x-tvg-url="https://techzyon.com/epg/roku_guide.xml" url-tvg="https://techzyon.com/epg/roku_guide.xml" refresh="3600"
+
+#EXTINF:-1 tvg-ID="HBOE" tvg-name="HBOE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="Movies",HBO (East)
+https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
+
+#EXTINF:-1 tvg-ID="HBOW" tvg-name="HBOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="Movies",HBO (West)
+https://edge.roku-live.top.comcast.net/out/u/hbo-west.m3u8
+
+#EXTINF:-1 tvg-ID="CINE" tvg-name="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png" group-title="Movies",Cinemax (East)
+https://edge.roku-live.top.comcast.net/out/u/cinemax-east.m3u8
+
+#EXTINF:-1 tvg-ID="CINW" tvg-name="CINW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png" group-title="Movies",Cinemax (West)
+https://edge.roku-live.top.comcast.net/out/u/cinemax-west.m3u8
+
+#EXTINF:-1 tvg-ID="SHOE" tvg-name="SHOE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/500px-Showtime.svg.png" group-title="Movies",Showtime (East)
+https://edge.roku-live.top.comcast.net/out/u/showtime-east.m3u8
+
+#EXTINF:-1 tvg-ID="SHOW" tvg-name="SHOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/500px-Showtime.svg.png" group-title="Movies",Showtime (West)
+https://edge.roku-live.top.comcast.net/out/u/showtime-west.m3u8
+
+#EXTINF:-1 tvg-ID="STAW" tvg-name="STAW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Starz_2016.svg/500px-Starz_2016.svg.png" group-title="Movies",STARZ (West)
+https://edge.roku-live.top.comcast.net/out/u/starz-west.m3u8
+
+#EXTINF:-1 tvg-ID="STAE" tvg-name="STAE" tvg-logo="https://www.pngkey.com/png/full/335-3358841_the-previous-logos-were-introduced-in-2005-as.png" group-title="Movies",STARZ Encore (East)
+https://edge.roku-live.top.comcast.net/out/u/starz-encore.m3u8
+
+#EXTINF:-1 tvg-ID="EPIE" tvg-name="EPIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Epix_Logo_2009.svg/500px-Epix_Logo_2009.svg.png" group-title="Movies",Epix (East)
+https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
+
+#EXTINF:-1 tvg-ID="EPIE2" tvg-name="EPIE2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Epix_Logo_2009.svg/500px-Epix_Logo_2009.svg.png" group-title="Movies",Epix 2 (East)
+https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" group-title="UK",ITV (UK)
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/gb/ITV2.uk.png" group-title="UK",ITV2 (UK)
+http://51.52.156.22:8888/http/005
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/gb/ITV3.uk.png" group-title="UK",ITV3 (UK)
+http://51.52.156.22:8888/http/006
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/gb/ITV4.uk.png" group-title="UK",ITV4 (UK)
+http://51.52.156.22:8888/http/00
+
