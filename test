@@ -30,15 +30,194 @@ https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
 #EXTINF:-1 tvg-ID="EPIE2" tvg-name="EPIE2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Epix_Logo_2009.svg/500px-Epix_Logo_2009.svg.png" group-title="Movies",Epix 2 (East)
 https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" group-title="UK",ITV (UK)
-http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/gb/ITV2.uk.png" group-title="UK",ITV2 (UK)
-http://51.52.156.22:8888/http/005
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/gb/ITV3.uk.png" group-title="UK",ITV3 (UK)
-http://51.52.156.22:8888/http/006
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/gb/ITV4.uk.png" group-title="UK",ITV4 (UK)
-http://51.52.156.22:8888/http/00
+
+#EXTINF:-1 group-title="DEPORTE", Bein Sport Ñ
+http://user.tvcluboficial.com/stream/nov/nov/477.m3u8
+
+#EXTINF:-1 group-title="DEPORTE", Bein Sport Ñ
+http://user.tvcluboficial.com/stream/nov/nov/511.m3u8
+
+#EXTINF:-1 group-title="DEPORTE", Bein Sport Ñ
+http://user.tvcluboficial.com/stream/nov/nov/376.m3u8
+
+#EXTINF:-1 group-title="DEPORTE", Claro Sports
+http://user.tvcluboficial.com/stream/nov/nov/328.m3u8
+
+#EXTINF:-1 group-title="DEPORTE", ESPN 
+http://user.tvcluboficial.com/stream/nov/nov/35.m3u8
+
+#EXTINF:-1 group-title="DEPORTE", ESPN AR
+http://user.tvcluboficial.com/stream/nov/nov/486.m3u8
+
+#EXTINF:-1 group-title="DEPORTE", ESPN MX
+http://user.tvcluboficial.com/stream/nov/nov/531.m3u8
+
+#EXTINF:-1 group-title="DEPORTE", ESPN 2
+http://user.tvcluboficial.com/stream/nov/nov/484.m3u8
+
+#EXTINF:-1 group-title="DEPORTE", ESPN 2 MX
+http://user.tvcluboficial.com/stream/nov/nov/530.m3u8
+
+#EXTINF:-1 group-title="DEPORTE", ESPN 3
+http://user.tvcluboficial.com/stream/nov/nov/485.m3u8
+
+#EXTINF:-1 group-title="DEPORTE", ESPN Extra
+http://user.tvcluboficial.com/stream/nov/nov/487.m3u8
+
+#EXTINF:-1 group-title="DEPORTE", Fox Sports AR
+http://user.tvcluboficial.com/stream/nov/nov/402.m3u8
+
+#EXTINF:-1 group-title="DEPORTE", Fox Sports MX
+http://user.tvcluboficial.com/stream/nov/nov/493.m3u8
+
+#EXTINF:-1 group-title="DEPORTE", Fox Sports MX (2)
+http://user.tvcluboficial.com/stream/nov/nov/527.m3u8
+
+#EXTINF:-1 group-title="DEPORTE", Fox Sports 2 AR
+http://user.tvcluboficial.com/stream/nov/nov/410.m3u8
+
+#EXTINF:-1 group-title="DEPORTE", Fox Sports 2 MX
+http://user.tvcluboficial.com/stream/nov/nov/494.m3u8
+
+#EXTINF:-1 group-title="DEPORTE", Fox Sports 3 AR
+http://user.tvcluboficial.com/stream/nov/nov/511.m3u8
+
+#EXTINF:-1 group-title="DEPORTE", Fox Sports Premium
+http://user.tvcluboficial.com/stream/nov/nov/658.m3u8
+
+#EXTINF:-1 group-title="DEPORTE", Gol TV
+http://user.tvcluboficial.com/stream/nov/nov/514.m3u8
+
+#EXTINF:-1 group-title="DEPORTE", Movistar Liga de Campeones
+http://user.tvcluboficial.com/stream/nov/nov/367.m3u8
+
+#EXTINF:-1 group-title="DEPORTE", TNT Sports
+http://user.tvcluboficial.com/stream/nov/nov/509.m3u8
+
+#EXTINF:-1 group-title="DEPORTE", TNT Sports 2
+http://user.tvcluboficial.com/stream/nov/nov/318.m3u8
+
+#EXTINF:-1 group-title="DEPORTE", NFL Network
+http://user.tvcluboficial.com/stream/nov/nov/204.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="VARIEDADES", Las Estrellas
+http://user.tvcluboficial.com/stream/nov/nov/411.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Nat Geo Kids
+http://user.tvcluboficial.com/stream/nov/nov/412.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", TLnovelas
+http://user.tvcluboficial.com/stream/nov/nov/413.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Desconocido
+http://user.tvcluboficial.com/stream/nov/nov/416.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", A3S Internacional
+http://user.tvcluboficial.com/stream/nov/nov/444.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", adn40
+http://user.tvcluboficial.com/stream/nov/nov/447.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", AyE
+http://user.tvcluboficial.com/stream/nov/nov/474.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", AMC
+http://user.tvcluboficial.com/stream/nov/nov/475.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", AXN
+http://user.tvcluboficial.com/stream/nov/nov/476.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Cinecanal
+http://user.tvcluboficial.com/stream/nov/nov/479.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Comedy Central
+http://user.tvcluboficial.com/stream/nov/nov/480.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", De Pelicula
+http://user.tvcluboficial.com/stream/nov/nov/481.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", E!
+http://user.tvcluboficial.com/stream/nov/nov/482.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", FXM
+http://user.tvcluboficial.com/stream/nov/nov/488.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Star Channel
+http://user.tvcluboficial.com/stream/nov/nov/489.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Star Action
+http://user.tvcluboficial.com/stream/nov/nov/490.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Star Hits
+http://user.tvcluboficial.com/stream/nov/nov/491.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Star Series
+http://user.tvcluboficial.com/stream/nov/nov/492.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", FX
+http://user.tvcluboficial.com/stream/nov/nov/495.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Sony
+http://user.tvcluboficial.com/stream/nov/nov/498.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Space
+http://user.tvcluboficial.com/stream/nov/nov/499.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", TNT
+http://user.tvcluboficial.com/stream/nov/nov/500.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Universal
+http://user.tvcluboficial.com/stream/nov/nov/502.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Warner
+http://user.tvcluboficial.com/stream/nov/nov/503.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Star Series
+http://user.tvcluboficial.com/stream/nov/nov/303.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Latina Peru
+http://user.tvcluboficial.com/stream/nov/nov/317.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Imagen TV
+http://user.tvcluboficial.com/stream/nov/nov/341.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Movistar Accion
+http://user.tvcluboficial.com/stream/nov/nov/364.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Caracol Colombia
+http://user.tvcluboficial.com/stream/nov/nov/391.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Paramount
+http://user.tvcluboficial.com/stream/nov/nov/200.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
