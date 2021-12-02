@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Actualizacion", Visita Canales33.tk
 http://canales33.tk
