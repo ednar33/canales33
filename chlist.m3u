@@ -199,6 +199,9 @@ https://wtmolive-lh.akamaihd.net/i/WTMO_LIVE1@749969/index_1500_av-b.m3u8?sd=10&
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Telemundo 3
 http://iphone-streaming.ustream.tv/ustreamVideo/21733416/streams/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Telemundo Internacional
+http://go.iptvhn.net:25461/live/iptvm3u/iptvm3u/6640.ts.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Mas Chic
 https://amc-maschic-1.plex.wurl.com/manifest/playlist.m3u8
 
@@ -513,6 +516,18 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", beIN La Liga
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8?mvk
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", beIN Sports
+http://go.iptvhn.net:25461/live/iptvm3u/iptvm3u/6682.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", La Liga TV Bar
+http://go.iptvhn.net:25461/live/iptvm3u/iptvm3u/6683.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Sky Sports
+http://go.iptvhn.net:25461/live/iptvm3u/iptvm3u/6687.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", DirecTV Sports+
+http://go.iptvhn.net:25461/live/iptvm3u/iptvm3u/6703.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", TyC Sports
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
