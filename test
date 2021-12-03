@@ -43,6 +43,9 @@ http://user.tvcluboficial.com/stream/nov/nov/511.m3u8
 #EXTINF:-1 group-title="DEPORTE", Bein Sport Ñ
 http://user.tvcluboficial.com/stream/nov/nov/376.m3u8
 
+#EXTINF:-1 group-title="DEPORTE", Bein Sport Ñ
+http://user.tvcluboficial.com/stream/nov/nov/09.m3u8
+
 #EXTINF:-1 group-title="DEPORTE", Claro Sports
 http://user.tvcluboficial.com/stream/nov/nov/328.m3u8
 
@@ -200,10 +203,146 @@ http://user.tvcluboficial.com/stream/nov/nov/391.m3u8
 #EXTINF:-1 group-title="VARIEDADES", Paramount
 http://user.tvcluboficial.com/stream/nov/nov/200.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES", Warner
+http://user.tvcluboficial.com/stream/nov/nov/102.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES", Formula TV
+http://user.tvcluboficial.com/stream/nov/nov/192.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES", Az Cinema
+http://user.tvcluboficial.com/stream/nov/nov/186.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES", Nick
+http://user.tvcluboficial.com/stream/nov/nov/184.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES", AMC
+http://user.tvcluboficial.com/stream/nov/nov/183.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", TNT
+http://user.tvcluboficial.com/stream/nov/nov/179.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", TBS
+http://user.tvcluboficial.com/stream/nov/nov/171.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Comedy Central 
+http://user.tvcluboficial.com/stream/nov/nov/135.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Az Mundo
+http://user.tvcluboficial.com/stream/nov/nov/167.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Az Corazon
+http://user.tvcluboficial.com/stream/nov/nov/166.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Az Clic
+http://user.tvcluboficial.com/stream/nov/nov/165.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", CNN Español
+http://user.tvcluboficial.com/stream/nov/nov/136.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Universal 
+http://user.tvcluboficial.com/stream/nov/nov/137.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Sony
+http://user.tvcluboficial.com/stream/nov/nov/145.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Glitz
+http://user.tvcluboficial.com/stream/nov/nov/158.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Gourmet
+http://user.tvcluboficial.com/stream/nov/nov/157.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", AXN 
+http://user.tvcluboficial.com/stream/nov/nov/146.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Film and Arts
+http://user.tvcluboficial.com/stream/nov/nov/149.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Desconocido
+http://user.tvcluboficial.com/stream/nov/nov/148.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Telehit
+http://user.tvcluboficial.com/stream/nov/nov/154.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", LifeTime
+http://user.tvcluboficial.com/stream/nov/nov/152.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", SyFy
+http://user.tvcluboficial.com/stream/nov/nov/151.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Multimedios 6
+http://user.tvcluboficial.com/stream/nov/nov/155.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", TUDN
+http://user.tvcluboficial.com/stream/nov/nov/100.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Univision
+http://user.tvcluboficial.com/stream/nov/nov/99.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", unicable
+http://user.tvcluboficial.com/stream/nov/nov/98.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", UFC 
+http://user.tvcluboficial.com/stream/nov/nov/97.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Tooncast
+http://user.tvcluboficial.com/stream/nov/nov/95.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", AyE
+http://user.tvcluboficial.com/stream/nov/nov/01.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Animal Planet
+http://user.tvcluboficial.com/stream/nov/nov/03.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Azteca Uno
+http://user.tvcluboficial.com/stream/nov/nov/04.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Azteca 7
+http://user.tvcluboficial.com/stream/nov/nov/05.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", TLnovelas
+http://user.tvcluboficial.com/stream/nov/nov/94.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Bit Me
+http://user.tvcluboficial.com/stream/nov/nov/93.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Telemundo
+http://user.tvcluboficial.com/stream/nov/nov/92.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Telehit Plus
+http://user.tvcluboficial.com/stream/nov/nov/91.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", TNT Series
+http://user.tvcluboficial.com/stream/nov/nov/90.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Bandamax
+http://user.tvcluboficial.com/stream/nov/nov/08.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", TLC
+http://user.tvcluboficial.com/stream/nov/nov/87.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", TCM
+http://user.tvcluboficial.com/stream/nov/nov/85.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Cartoonito
+http://user.tvcluboficial.com/stream/nov/nov/11.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Canal 5 MX
+http://user.tvcluboficial.com/stream/nov/nov/14.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Studio universal
+http://user.tvcluboficial.com/stream/nov/nov/84.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Space
+http://user.tvcluboficial.com/stream/nov/nov/83.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Nick Music
+http://user.tvcluboficial.com/stream/nov/nov/80.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Cartoon Network
+http://user.tvcluboficial.com/stream/nov/nov/17.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Cinecanal
+http://user.tvcluboficial.com/stream/nov/nov/18.m3u8
 
 
 
