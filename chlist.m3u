@@ -110,7 +110,7 @@ http://91.126.141.13:1935/live/51/playlist.m3u8
 https://estrellatv-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Estrella Games
-http://ytv.plus:25461/live/Maria/1234/15328.ts
+https://estrella-games-oando.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Gen TV
 https://videohd.live:19360/8010/8010.m3u8
