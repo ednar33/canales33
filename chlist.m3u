@@ -428,8 +428,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Planeta TV Movies
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Cosmo
-http://154.62.74.12:1935/live/smil:cosmoHD/chunklist_w1269419442_b3128000_sling.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Cosmos
+https://clientes.videostreaming.ar:19360/cosmos/cosmos.m3u8
 
 
 
