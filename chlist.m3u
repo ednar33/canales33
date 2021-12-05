@@ -30,6 +30,8 @@ http://bgaddon.xyz/play/zutv-222.php?c=389.ts
 http://tecnotv.club/di2/geomex.php?c=1784&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Las Estrellas 3
+http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/35037.m3u8
+
 http://38.131.11.9:1080/play/a032/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Canal Once
@@ -257,6 +259,8 @@ https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
 https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Ecuavisa
+http://mags.vip:2086/live/shenzi/shenzi/66570.m3u8
+
 http://173.212.247.99/hls/tvec2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Spectrum Channel LGBTQ+
@@ -1484,6 +1488,27 @@ http://fajitasonthagrill.xyz:24561/live/delpiero1537/Rpo78218/87982.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Univision PR
 http://fajitasonthagrill.xyz:24561/live/delpiero1537/Rpo78218/463.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Star Channel
+http://fajitasonthagrill.xyz:24561/live/delpiero1537/Rpo78218/3683.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Star Action HD
+http://fajitasonthagrill.xyz:24561/live/delpiero1537/Rpo78218/3685.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Star Cinema
+http://fajitasonthagrill.xyz:24561/live/delpiero1537/Rpo78218/3684.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Star Comedy
+http://fajitasonthagrill.xyz:24561/live/delpiero1537/Rpo78218/89109.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Star Hits
+http://fajitasonthagrill.xyz:24561/live/delpiero1537/Rpo78218/3682.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Star Life
+http://fajitasonthagrill.xyz:24561/live/delpiero1537/Rpo78218/3686.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Distrito Comedia
+http://fajitasonthagrill.xyz:24561/live/delpiero1537/Rpo78218/103823.m3u8
 
 
 
