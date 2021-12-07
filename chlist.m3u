@@ -15,7 +15,7 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Canal 5
-http://bgaddon.xyz/play/zutv-222.php?c=503.ts
+http://bgaddon.xyz/play/zutv-266.php?c=503.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Canal 5-2
 http://tecnotv.club/di2/geomex.php?c=20&p=3&k=tecnotv&f=.m3u8
@@ -24,7 +24,7 @@ http://tecnotv.club/di2/geomex.php?c=20&p=3&k=tecnotv&f=.m3u8
 http://tecnotv.club/di2/geomex.php?c=78&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Las Estrellas
-http://bgaddon.xyz/play/zutv-222.php?c=389.ts
+http://bgaddon.xyz/play/zutv-266.php?c=389.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Las Estrellas 2
 http://tecnotv.club/di2/geomex.php?c=1784&p=3&k=tecnotv&f=.m3u8
@@ -32,6 +32,7 @@ http://tecnotv.club/di2/geomex.php?c=1784&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Las Estrellas 3
 http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/35037.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Las Estrellas 
 http://38.131.11.9:1080/play/a032/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Canal Once
@@ -451,6 +452,9 @@ https://nesertv.live/frmevlveweb1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Musica", Latin Pop
 https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Musica", Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Musica", DeeJay TV
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
