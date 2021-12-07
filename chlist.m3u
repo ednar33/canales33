@@ -23,8 +23,8 @@ http://tecnotv.club/di2/geomex.php?c=20&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Distrito Comedia
 http://tecnotv.club/di2/geomex.php?c=78&p=3&k=tecnotv&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Las Estrellas
-http://bgaddon.xyz/play/zutv-266.php?c=389.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Las Estrellas  
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=17&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Las Estrellas 2
 http://tecnotv.club/di2/geomex.php?c=1784&p=3&k=tecnotv&f=.m3u8
@@ -32,8 +32,8 @@ http://tecnotv.club/di2/geomex.php?c=1784&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Las Estrellas 3
 http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/35037.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Las Estrellas 
-http://38.131.11.9:1080/play/a032/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Las Estrellas 4
+http://bgaddon.xyz/play/zutv-266.php?c=389.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Canal Once
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
