@@ -926,6 +926,9 @@ https://v4.tustreaming.cl/enlacebpbtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cristianos", Enlace TV
 http://mags.vip:2086/live/shenzi/shenzi/66571.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cristianos", Viva Cristo TV
+https://ss5.domint.net:3050/vct_str/vctv/chunklist_w460396241.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cristianos", Dios TeVe
 https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
 
