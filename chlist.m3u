@@ -552,9 +552,6 @@ http://45.94.31.45/bar16503/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", La Liga TV Bar
 http://go.iptvhn.net:25461/live/iptvm3u/iptvm3u/6683.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Sky Sports
-http://go.iptvhn.net:25461/live/iptvm3u/iptvm3u/6687.ts.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", DirecTV Sports+
 http://go.iptvhn.net:25461/live/iptvm3u/iptvm3u/6703.ts.m3u8
 
@@ -642,6 +639,37 @@ http://tv.nousiptv.com:8080/live/rommy/12345/3224.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", * MLB Strike Zone
 http://tv.nousiptv.com:8080/live/rommy/12345/17173.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Temp - Sky Sports
+http://stalkertvlatino.com:8080/live/Restreampe953/Restreampe953/109226.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Temp - Adrenalina
+http://stalkertvlatino.com:8080/live/Restreampe953/Restreampe953/109216.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Temp - Adrenalina Op2
+http://stalkertvlatino.com:8080/live/Restreampe953/Restreampe953/109228.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Temp - Gol Peru
+http://stalkertvlatino.com:8080/live/Restreampe953/Restreampe953/109212.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes",Temp - ECDF
+http://stalkertvlatino.com:8080/live/Restreampe953/Restreampe953/109229.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Temp - Movistar Deportes
+http://stalkertvlatino.com:8080/live/Restreampe953/Restreampe953/109232.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Temp - Movistar Deportes Op2
+http://stalkertvlatino.com:8080/live/Restreampe953/Restreampe953/109213.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Temp - Directv Sports
+http://stalkertvlatino.com:8080/live/Restreampe953/Restreampe953/109219.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Temp - Directv Sports Op2
+http://stalkertvlatino.com:8080/live/Restreampe953/Restreampe953/109220.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Temp - TNT Sports
+http://stalkertvlatino.com:8080/live/Restreampe953/Restreampe953/109225.m3u8
+
 
 
 
@@ -1633,5 +1661,6 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/251
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", itv 4-1 (UK)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/74185
 
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Movistar Comedia
+http://stalkertvlatino.com:8080/live/Restreampe953/Restreampe953/109211.m3u8
 
