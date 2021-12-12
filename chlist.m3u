@@ -1531,6 +1531,55 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISNEYXD/__op/hls-default/__f/i
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Discovery Kids
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISCOVERYKIDSHD/__op/hls-default/__f/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", TV France 3
+http://www.filmon.com/vr-streams/3893.high/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", itv 1 (UK)
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/268.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", itv 1-1 (UK)
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/74182.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", itv 2 (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/267
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", itv 2-1 (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/74183
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", itv 3 (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/252
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", itv 3-1 (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/74184
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", itv 4 (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/251
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", itv 4-1 (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/74185
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", x La 1 HD SP
+http://93.152.174.144:4000/play/la1sp/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", x La 2 HD SP
+http://93.152.174.144:4000/play/la2sp/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", x Antena 3 HD SP
+http://93.152.174.144:4000/play/antena3sp/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", x Cuatro HD SP
+http://93.152.174.144:4000/play/cuatrosp/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", x Telecinco HD SP
+http://93.152.174.144:4000/play/telecincosp/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", x La Sexta SP
+http://93.152.174.144:4000/play/lasexta/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", x Bein LaLiga
+http://93.152.174.144:4000/play/beinlaliga/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", x Energy SP
+http://93.152.174.144:4000/play/energysp/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", x Eurosport 1 HD SP
+http://93.152.174.144:4000/play/eurosport1sp/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", x FDF SP
+http://93.152.174.144:4000/play/fdfsp/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", x NOVA SP
+http://93.152.174.144:4000/play/novasp/index.m3u8
 
 
 
