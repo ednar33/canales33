@@ -1,9 +1,9 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/pa/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/co/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml"
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Actualizacion", Visita Canales33.tk
-http://canales33.tk
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Actualizacion", Actualizado el 01/Dic/2021
-https://facebook.com/ednar33tv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Leeme", Visita mi Página
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Leeme", http://canales33.tk
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Leeme", Actualización: 15/Dic/2021
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Leeme", facebook: Ednar33tv
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", a+
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
@@ -15,7 +15,7 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Canal 5
-http://bgaddon.xyz/play/zutv-255.php?c=503.ts
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=1785&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Canal 5-2
 http://tecnotv.club/8di/geomex.php?c=20&p=3&k=tecnotv&f=.m3u8
@@ -28,12 +28,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Las Estrellas 2
 http://tecnotv.club/8di/geomex.php?c=1784&p=3&k=tecnotv&f=.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Las Estrellas 3
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/35037.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Las Estrellas 4
-http://bgaddon.xyz/play/zutv-255.php?c=389.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Canal Once
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
@@ -149,7 +143,9 @@ http://91.126.141.13:1935/live/21/playlist.m3u8
 https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Chilevision
-https://mdstrm.com/live-stream-playlist-v/5c928b7f6d6f41084bdae898.m3u8
+http://tv5full.xyz:25461/live/Ecuaplay73gd/6YvCCNhxFc/1396.ts.m3u8
+
+##### https://mdstrm.com/live-stream-playlist-v/5c928b7f6d6f41084bdae898.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Mega Chile
 https://unlimited10-cl.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8
@@ -182,7 +178,7 @@ https://ecfe6e3fc3a34d60ac625cda77722824.mediatailor.us-east-1.amazonaws.com/v1/
 https://dai2.xumo.com/xumocdn/deviceid/amagi_hls_data_xumo1212A-rokunovelaclub/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", TC Ecuador
-https://www.dailymotion.com/embed/video/x7wijay?autoplay=1
+http://50.97.142.130:1834/hls2/amlst:10001_ios_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Telecinco
 http://91.126.141.13:1935/live/61/playlist.m3u8
@@ -220,6 +216,9 @@ https://amc-maschic-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", El Gourmet
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", TL Novelas
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=83&format=HLS&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Telenovelas (En Frances)
 https://40413a8d4fab4568b22187b5d7cd15c9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_Televisa/playlist.m3u8
 
@@ -253,9 +252,6 @@ https://vp01-vivoplayiptv.delivery.fuugo.com/ngrp:vp01-VIVOplay_IPTV-aa730fa2_al
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", WoW
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Zee Mundo
-https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v4a1/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", El Chavo 24/7
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8
 
@@ -269,9 +265,7 @@ https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
 https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Ecuavisa
-http://mags.vip:2086/live/shenzi/shenzi/66570.m3u8
-
-http://173.212.247.99/hls/tvec2.m3u8
+http://tv5full.xyz:25461/live/Ecuaplay73gd/6YvCCNhxFc/1307.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Spectrum Channel LGBTQ+
 https://vdohd.cl:1936/8078/8078/playlist.m3u8
@@ -1153,87 +1147,6 @@ https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV_España", La 1
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/181513.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV_España", La 2
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/181516.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV_España", Antena 3 HD
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/181518.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV_España", Cuatro HD
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/181521.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV_España", Telecinco HD
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/181524.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV_España", La Sexta HD
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/181527.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV_España", Neox FHD
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/181531.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV_España", Nova FHD
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/181533.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV_España", BeMad tv HD
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/181535.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV_España", Mega FHD
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/181539.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV_España", Fdf FHD
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/181541.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV_España", Energy
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/181542.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV_España", Dmax SD
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/181543.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV_España", Dkiss SD
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/181544.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV_España", Atreseries HD
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/181547.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV_España", Trece SD
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/181549.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV_España", Ten SD
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/181550.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV_España", Bom TV SD
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/181551.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV_España", 24 Horas FHD
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/181553.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV_España", Hit TV
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/181559.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV_España", Cmm FHD
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/181567.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV_España", Mola TV
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/181582.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV_España", M. LaLiga HD
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/181589.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV_España", La Liga TV Bar HD
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/181613.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV_España", M. Liga Campeones HD
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/181620.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV_España", Dazn 1 HD
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/181633.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV_España", Dazn 2 HD
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/181636.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV_España", Bein Sports Ñ HD
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/181643.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV_España", Gol HD
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/181652.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV_España", Multideporte SD
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/181653.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV_España", #Vamos HD
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/181655.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV_España", Dazn F1 HD
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/181661.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV_España", Ufc TV FHD
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/181666.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV_España", Red Bull TV FHD
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/181669.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV_España", Movistar Deportes HD
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/181671.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV_España", Movistar Golf HD
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/181682.m3u8
-#EXTINF:-1,ES: Movistar Golf FHD
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/181683.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV_España", Eurosport 1 HD
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/181685.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="TV_España", Eurosport 2 SD
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/181687.m3u8
-
-
-
 
 
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5d93b58e7ea6f9918873886f/colorLogoPNG.png" group-title="Pluto TV", Agente 007
@@ -1677,4 +1590,10 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/74185
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Movistar Comedia
 http://stalkertvlatino.com:8080/live/Restreampe953/Restreampe953/109211.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Ecuavisa
+http://direct-stream.biz/embednews.php?c=ecuatv1&vw=600&vh=400
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Ecuador TV Internacional
+http://38.96.148.216:1834/liv/internacional/chunklist_w449343516.m3u8
 
