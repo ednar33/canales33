@@ -33,6 +33,43 @@ https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Chino Premium", WARNER
+https://chinolistas.github.io/tvgratis/tvcable/warner.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Chino Premium", TNT
+https://chinolistas.github.io/tvgratis/tvcable/tnt.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Chino Premium", STAR HITS
+https://chinolistas.github.io/tvgratis/tvcable/star_hits.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Chino Premium", STAR FUN
+https://chinolistas.github.io/tvgratis/tvcable/star_fun.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Chino Premium", STAR CHANNEL
+https://chinolistas.github.io/tvgratis/tvcable/star_channel.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Chino Premium", STAR ACTION
+https://chinolistas.github.io/tvgratis/tvcable/star_action.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Chino Premium", SONY
+https://chinolistas.github.io/tvgratis/tvcable/sony.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Chino Premium", PARAMOUNT
+https://chinolistas.github.io/tvgratis/tvcable/paramount.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Chino Premium", NATGEO
+https://chinolistas.github.io/tvgratis/tvcable/natgeo.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Chino Premium", HISTORY
+https://chinolistas.github.io/tvgratis/tvcable/history.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Chino Premium", HBO XTREME
+https://chinolistas.github.io/tvgratis/tvcable/hbo_xtreme.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Chino Premium", HBO PLUS
+https://chinolistas.github.io/tvgratis/tvcable/hbo_plus.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Chino Premium", HBO FAMILY
+https://chinolistas.github.io/tvgratis/tvcable/hbo_family.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Chino Premium", HBO 2
+https://chinolistas.github.io/tvgratis/tvcable/hbo_2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Chino Premium", H2
+https://chinolistas.github.io/tvgratis/tvcable/h2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Chino Premium", CINEMAX
+https://chinolistas.github.io/tvgratis/tvcable/cinemax.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Chino Premium", CINECANAL
+https://chinolistas.github.io/tvgratis/tvcable/cinecanal.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Chino Premium", ANIMAL PLANET
+https://chinolistas.github.io/tvgratis/tvcable/animal_planet.m3u8
+
 
 #EXTINF:-1 group-title="DEPORTE", Bein Sport Ñ
 http://user.tvcluboficial.com/stream/nov/nov/477.m3u8
