@@ -738,5 +738,13 @@ http://gratuita.mrzutv.net:8080/live/7964/7964/3227.ts
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Ace Stream", Movistar La Liga
+acestream://9007568a18c3a3c89fb9e745206a60554c114917
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Ace Stream", Movistar Liga De Campeones
+acestream://b0aa6d932aaf12452c91ed5fb07642c6a31394d7
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Ace Stream", Movistar Deportes
+acestream://57fb15b9403695ef6eaa79699a7ea5c374e4fa2f
+
+
 
 
