@@ -216,9 +216,6 @@ http://iphone-streaming.ustream.tv/ustreamVideo/21733416/streams/live/playlist.m
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=85&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Telemundo Internacional 2
-http://playboxtv.net:25461/live/cynthia/1234/154.ts.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Telemundo Internacional 3
 http://qqtv.nl:8080/live/norma/12345/31936.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Mas Chic
@@ -250,12 +247,6 @@ https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/60580
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Unicanal
 http://45.55.127.106/live/unicanal_mid.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Univision
-http://playboxtv.net:25461/live/cynthia/1234/17264.ts.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Univision 2
-http://hdhd.tk/live/IvvyYtzZtV/8lHLYzUPtz/22228.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Vivo Play
 https://vp01-vivoplayiptv.delivery.fuugo.com/ngrp:vp01-VIVOplay_IPTV-aa730fa2_all/playlist.m3u8
