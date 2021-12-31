@@ -677,22 +677,6 @@ http://tv.nousiptv.com:8080/live/rommy/12345/17173.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes 2", AE - beIN Sports 
-http://45.94.31.45/bar16506/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes 2", AE - beIN Sports 2
-http://45.94.31.45/bar16502/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes 2", AE - beIN Sports 3
-http://45.94.31.45/bar16503/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes 2", AE - beIN Sports 4
-http://45.94.31.45/bar16504/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes 2", AE - beIN Sports 5
-http://45.94.31.45/bar16505/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes 2", UK - Sky Sports Main
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/259.m3u8
 
@@ -761,6 +745,21 @@ http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes 2", Dubai Racing
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes 2", (Offline) AE - beIN Sports 
+http://45.94.31.45/bar16506/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes 2", (Offline) AE - beIN Sports 2
+http://45.94.31.45/bar16502/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes 2", (Offline) AE - beIN Sports 3
+http://45.94.31.45/bar16503/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes 2", (Offline) AE - beIN Sports 4
+http://45.94.31.45/bar16504/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes 2", (Offline) AE - beIN Sports 5
+http://45.94.31.45/bar16505/tracks-v1a1/mono.m3u8
 
 
 
