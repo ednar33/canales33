@@ -23,16 +23,16 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=1785&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Canal 5-2
-http://tecnotv.club/2ene/geomex.php?c=20&p=3&k=tecnotv&f=.m3u8
+http://clubtv.link/2ene/geomex.php?c=20&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Distrito Comedia
-http://tecnotv.club/2ene/geomex.php?c=78&p=3&k=tecnotv&f=.m3u8
+http://clubtv.link/2ene/geomex.php?c=78&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Las Estrellas  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=17&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Las Estrellas 2
-http://tecnotv.club/2ene/geomex.php?c=1784&p=3&k=tecnotv&f=.m3u8
+http://clubtv.link/2ene/geomex.php?c=1784&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Canal Once
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
@@ -959,7 +959,7 @@ http://f4.tvxweb.net:8082/42145/video.m3u8?token=MxPReBvRE18
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium 2", DISCOVERY KIDS
-http://tecnotv.club/2ene/geomex.php?c=109&p=3&k=tecnotv&f=.m3u8
+http://clubtv.link/2ene/geomex.php?c=109&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium 2", NICK
 http://tecnotv.club/2ene/geomex.php?c=110&p=3&k=tecnotv&f=.m3u8
