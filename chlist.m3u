@@ -139,7 +139,7 @@ http://91.126.141.13:1935/live/41/playlist.m3u8
 http://91.126.141.13:1935/live/81/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", La Red
-https://unlimited1-cl-movistar.dps.live/lared/lared.smil/playlist.m3u8
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/1748.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", La Red 2
 https://unlimited2-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
@@ -151,7 +151,7 @@ http://91.126.141.13:1935/live/21/playlist.m3u8
 https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Chilevision
-http://tv5full.xyz:25461/live/Ecuaplay73gd/6YvCCNhxFc/1396.ts
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/1744.m3u8
 
 ##### https://mdstrm.com/live-stream-playlist-v/5c928b7f6d6f41084bdae898.m3u8
 
@@ -396,8 +396,6 @@ https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Rakuten Cine Español
 https://rakuten-cine-espanol-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Anime Zone AZTV
-http://azxtv.com/hls/stream.m3u8
 
 
 
@@ -1683,5 +1681,9 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/251
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", itv 4-1 (UK)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/74185
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", X
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/74185
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/1740.m3u8?sd=10&dw=0&rebase=on
 
 
