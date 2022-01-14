@@ -1683,7 +1683,9 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/251
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/74185
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", X
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/74185
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/1740.m3u8?sd=10&dw=0&rebase=on
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", X Latinos
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/948.m3u8
 
 
