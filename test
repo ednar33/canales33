@@ -469,6 +469,41 @@ http://user.tvcluboficial.com/stream/nov/nov/52.m3u8
 
 
 
+#EXTINF:-1 group-title="ESPAÑA", Mega
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/30.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA", Disney Channel
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/36.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA", AXN 
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/50.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA", AXN White
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/49.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA", Clan
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/43.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA", Fox
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/32.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA", Movistar La Liga
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/58.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA", RWD Hollywood
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/56.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA", Cocina
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/42.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA", Mega
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/1770.m3u8
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Ace Stream", Movistar La Liga
