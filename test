@@ -1,38 +1,3 @@
-#EXTM3U x-tvg-url="https://techzyon.com/epg/roku_guide.xml" url-tvg="https://techzyon.com/epg/roku_guide.xml" refresh="3600"
-
-#EXTINF:-1 tvg-ID="HBOE" tvg-name="HBOE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="Movies",HBO (East)
-https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
-
-#EXTINF:-1 tvg-ID="HBOW" tvg-name="HBOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="Movies",HBO (West)
-https://edge.roku-live.top.comcast.net/out/u/hbo-west.m3u8
-
-#EXTINF:-1 tvg-ID="CINE" tvg-name="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png" group-title="Movies",Cinemax (East)
-https://edge.roku-live.top.comcast.net/out/u/cinemax-east.m3u8
-
-#EXTINF:-1 tvg-ID="CINW" tvg-name="CINW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png" group-title="Movies",Cinemax (West)
-https://edge.roku-live.top.comcast.net/out/u/cinemax-west.m3u8
-
-#EXTINF:-1 tvg-ID="SHOE" tvg-name="SHOE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/500px-Showtime.svg.png" group-title="Movies",Showtime (East)
-https://edge.roku-live.top.comcast.net/out/u/showtime-east.m3u8
-
-#EXTINF:-1 tvg-ID="SHOW" tvg-name="SHOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/500px-Showtime.svg.png" group-title="Movies",Showtime (West)
-https://edge.roku-live.top.comcast.net/out/u/showtime-west.m3u8
-
-#EXTINF:-1 tvg-ID="STAW" tvg-name="STAW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Starz_2016.svg/500px-Starz_2016.svg.png" group-title="Movies",STARZ (West)
-https://edge.roku-live.top.comcast.net/out/u/starz-west.m3u8
-
-#EXTINF:-1 tvg-ID="STAE" tvg-name="STAE" tvg-logo="https://www.pngkey.com/png/full/335-3358841_the-previous-logos-were-introduced-in-2005-as.png" group-title="Movies",STARZ Encore (East)
-https://edge.roku-live.top.comcast.net/out/u/starz-encore.m3u8
-
-#EXTINF:-1 tvg-ID="EPIE" tvg-name="EPIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Epix_Logo_2009.svg/500px-Epix_Logo_2009.svg.png" group-title="Movies",Epix (East)
-https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
-
-#EXTINF:-1 tvg-ID="EPIE2" tvg-name="EPIE2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Epix_Logo_2009.svg/500px-Epix_Logo_2009.svg.png" group-title="Movies",Epix 2 (East)
-https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Chino Premium", WARNER
 https://chinolistas.github.io/tvgratis/tvcable/warner.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Chino Premium", TNT
@@ -468,6 +433,8 @@ http://user.tvcluboficial.com/stream/nov/nov/48.m3u8
 http://user.tvcluboficial.com/stream/nov/nov/52.m3u8
 
 
+#EXTINF:-1 group-title="ESPAÑA", Antena 3
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/80.m3u8
 
 #EXTINF:-1 group-title="ESPAÑA", Mega
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/30.m3u8
@@ -499,9 +466,223 @@ http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/42.m3u8
 #EXTINF:-1 group-title="ESPAÑA", Mega
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/1770.m3u8
 
+#EXTINF:-1 group-title="ESPAÑA", TNT
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/59.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA", Movistar Estrenos
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/73.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA", Panda Kids
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/66.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA", XTRM
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/64.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA", SyFy
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/62.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA", Telecinco
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/78.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA", Movistar Accion
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/76.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA", Disney Channel
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/75.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA", La Sexta
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/77.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA", Movistar #0
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/83.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA", La 1
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/82.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA", Clan 
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/81.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA", Movistar Golf
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/101.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA", Movistar Drama
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/119.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA", Movistar Estrenos 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/118.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA", Movistar Series 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/122.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA", tve
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/165.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA", Hola TV
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/177.m3u8
 
 
 
+
+#EXTINF:-1 group-title="MISC", Ecuavisa
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/150.m3u8
+
+#EXTINF:-1 group-title="MISC", Ecuavisa 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/151.m3u8
+
+#EXTINF:-1 group-title="MISC", Ecuavisa 3
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/152.m3u8
+
+#EXTINF:-1 group-title="MISC", TC Ecuador
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/157.m3u8
+
+#EXTINF:-1 group-title="MISC", RTS
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/156.m3u8
+
+#EXTINF:-1 group-title="MISC", Concert
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/220.m3u8
+
+#EXTINF:-1 group-title="MISC", MTV 80´s
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/215.m3u8
+
+#EXTINF:-1 group-title="MISC", MTV Hits
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/225.m3u8
+
+#EXTINF:-1 group-title="MISC", MTV
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/240.m3u8
+
+#EXTINF:-1 group-title="MISC", htv
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/211.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="PremiMX", TL Novelas
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/170.m3u8
+
+#EXTINF:-1 group-title="PremiMX", Televisa Puebla
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/169.m3u8
+
+#EXTINF:-1 group-title="PremiMX", Azteca Uno
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/168.m3u8
+
+#EXTINF:-1 group-title="PremiMX", Teleritmo
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/167.m3u8
+
+#EXTINF:-1 group-title="PremiMX", Mas Chic 
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/166.m3u8
+
+#EXTINF:-1 group-title="PremiMX", TVC Deportes
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/164.m3u8
+
+#EXTINF:-1 group-title="PremiMX", Milenio
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/163.m3u8
+
+#EXTINF:-1 group-title="PremiMX", Unicable
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/162.m3u8
+
+#EXTINF:-1 group-title="PremiMX", Glitz
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/179.m3u8
+
+#EXTINF:-1 group-title="PremiMX", Multimedios - Canal 6
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/176.m3u8
+
+#EXTINF:-1 group-title="PremiMX", NTN24
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/174.m3u8
+
+#EXTINF:-1 group-title="PremiMX", Telehit
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/173.m3u8
+
+#EXTINF:-1 group-title="PremiMX", Las Estrellas
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/190.m3u8
+
+#EXTINF:-1 group-title="PremiMX", CNN Español
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/188.m3u8
+
+#EXTINF:-1 group-title="PremiMX", Comedy Central
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/186.m3u8
+
+#EXTINF:-1 group-title="PremiMX", Distrito Comedia
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/185.m3u8
+
+#EXTINF:-1 group-title="PremiMX", Teleformula
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/183.m3u8
+
+#EXTINF:-1 group-title="PremiMX", Foro TV
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/182.m3u8
+
+#EXTINF:-1 group-title="PremiMX", Azteca 7
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/200.m3u8
+
+#EXTINF:-1 group-title="PremiMX", Bandamax
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/198.m3u8
+
+#EXTINF:-1 group-title="PremiMX", Bloomberg
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/197.m3u8
+
+#EXTINF:-1 group-title="PremiMX", Canal 26
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/194.m3u8
+
+#EXTINF:-1 group-title="PremiMX", Canal 5
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/192.m3u8
+
+#EXTINF:-1 group-title="PremiMX", Nu3ve
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/191.m3u8
+
+#EXTINF:-1 group-title="PremiMX", a mas+
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/210.m3u8
+
+#EXTINF:-1 group-title="PremiMX", A3S Internacional
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/209.m3u8
+
+#EXTINF:-1 group-title="PremiMX", adn40
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/208.m3u8
+
+#EXTINF:-1 group-title="PremiMX", Antena 3 Internacional
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/207.m3u8
+
+#EXTINF:-1 group-title="PremiMX", AZ Cinema
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/205.m3u8
+
+#EXTINF:-1 group-title="PremiMX", AZ Clic
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/204.m3u8
+
+#EXTINF:-1 group-title="PremiMX", AZ Corazon
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/202.m3u8
+
+#EXTINF:-1 group-title="PremiMX", AZ Mundo
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/201.m3u8
+
+#EXTINF:-1 group-title="PremiMX", Telehit 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/226.m3u8
+
+#EXTINF:-1 group-title="PremiMX", Telehit Plus
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/233.m3u8
+
+#EXTINF:-1 group-title="PremiMX", Unimas
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/367.m3u8
+
+#EXTINF:-1 group-title="PremiMX", Unimas 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/376.m3u8
+
+#EXTINF:-1 group-title="PremiMX", Univision
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/368.m3u8
+
+#EXTINF:-1 group-title="PremiMX", Univision 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/370.m3u8
+
+#EXTINF:-1 group-title="PremiMX", Univision 3
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/380.m3u8
+
+#EXTINF:-1 group-title="PremiMX", x
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/374.m3u8
+
+#EXTINF:-1 group-title="PremiMX", Galavision
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/373.m3u8
+
+#EXTINF:-1 group-title="PremiMX", Galavision 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/371.m3u8
 
 
 
