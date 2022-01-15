@@ -553,6 +553,15 @@ http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/240.m3u8
 #EXTINF:-1 group-title="MISC", htv
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/211.m3u8
 
+#EXTINF:-1 group-title="MISC", Pelis 1
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/844.m3u8
+
+#EXTINF:-1 group-title="MISC", Pelis 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/843.m3u8
+
+#EXTINF:-1 group-title="MISC", Pelis 3
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/844.m3u8
+
 
 
 
