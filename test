@@ -538,6 +538,9 @@ http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/157.m3u8
 #EXTINF:-1 group-title="MISC", RTS
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/156.m3u8
 
+#EXTINF:-1 group-title="MISC", Europe Europe
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/914.m3u8
+
 #EXTINF:-1 group-title="MISC", Concert
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/220.m3u8
 
@@ -560,7 +563,47 @@ http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/844.m3u8
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/843.m3u8
 
 #EXTINF:-1 group-title="MISC", Pelis 3
-http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/844.m3u8
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/840.m3u8
+
+#EXTINF:-1 group-title="MISC", Pelis 4
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/837.m3u8
+
+#EXTINF:-1 group-title="MISC", Pelis 5
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/836.m3u8
+
+#EXTINF:-1 group-title="MISC", Pelis 6
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/832.m3u8
+
+#EXTINF:-1 group-title="MISC", Pelis 7
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/830.m3u8
+
+#EXTINF:-1 group-title="MISC", Pelis 8
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/828.m3u8
+
+#EXTINF:-1 group-title="MISC", Pelis 9
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/826.m3u8
+
+#EXTINF:-1 group-title="MISC", Pelis 10
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/825.m3u8
+
+#EXTINF:-1 group-title="MISC", Pelis 11
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/823.m3u8
+
+#EXTINF:-1 group-title="MISC", Pelis 12
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/822.m3u8
+
+#EXTINF:-1 group-title="MISC", Pelis 13
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/819.m3u8
+
+#EXTINF:-1 group-title="MISC", Pelis 14
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/818.m3u8
+
+#EXTINF:-1 group-title="MISC", Pelis 15
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/817.m3u8
+
+
+#EXTINF:-1 group-title="MISC", Pelis 16
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/851.m3u8
 
 
 
@@ -708,14 +751,23 @@ http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/387.m3u8
 #EXTINF:-1 group-title="PremiMX", TBS
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/770.m3u8
 
+#EXTINF:-1 group-title="PremiMX", TBS 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/951.m3u8
+
 #EXTINF:-1 group-title="PremiMX", SyFy
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/769.m3u8
 
-#EXTINF:-1 group-title="PremiMX", Universal
+#EXTINF:-1 group-title="PremiMX", SyFy 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/888.m3u8
+
+#EXTINF:-1 group-title="PremiMX", Universal HD
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/768.m3u8
 
 #EXTINF:-1 group-title="PremiMX", Space
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/767.m3u8
+
+#EXTINF:-1 group-title="PremiMX", Space 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/859.m3u8
 
 #EXTINF:-1 group-title="PremiMX", TNT Series
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/766.m3u8
@@ -723,17 +775,32 @@ http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/766.m3u8
 #EXTINF:-1 group-title="PremiMX", TNT
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/765.m3u8
 
+#EXTINF:-1 group-title="PremiMX", TNT 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/854.m3u8
+
 #EXTINF:-1 group-title="PremiMX", Warner
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/764.m3u8
+
+#EXTINF:-1 group-title="PremiMX", Warner 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/852.m3u8
 
 #EXTINF:-1 group-title="PremiMX", Golden Plus
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/780.m3u8
 
+#EXTINF:-1 group-title="PremiMX", Golden Plus 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/864.m3u8
+
 #EXTINF:-1 group-title="PremiMX", Golden Edge
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/779.m3u8
 
+#EXTINF:-1 group-title="PremiMX", Golden Edge 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/865.m3u8
+
 #EXTINF:-1 group-title="PremiMX", Golden
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/778.m3u8
+
+#EXTINF:-1 group-title="PremiMX", Golden 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/866.m3u8
 
 #EXTINF:-1 group-title="PremiMX", Golden Premier
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/787.m3u8
@@ -741,17 +808,32 @@ http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/787.m3u8
 #EXTINF:-1 group-title="PremiMX", Paramount
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/774.m3u8
 
+#EXTINF:-1 group-title="PremiMX", Paramount 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/862.m3u8
+
 #EXTINF:-1 group-title="PremiMX", Sony
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/773.m3u8
+
+#EXTINF:-1 group-title="PremiMX", Sony 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/860.m3u8
 
 #EXTINF:-1 group-title="PremiMX", TCM
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/771.m3u8
 
+#EXTINF:-1 group-title="PremiMX", TCM 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/950.m3u8
+
 #EXTINF:-1 group-title="PremiMX", Star Classics
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/790.m3u8
 
+#EXTINF:-1 group-title="PremiMX", Star Classics 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/908.m3u8
+
 #EXTINF:-1 group-title="PremiMX", Star Fun
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/789.m3u8
+
+#EXTINF:-1 group-title="PremiMX", Star Fun 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/906.m3u8
 
 #EXTINF:-1 group-title="PremiMX", Star Series
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/788.m3u8
@@ -759,26 +841,50 @@ http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/788.m3u8
 #EXTINF:-1 group-title="PremiMX", Star Cinema
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/785.m3u8
 
+#EXTINF:-1 group-title="PremiMX", Star Cinema 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/873.m3u8
+
 #EXTINF:-1 group-title="PremiMX", Star Action 
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/784.m3u8
+
+#EXTINF:-1 group-title="PremiMX", Star Action 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/875.m3u8
 
 #EXTINF:-1 group-title="PremiMX", Star Hits
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/794.m3u8
 
+#EXTINF:-1 group-title="PremiMX", Star Hits 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/870.m3u8
+
 #EXTINF:-1 group-title="PremiMX", Star Life
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/793.m3u8
+
+#EXTINF:-1 group-title="PremiMX", Star Life
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/871.m3u8
 
 #EXTINF:-1 group-title="PremiMX", Star Channel
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/792.m3u8
 
+#EXTINF:-1 group-title="PremiMX", Star Channel 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/874.m3u8
+
 #EXTINF:-1 group-title="PremiMX", Star Comedy
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/791.m3u8
+
+#EXTINF:-1 group-title="PremiMX", Star Comedy 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/904.m3u8
 
 #EXTINF:-1 group-title="PremiMX", FXM 
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/782.m3u8
 
+#EXTINF:-1 group-title="PremiMX", FXM 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/867.m3u8
+
 #EXTINF:-1 group-title="PremiMX", FX
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/781.m3u8
+
+#EXTINF:-1 group-title="PremiMX", FX 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/868.m3u8
 
 #EXTINF:-1 group-title="PremiMX", De Pelicula Plus
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/800.m3u8
@@ -789,6 +895,9 @@ http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/797.m3u8
 #EXTINF:-1 group-title="PremiMX", Film & Arts
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/795.m3u8
 
+#EXTINF:-1 group-title="PremiMX", Film & Arts 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/939.m3u8
+
 #EXTINF:-1 group-title="PremiMX", HBO
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/814.m3u8
 
@@ -798,29 +907,56 @@ http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/810.m3u8
 #EXTINF:-1 group-title="PremiMX", HBO Extreme
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/809.m3u8
 
+#EXTINF:-1 group-title="PremiMX", HBO Extreme 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/894.m3u8
+
 #EXTINF:-1 group-title="PremiMX", HBO Family
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/811.m3u8
+
+#EXTINF:-1 group-title="PremiMX", HBO Family 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/897.m3u8
 
 #EXTINF:-1 group-title="PremiMX", HBO Pop
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/815.m3u8
 
+#EXTINF:-1 group-title="PremiMX", HBO Pop 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/893.m3u8
+
+#EXTINF:-1 group-title="PremiMX", HBO Plus
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/896.m3u8
+
 #EXTINF:-1 group-title="PremiMX", HBO Signature
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/813.m3u8
 
-#EXTINF:-1 group-title="PremiMX", A & E
+#EXTINF:-1 group-title="PremiMX", A&E
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/807.m3u8
+
+#EXTINF:-1 group-title="PremiMX", A&E 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/880.m3u8
 
 #EXTINF:-1 group-title="PremiMX", AMC
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/806.m3u8
 
+#EXTINF:-1 group-title="PremiMX", AMC 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/918.m3u8
+
 #EXTINF:-1 group-title="PremiMX", AXN
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/804.m3u8
+
+#EXTINF:-1 group-title="PremiMX", AXN 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/917.m3u8
 
 #EXTINF:-1 group-title="PremiMX", Cinemax
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/803.m3u8
 
+#EXTINF:-1 group-title="PremiMX", Cinemax 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/915.m3u8
+
 #EXTINF:-1 group-title="PremiMX", Cinecanal
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/802.m3u8
+
+#EXTINF:-1 group-title="PremiMX", Cinecanal 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/916.m3u8
 
 #EXTINF:-1 group-title="PremiMX", De Pelicula Plus 2
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/801.m3u8
@@ -828,7 +964,11 @@ http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/801.m3u8
 #EXTINF:-1 group-title="PremiMX", Universal
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/816.m3u8
 
+#EXTINF:-1 group-title="PremiMX", Universal 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/853.m3u8
 
+#EXTINF:-1 group-title="PremiMX", Studio Universal
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/920.m3u8
 
 
 
