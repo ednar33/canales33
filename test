@@ -532,6 +532,21 @@ http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/151.m3u8
 #EXTINF:-1 group-title="MISC", Ecuavisa 3
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/152.m3u8
 
+#EXTINF:-1 group-title="MISC", Chilevision
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/1746.m3u8
+
+#EXTINF:-1 group-title="MISC", Chilevision 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/1744.m3u8
+
+#EXTINF:-1 group-title="MISC", Mega Chile
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/1751.m3u8
+
+#EXTINF:-1 group-title="MISC", Mega Chile 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/1753.m3u8
+
+#EXTINF:-1 group-title="MISC", La Red
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/1750.m3u8
+
 #EXTINF:-1 group-title="MISC", TC Ecuador
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/157.m3u8
 
@@ -970,6 +985,59 @@ http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/853.m3u8
 #EXTINF:-1 group-title="PremiMX", Studio Universal
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/920.m3u8
 
+#EXTINF:-1 group-title="PremiMX", Tru TV
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/960.m3u8
+
+#EXTINF:-1 group-title="PremiMX", Tru TV 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/980.m3u8
+
+#EXTINF:-1 group-title="PremiMX", LifeTime
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/964.m3u8
+
+#EXTINF:-1 group-title="PremiMX", LifeTime 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/983.m3u8
+
+#EXTINF:-1 group-title="PremiMX", E!
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/971.m3u8
+
+#EXTINF:-1 group-title="PremiMX", E! 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/987.m3u8
+
+#EXTINF:-1 group-title="PremiMX", History
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/984.m3u8
+
+#EXTINF:-1 group-title="PremiMX", History 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/985.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Deportes", Fox Premium
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/1780.m3u8
+
+#EXTINF:-1 group-title="Deportes", Fox Sports
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/1777.m3u8
+
+#EXTINF:-1 group-title="Deportes", Fox Sports - Op2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/1771.m3u8
+
+#EXTINF:-1 group-title="Deportes", Fox Sports 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/1778.m3u8
+
+#EXTINF:-1 group-title="Deportes", ESPN
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/30428.m3u8
+
+#EXTINF:-1 group-title="Deportes", ESPN 2
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/1796.m3u8
+
+#EXTINF:-1 group-title="Deportes", ESPN 3
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/1795.m3u8
+
+#EXTINF:-1 group-title="Deportes", ESPN+
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/1790.m3u8
+
+#EXTINF:-1 group-title="Deportes", TUDN
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/1809.m3u8
 
 
 
