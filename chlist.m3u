@@ -144,6 +144,9 @@ http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/1748.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", La Red 2
 https://unlimited2-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", La Red 3
+https://unlimited10-cl.dps.live/lared/lared.smil/lared/livestream0/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", La Sexta
 http://91.126.141.13:1935/live/21/playlist.m3u8
 
@@ -160,6 +163,9 @@ https://unlimited10-cl.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Mega Chile 2
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", T13 Chile
+https://unlimited1-cl-isp.dps.live/t13/t13.smil/t13/livestream2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Mi TV (Retro)
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
@@ -189,7 +195,7 @@ https://ecfe6e3fc3a34d60ac625cda77722824.mediatailor.us-east-1.amazonaws.com/v1/
 https://dai2.xumo.com/xumocdn/deviceid/amagi_hls_data_xumo1212A-rokunovelaclub/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", TC Ecuador
-http://50.97.142.130:1834/hls2/amlst:10001_ios_hd/playlist.m3u8
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/157.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Telecinco
 http://91.126.141.13:1935/live/61/playlist.m3u8
@@ -290,6 +296,9 @@ https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Bolivision HD
 http://live.cdn.comteco.com.bo/comgo/0202/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", TV Latina Bolivia
+https://master.tucableip.com/live/tvlatinamontero/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 
@@ -304,6 +313,9 @@ https://insighttv-spa-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", CGTN en Español
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Canal 10 - El Salvador
+http://streamingcws20.com:1935/tves/tves.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Canal 33 - El Salvador
 https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/playlist.m3u8
