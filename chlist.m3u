@@ -203,6 +203,9 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", TV Marti - Cuba
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Telemundo HD
+http://clubtv.link/10n/sport.php?c=telemundo&k=tecno&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Telemundo 1
 https://wnjulive-lh.akamaihd.net/i/NY_STREAM7@183615/master.m3u8
 
@@ -626,37 +629,28 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/97911/12?f=.m3u8|us
 
 
 
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", GALAVISION
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Galavision
 http://clubtv.link/10n/sport.php?c=galavision&k=tecno&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", GOL PERU
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Gol Peru
 http://clubtv.link/10n/sport.php?c=golperu&k=tecno&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", GOLTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Gol TV
 http://clubtv.link/10n/sport.php?c=goltv&k=tecno&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", GOLF CHANNEL
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", GOLF Channel
 http://clubtv.link/10n/sport.php?c=golf&k=tecno&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", HAVOC
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", HAVOC
 http://clubtv.link/10n/sport.php?c=havoc&k=tecno&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", NFL NETWORK
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", NFL Network
 http://clubtv.link/10n/sport.php?c=nfl&k=tecno&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", LAS Deportes
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", LAS Deportes
 http://clubtv.link/10n/sport.php?c=las&k=tecno&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", LA LIGA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", La Liga
 http://clubtv.link/10n/sport.php?c=laliga&k=tecno&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", M LALIGA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Movistar La Liga
 http://clubtv.link/10n/sport.php?c=mlaliga&k=tecno&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", M LIGA DE CAMPEONES
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Movistar Liga de Campeones
 http://clubtv.link/10n/sport.php?c=mligadec&k=tecno&f=.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", TELEMUNDO
 http://clubtv.link/10n/sport.php?c=telemundo&k=tecno&f=.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", TUDN US
 http://clubtv.link/10n/sport.php?c=tudn-us&k=tecno&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", TVC Deportes
@@ -667,7 +661,7 @@ http://clubtv.link/10n/sport.php?c=tycsports&k=tecno&f=.m3u8
 http://clubtv.link/10n/sport.php?c=unimas&k=tecno&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", UNIVERSO
 http://clubtv.link/10n/sport.php?c=universo&k=tecno&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", ,NBC SPORTS NET
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", NBC SPORTS NET
 http://clubtv.link/10n/sport.php?c=nbcsn&k=tecno&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", WIN SPORTS
 http://clubtv.link/10n/sport.php?c=winsports&k=tecno&f=.m3u8
@@ -679,11 +673,6 @@ http://clubtv.link/10n/sport.php?c=fight&k=tecno&f=.m3u8
 http://clubtv.link/10n/sport.php?c=ufc&k=tecno&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", WWE
 http://clubtv.link/10n/sport.php?c=wwe&k=tecno&f=.m3u8
-
-
-
-
-
 
 
 
@@ -765,7 +754,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a617379
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Combat Go
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=726&live=1
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Lo Mejor de la Liga MX
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Lo Mejor de la Liga MX
 https://dip0m6wuccbi7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2d8j5h422463p-prod/dist/samsungtv/193/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 
