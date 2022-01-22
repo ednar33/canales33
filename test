@@ -1041,6 +1041,35 @@ http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/1809.m3u8
 
 
 
+#EXTINF:-1 group-title="Deportes", Caracol
+http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/22256.m3u8
+
+
+
+
+
+<script src="https://cdn.jsdelivr.net/clappr/latest/clappr.min.js"></script>
+<script src="https://cdn.jsdelivr.net/clappr.level-selector/latest/level-selector.min.js"></script>
+<script src="https://cdn.jsdelivr.net/clappr.chromecast-plugin/latest/clappr-chromecast-plugin.js"></script><div id="player"></div>
+<script>
+var player = new Clappr.Player({
+source: "http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/2225.m3u8",
+plugins: [LevelSelector, ChromecastPlugin],
+parentId: '#player',
+preload: 'auto',
+autoPlay: 'true',
+mediacontrol: {seekbar:"#FFFF00", buttons: "#FFFF00"},
+width: '700',
+height: '450',
+strings: {
+'en': {
+'live': 'Ednar33 | WebTV',
+}}
+});
+</script>
+
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Ace Stream", Movistar La Liga
 acestream://9007568a18c3a3c89fb9e745206a60554c114917
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Ace Stream", Movistar Liga De Campeones
