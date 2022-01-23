@@ -156,6 +156,9 @@ http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/1753.m3u8
 #EXTINF:-1 group-title="MISC", La Red
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/1750.m3u8
 
+#EXTINF:-1 group-title="MISC", Las Estrellas MX
+http://45.161.188.242:88/lasestrellas/mono.m3u8
+
 #EXTINF:-1 group-title="MISC", TC Ecuador
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/157.m3u8
 
