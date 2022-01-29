@@ -596,13 +596,13 @@ http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", Adrenalina Sports
-http://clubtv.link/n27n/lista2.php?c=3192&f=.m3u8
+http://clubtv.link/n27n/sport.php?c=adrenalina&k=tecno&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", Afizzionados
-http://clubtv.link/n27n/lista2.php?c=3193&f=.m3u8
+http://clubtv.link/n27n/sport.php?c=afizzionados&k=tecno&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", AyM Sports
-http://clubtv.link/n27n/lista2.php?c=3194&f=.m3u8
+http://clubtv.link/n27n/sport.php?c=aymsports&k=tecno&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", Bein Sports Ñ
-http://clubtv.link/n27n/lista2.php?c=3195&f=.m3u8
+http://clubtv.link/n27n/sport.php?c=beines&k=tecno&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", DirecTV Sports
 http://clubtv.link/n27n/lista2.php?c=3246
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", DirecTV Sports 2
@@ -630,7 +630,7 @@ http://clubtv.link/n27n/sport.php?c=foxsports3-mx&k=tecno&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", Fox Sports PREMIUM
 http://clubtv.link/n27n/sport.php?c=foxsportsp&k=tecno&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", TUDN MX
-http://clubtv.link/n27n/lista2.php?c=3214&f=.m3u8
+http://clubtv.link/n27n/sport.php?c=tudn-mx&k=tecno&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", TUDN MX 2
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=174&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", TUDN USA
