@@ -102,8 +102,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvd
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=55&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/I-Sat_2010.png/revision/latest?cb=20200107000514&path-prefix=es",ISAT
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=135&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1024px-Logo_Lifetime_2020.svg.png",LIFETIME
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=94&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Glitz_logo.png",GLITZ
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=76&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv-mediano.png",HOLA TV
@@ -129,12 +127,28 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvd
 https://demandafrica-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://www.esmitele.com/wp-content/uploads/2020/04/logo-esmitele-2.png",MI TELE
 https://5e50264bd6766.streamlock.net/gks/videogks/chunklist_w42483601.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1213px-Telemundo_logo_2018.svg.png",TELEMUNDO
-http://71.187.29.220:8000/play/a07a/index.m3u8
+#EXTINF:-1 group-title="LATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1213px-Telemundo_logo_2018.svg.png",TELEMUNDO (1)
+http://tvgalaxy.online:8080/1Regalo2022-1Hd/1RegaloHd2022-1/87016
+#EXTINF:-1 group-title="LATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1213px-Telemundo_logo_2018.svg.png",TELEMUNDO (2)
+http://tvgalaxy.online:8080/1Regalo2022-1Hd/1RegaloHd2022-1/139074
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1213px-Telemundo_logo_2018.svg.png",TELEMUNDO NOTICIAS
 https://tlmdhd-lh.akamaihd.net/i/tlmd1_1@79627/master.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/univision-mediano.png",UNIVISION
-http://71.187.29.220:8000/play/a07t/index.m3u8
+#EXTINF:-1 group-title="LATINO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/univision-mediano.png",UNIVISION (1)
+http://tvgalaxy.online:8080/1Regalo2022-1Hd/1RegaloHd2022-1/90139
+#EXTINF:-1 group-title="LATINO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/univision-mediano.png",UNIVISION (2)
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/214650
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://panel.tured.live:8080/images/72e973b0e982957fc08a546fbd2ea366.png",GALAVISION (1)
+http://tvgalaxy.online:8080/1Regalo2022-1Hd/1RegaloHd2022-1/99509
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://panel.tured.live:8080/images/72e973b0e982957fc08a546fbd2ea366.png",GALAVISION (2)
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/195243
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://panel.tured.live:8080/images/f7a645d0b5e0bd705cb678fc5bf862fc.png",UNIMAS (1)
+http://tvgalaxy.online:8080/1Regalo2022-1Hd/1RegaloHd2022-1/91854
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://panel.tured.live:8080/images/f7a645d0b5e0bd705cb678fc5bf862fc.png",UNIMAS (2)
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/237496
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://panel.tured.live:8080/images/cf3327963cd6df4216b12103245d53cb.png",NBC UNIVERSO (1)
+http://tvgalaxy.online:8080/1Regalo2022-1Hd/1RegaloHd2022-1/91856
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://panel.tured.live:8080/images/cf3327963cd6df4216b12103245d53cb.png",NBC UNIVERSO (2)
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/194525
 
 
 
@@ -269,6 +283,8 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvd
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=140&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png",eE
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=136&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1024px-Logo_Lifetime_2020.svg.png",LIFETIME
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=94&format=HLS&f=.m3u8
 
 
 
@@ -340,15 +356,15 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvd
 
 
 
-#EXTINF:-1 group-title="MUSICALES",MTV
+#EXTINF:-1 group-title="MUSICA",MTV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=212&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="MUSICALES",VH-1
+#EXTINF:-1 group-title="MUSICA",VH-1
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=334&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="MUSICALES",VH-1 CLASSIC
+#EXTINF:-1 group-title="MUSICA",VH-1 CLASSIC
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=214&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="MUSICALES",TELEHIT MUSICA
+#EXTINF:-1 group-title="MUSICA",TELEHIT MUSICA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=218&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="MUSICALES",TELEHIT MUSICA PLUS
+#EXTINF:-1 group-title="MUSICA",TELEHIT MUSICA PLUS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=220&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="MUSICALES" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bandamax-mediano.png",BANDAMAX
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bandamax-mediano.png",BANDAMAX
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=221&format=HLS&f=.m3u8
