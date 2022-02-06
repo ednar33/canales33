@@ -278,6 +278,9 @@ https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", AFV
 https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Demanda Africa
+https://demandafrica-samsungmexico.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Ecuavisa
 http://tv5full.xyz:25461/live/Ecuaplay73gd/6YvCCNhxFc/1307.ts.m3u8
 
@@ -326,29 +329,36 @@ http://streamingcws20.com:1935/tves/tves.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Canal 33 - El Salvador
 https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Galavisión
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/94101/12?f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Universo
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/94105/12?f=.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Pasiones
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/94104/12?f=.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Univisión Pac
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/93844/12?f=.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Estrella TV
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97889/12?f=.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Telemundo
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/88794/12?f=.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Telemundo Pac
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97838/12?f=.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Univisión
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/94081/12?f=.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Univisión Pac
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/93844/12?f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", UniMas
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/94080/12?f=.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Mi Tele
+https://5e50264bd6766.streamlock.net/gks/videogks/chunklist_w42483601.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Telemundo (1)
+http://tvgalaxy.online:8080/1Regalo2022-1Hd/1RegaloHd2022-1/87016
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Telemundo (2)
+http://tvgalaxy.online:8080/1Regalo2022-1Hd/1RegaloHd2022-1/139074
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Telemundo Noticias
+https://tlmdhd-lh.akamaihd.net/i/tlmd1_1@79627/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Univision (1)
+http://tvgalaxy.online:8080/1Regalo2022-1Hd/1RegaloHd2022-1/90139
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Univision (2)
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/214650
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Galavision (1)
+http://tvgalaxy.online:8080/1Regalo2022-1Hd/1RegaloHd2022-1/99509
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Galavision (2)
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/195243
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Unimas (1)
+http://tvgalaxy.online:8080/1Regalo2022-1Hd/1RegaloHd2022-1/91854
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Unimas (2)
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/237496
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", NBC Universo (1)
+http://tvgalaxy.online:8080/1Regalo2022-1Hd/1RegaloHd2022-1/91856
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", NBC Universo (2)
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/194525
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Uforia Debut (1)
+http://xdgo.live:8080/LuisLunNov27/sdx6KaabRy/5892
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Uforia Debut (2)
+http://xdgo.live:8080/LuisLunNov27/sdx6KaabRy/368
 
 
 
