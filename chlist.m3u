@@ -694,7 +694,7 @@ http://clubtv.link/10fb/sport.php?c=nbcsn&k=tecno&f=.m3u8
 http://clubtv.link/10fb/sport.php?c=wwe&k=tecno&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", AyM Sports
 http://clubtv.link/10fb/lista2.php?c=3194
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", ,Claro Sports
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Claro Sports
 http://clubtv.link/10fb/lista2.php?c=3198
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", ESPN +
 http://clubtv.link/10fb/lista2.php?c=3202
@@ -763,9 +763,6 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", beIN La Liga
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8?mvk
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", (Offline) beIN Sports
-http://45.94.31.45/bar16503/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Sky Sports
 http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/30423.m3u8
 
@@ -831,28 +828,14 @@ https://dip0m6wuccbi7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", USA* NBA TV
-http://tv.nousiptv.com:8080/live/rommy/12345/358.m3u8
+http://xdgo.live:8080/live/fontanezenittmia/AXaWZNUG6J/5629.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", USA* NBA TV HD
 http://84.22.33.214:80/nbatv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", USA* NBA TV HD
-http://tv.nousiptv.com:8080/live/rommy/12345/3964.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", USA* UFC
+http://xdgo.live:8080/live/fontanezenittmia/AXaWZNUG6J/5429.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", USA* NHL
-http://tv.nousiptv.com:8080/live/rommy/12345/4015.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", USA* NFL Network
-http://tv.nousiptv.com:8080/live/rommy/12345/3695.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", USA* NFL Red Zone
-http://tv.nousiptv.com:8080/live/rommy/12345/1091617.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", USA* MLB Network
-http://tv.nousiptv.com:8080/live/rommy/12345/3224.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", USA* MLB Strike Zone
-http://tv.nousiptv.com:8080/live/rommy/12345/17173.m3u8
 
 
 
@@ -908,12 +891,6 @@ http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/376.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes 2", UK - Premier Sports 2
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/18130.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes 2", TV - beIN Sports 1
-https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes 2", TV - beIN Sports 2
-https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes 2", TV - NBA HD
 https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 
@@ -925,22 +902,6 @@ http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes 2", Dubai Racing
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes 2", x(Offline) AE - beIN Sports 
-http://45.94.31.45/bar16506/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes 2", x(Offline) AE - beIN Sports 2
-http://45.94.31.45/bar16502/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes 2", x(Offline) AE - beIN Sports 3
-http://45.94.31.45/bar16503/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes 2", x(Offline) AE - beIN Sports 4
-http://45.94.31.45/bar16504/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes 2", x(Offline) AE - beIN Sports 5
-http://45.94.31.45/bar16505/tracks-v1a1/mono.m3u8
-
 
 
 
