@@ -4,7 +4,7 @@
 https://www.facebook.com/ednar33TV/videos/699879137421226/?__tn__=%2CO
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Leeme", CANALES33.TK
 https://www.facebook.com/ednar33TV/videos/699879137421226/?__tn__=%2CO
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Leeme", Actualización: 04/Feb/2022
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Leeme", Actualización: 11/Feb/2022
 https://www.facebook.com/ednar33TV/videos/699879137421226/?__tn__=%2CO
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Leeme", facebook: Ednar33tv
 https://www.facebook.com/ednar33TV/posts/3217671218461096?__xts__%5B0%5D=68.ARCKgpB1Ay_DZxZ_ICGSO4uTQGsAzowbr8u6ABJfbCo1Nnr7tDaco2wUnRVIaJ6wAB-WqrjZzdEsqb5SUXV034Oh_-upOnP3XqbaYB7osXgXAcCmyaf-HJvyz5x8Iww8B4L6lu_QdplkG2HHv-ZHhPzuY38MGZvPpXTgpipjFRUjES1_4nw-8h12W8a4Nkw_mBRjyWQ7AFWoeNw3Wq3h4_BpfXIkwSOx7xZZ-zfoRrHrGy1er8CyXsuO_ehdwUEu-Ftvg42LBItysX3-oVaHmHTk9g60YGKT8G_kIqZCgAFfQKt0fOX_7CFmjS9RBilvVEQ&__tn__=-R
@@ -106,7 +106,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1
 https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Caracol Internacional
-http://xdgo.live:8080/live/LuisLunNov27/sdx6KaabRy/22256.m3u8
+http://xdgo.live:8080/live/fontanezenittmia/AXaWZNUG6J/22256.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Cinco TV
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
@@ -328,6 +328,9 @@ http://streamingcws20.com:1935/tves/tves.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Canal 33 - El Salvador
 https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Love Nature
+https://bamus-spa-roku.amagi.tv/playlist.m3u8
 
 
 
