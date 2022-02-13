@@ -552,7 +552,7 @@ https://stream8.mexiserver.com/conectatv/conectatv/.m3u8
 https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Musica", Frame TV
-https://nesertv.live/frmevlveweb1/tracks-v1a1/mono.m3u8
+https://monamour.agency/frmevlveweb1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Musica", Latin Pop
 https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
@@ -565,9 +565,6 @@ http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Musica", m2o
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Musica", Mix 24/7
-http://159.69.56.148:25461/live/Mix2472WEB/5tr5seg/5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Musica", Mola TV
 http://ventdelnord.tv:8080/mola/directe.m3u8
