@@ -608,6 +608,9 @@ http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Musica", 1HD Music
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Musica", H-TV 
+https://chromecast.cvattv.com.ar/live/c2live/HTV/SA_SAGEMCOM/HTV.m3u8
+
 
 
 
@@ -827,11 +830,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=726&live=1
 https://dip0m6wuccbi7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2d8j5h422463p-prod/dist/samsungtv/193/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", USA* 
-
-
-
-TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", USA* NBA TV
 http://xdgo.live:8080/live/fontanezenittmia/AXaWZNUG6J/5629.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", USA* NBA TV HD
@@ -1170,6 +1169,23 @@ http://clubtv.link/10fb/geomex.php?c=158&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium 2", PARAMOUNT CHANNEL 
 http://clubtv.link/10fb/geomex.php?c=1726&f=.m3u8  
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium 2", Discpvery Turbo
+https://chromecast.cvattv.com.ar/live/live/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium 2", Film & Arts
+https://chromecast.cvattv.com.ar/live/c2live/Film_Arts/SA_SAGEMCOM/Film_Arts.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium 2", Discpvery Theater
+https://chromecast.cvattv.com.ar/live/c2live/Theater_HD/SA_SAGEMCOM/Theater_HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium 2", Discpvery H&H
+https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium 2", Animal Planet
+https://chromecast.cvattv.com.ar/live/live/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium 2", Discovery SCI
+https://chromecast.cvattv.com.ar/live/c2live/Discovery_Science/SA_SAGEMCOM/Discovery_Science.m3u8
 
 
 
