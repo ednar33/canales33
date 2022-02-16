@@ -46,6 +46,9 @@ https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/chunklist_w15699
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Multimedios
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Imagen Television
+https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=3013&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Telemax
 https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/.m3u8
 
@@ -438,8 +441,8 @@ https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Noticias", Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Noticias", CNN Chile
-https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Noticias", CNN Español
+https://chromecast.cvattv.com.ar/live/c2live/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espanol.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Noticias", Euronews ES
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
@@ -719,18 +722,10 @@ http://clubtv.link/f15/lista2.php?c=3227
 http://clubtv.link/f15/lista2.php?c=3236
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", TNT Sports
 http://clubtv.link/f15/lista2.php?c=3237
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", CDF
-http://clubtv.link/f15/lista2.php?c=3240
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", CDF Estadio
-http://clubtv.link/f15/lista2.php?c=3241
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", CDF Premium
-http://clubtv.link/f15/lista2.php?c=3242
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", CDO Premium
 http://clubtv.link/f15/lista2.php?c=3243
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Win Sports
-http://clubtv.link/f15/lista2.php?c=3244
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Win Sports +
-http://clubtv.link/f15/lista2.php?c=3245
+http://soberon.us:25461/live/bullnew/soberonnew/179.m3u8
 
 
 
@@ -825,6 +820,9 @@ http://xdgo.live:8080/live/fontanezenittmia/AXaWZNUG6J/5629.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", USA* NBA TV HD
 http://84.22.33.214:80/nbatv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", USA* NBA TV 2
+https://chromecast.cvattv.com.ar/live/c2live/NBA_TV/SA_SAGEMCOM/NBA_TV.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", USA* UFC
 http://xdgo.live:8080/live/fontanezenittmia/AXaWZNUG6J/5429.m3u8
@@ -1319,6 +1317,9 @@ https://chromecast.cvattv.com.ar/live/c2live/E_Entertainment_Television/SA_SAGEM
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium 3", Antena 3 
 https://chromecast.cvattv.com.ar/live/c2live/Antena_3/SA_SAGEMCOM/Antena_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium 3", Las Estrellas
+https://chromecast.cvattv.com.ar/live/c2live/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
 
 
 
