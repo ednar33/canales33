@@ -755,6 +755,12 @@ http://obsfullhd.tv:25461/live/speedhd.hd/wk2rl4iWB6/6959.m3u8
 http://obsfullhd.tv:25461/live/speedhd.hd/wk2rl4iWB6/6958.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Movistar Liga de Campeones 8
 http://obsfullhd.tv:25461/live/speedhd.hd/wk2rl4iWB6/6954.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Movistar F1
+http://66.70.176.103:8081/SPAIN%7CMOVISTARF1/SPAIN%7CMOVISTARF1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Movistar F1 - Op. 2
+http://66.70.176.103:8081/SPAIN%7CMOVISTARF1/SPAIN%7CMOVISTARF1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Movistar La Liga
+http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 
 
 
@@ -899,6 +905,9 @@ https://chromecast.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", TNT Sports (ARG)
 https://chromecast.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", ESPN VIVO
+http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
+
 
 
 
@@ -965,6 +974,14 @@ http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes 2", Dubai Racing
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
 
+EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes 2", AR - Bein Sport Premium 1
+http://vt.vttpi.com:8000/live/P-957977/P-740465/412.m3u8
+
+EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes 2", AR - Bein Sport Premium 2
+http://vt.vttpi.com:8000/live/P-957977/P-740465/413.m3u8
+
+EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes 2", AR - Bein Sport Premium 3
+http://vt.vttpi.com:8000/live/P-957977/P-740465/414.m3u8 
 
 
 
@@ -1938,3 +1955,9 @@ https://wscvlive-lh.akamaihd.net/i/MIAMI_STREAM6@183618/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Telemundo Chicago
 https://wmaqlive-f.akamaihd.net/i/CHICAGO_STREAM4@24420/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Estrella News
+https://csm-e-eb.csm.tubi.video/csm/live/247083838.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Estrella TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaa-estrellatv-samsungus/playlist.m3u8
