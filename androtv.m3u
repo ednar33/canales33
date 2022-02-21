@@ -104,6 +104,9 @@ http://91.126.141.13:1935/live/11/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Antena 3 Internacional
 https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=0199&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Canal 13 Paraguay
+https://stream.rpc.com.py/live/trece.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Canela TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1
 
@@ -228,6 +231,9 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", TV Marti - Cuba
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Telemax
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Telemundo HD
 http://clubtv.link/f15/sport.php?c=telemundo&k=tecno&f=.m3u8
@@ -1120,136 +1126,136 @@ http://f4.tvxweb.net:8082/42145/video.m3u8?token=MxPReBvRE18
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", DISCOVERY KIDS
-http://clubtv.link/f15/geomex.php?c=109&p=3&k=tecnotv&f=.m3u8
+http://clubtv.link/21fb/geomex.php?c=109&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", NICK
-http://clubtv.link/f15/geomex.php?c=110&f=.m3u8
+http://clubtv.link/21fb/geomex.php?c=110&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", DISNEY XD
-http://clubtv.link/f15/geomex.php?c=111&f=.m3u8  
+http://clubtv.link/21fb/geomex.php?c=111&f=.m3u8  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", CARTOON NETWORK
-http://clubtv.link/f15/geomex.php?c=112&&f=.m3u8  
+http://clubtv.link/21fb/geomex.php?c=112&&f=.m3u8  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", DISNEY CHANNEL
-http://clubtv.link/f15/geomex.php?c=113&f=.m3u8  
+http://clubtv.link/21fb/geomex.php?c=113&f=.m3u8  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", NICK JR
-http://clubtv.link/f15/geomex.php?c=117&f=.m3u8  
+http://clubtv.link/21fb/geomex.php?c=117&f=.m3u8  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", DISNEY JR
-http://clubtv.link/f15/geomex.php?c=118&f=.m3u8 
+http://clubtv.link/21fb/geomex.php?c=118&f=.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", NICK 2  
-http://clubtv.link/f15/geomex.php?c=2147&f=.m3u8
+http://clubtv.link/21fb/geomex.php?c=2147&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", NAT GEO KIDS  
-http://clubtv.link/f15/geomex.php?c=2373&f=.m3u8 
+http://clubtv.link/21fb/geomex.php?c=2373&f=.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", TELEMUNDO INTERNACIONAL
-http://clubtv.link/f15/geomex.php?c=85&f=.m3u8  
+http://clubtv.link/21fb/geomex.php?c=85&f=.m3u8  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", SONY  
-http://clubtv.link/f15/geomex.php?c=48&f=.m3u8  
+http://clubtv.link/21fb/geomex.php?c=48&f=.m3u8  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", E!
-http://clubtv.link/f15/geomex.php?c=55&f=.m3u8  
+http://clubtv.link/21fb/geomex.php?c=55&f=.m3u8  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", SYFY
-http://clubtv.link/f15/geomex.php?c=59&f=.m3u8  
+http://clubtv.link/21fb/geomex.php?c=59&f=.m3u8  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", A&E
-http://clubtv.link/f15/geomex.php?c=62&f=.m3u8  
+http://clubtv.link/21fb/geomex.php?c=62&f=.m3u8  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", AXN
-http://clubtv.link/f15/geomex.php?c=64&f=.m3u8  
+http://clubtv.link/21fb/geomex.php?c=64&f=.m3u8  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", UNICABLE 
-http://clubtv.link/f15/geomex.php?c=66&f=.m3u8  
+http://clubtv.link/21fb/geomex.php?c=66&f=.m3u8  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", EL GOURMET 
-http://clubtv.link/f15/geomex.php?c=74&f=.m3u8
+http://clubtv.link/21fb/geomex.php?c=74&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", STAR LIFE
-http://clubtv.link/f15/geomex.php?c=77&f=.m3u8  
+http://clubtv.link/21fb/geomex.php?c=77&f=.m3u8  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", DISTRITO COMEDIA SD
-http://clubtv.link/f15/geomex.php?c=78&f=.m3u8  
+http://clubtv.link/21fb/geomex.php?c=78&f=.m3u8  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", LIFETIME 
-http://clubtv.link/f15/geomex.php?c=94&f=.m3u8
+http://clubtv.link/21fb/geomex.php?c=94&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", ANTENA 3
-http://clubtv.link/f15/geomex.php?c=199&f=.m3u8  
+http://clubtv.link/21fb/geomex.php?c=199&f=.m3u8  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", STAR CHANNEL 
-http://clubtv.link/f15/geomex.php?c=201&f=.m3u8
+http://clubtv.link/21fb/geomex.php?c=201&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", WARNER 
-http://clubtv.link/f15/geomex.php?c=205&f=.m3u8  
+http://clubtv.link/21fb/geomex.php?c=205&f=.m3u8  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", UNIVERSAL 
-http://clubtv.link/f15/geomex.php?c=207&f=.m3u8  
+http://clubtv.link/21fb/geomex.php?c=207&f=.m3u8  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", FX HD
-http://clubtv.link/f15/geomex.php?c=209&f=.m3u8
+http://clubtv.link/21fb/geomex.php?c=209&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", TRU TV
-http://clubtv.link/f15/geomex.php?c=215&f=.m3u8  
+http://clubtv.link/21fb/geomex.php?c=215&f=.m3u8  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", COMEDY CENTRAL
-http://clubtv.link/f15/geomex.php?c=340&f=.m3u8  
+http://clubtv.link/21fb/geomex.php?c=340&f=.m3u8  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", UNICABLE
-http://clubtv.link/f15/geomex.php?c=1499&f=.m3u8  
+http://clubtv.link/21fb/geomex.php?c=1499&f=.m3u8  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", TBS 
-http://clubtv.link/f15/geomex.php?c=81&f=.m3u8 
+http://clubtv.link/21fb/geomex.php?c=81&f=.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", DE PELICULA + 
-http://clubtv.link/f15/geomex.php?c=121&f=.m3u8  
+http://clubtv.link/21fb/geomex.php?c=121&f=.m3u8  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", GOLDEN +
-http://clubtv.link/f15/geomex.php?c=122&f=.m3u8  
+http://clubtv.link/21fb/geomex.php?c=122&f=.m3u8  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", GOLDEN
-http://clubtv.link/f15/geomex.php?c=123&f=.m3u8  
+http://clubtv.link/21fb/geomex.php?c=123&f=.m3u8  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", GOLDEN EDGE
-http://clubtv.link/f15/geomex.php?c=124&f=.m3u8 
+http://clubtv.link/21fb/geomex.php?c=124&f=.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", TCM
-http://clubtv.link/f15/geomex.php?c=128&f=.m3u8  
+http://clubtv.link/21fb/geomex.php?c=128&f=.m3u8  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", SPACE
-http://clubtv.link/f15/geomex.php?c=129&f=.m3u8  
+http://clubtv.link/21fb/geomex.php?c=129&f=.m3u8  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", AMC 
-http://clubtv.link/f15/geomex.php?c=131&f=.m3u8  
+http://clubtv.link/21fb/geomex.php?c=131&f=.m3u8  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", STUDIO UNIVERSAL
-http://clubtv.link/f15/geomex.php?c=132&f=.m3u8  
+http://clubtv.link/21fb/geomex.php?c=132&f=.m3u8  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", EUROPA CHANNEL 
-http://clubtv.link/f15/geomex.php?c=136&f=.m3u8  
+http://clubtv.link/21fb/geomex.php?c=136&f=.m3u8  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", FILMS & ARTS
-http://clubtv.link/f15/geomex.php?c=137&f=.m3u8  
+http://clubtv.link/21fb/geomex.php?c=137&f=.m3u8  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", FXM
-http://clubtv.link/f15/geomex.php?c=138&f=.m3u8  
+http://clubtv.link/21fb/geomex.php?c=138&f=.m3u8  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", MORBIDO
-http://clubtv.link/f15/geomex.php?c=140&f=.m3u8  
+http://clubtv.link/21fb/geomex.php?c=140&f=.m3u8  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", CINECANAL
-http://clubtv.link/f15/geomex.php?c=149&f=.m3u8  
+http://clubtv.link/21fb/geomex.php?c=149&f=.m3u8  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", CINEMAX 
-http://clubtv.link/f15/geomex.php?c=158&f=.m3u8
+http://clubtv.link/21fb/geomex.php?c=158&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", PARAMOUNT CHANNEL 
-http://clubtv.link/f15/geomex.php?c=1726&f=.m3u8  
+http://clubtv.link/21fb/geomex.php?c=1726&f=.m3u8  
 
 
 
