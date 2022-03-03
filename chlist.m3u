@@ -794,6 +794,9 @@ http://clubtv.link/f26/geomex.php?c=1499&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", TBS 
 http://clubtv.link/f26/geomex.php?c=81&f=.m3u8 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", TL NOVELAS
+http://clubtv.link/f26/lista1.php?c=3186
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium", DE PELICULA + 
 http://clubtv.link/f26/geomex.php?c=121&f=.m3u8  
 
