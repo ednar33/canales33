@@ -702,10 +702,8 @@ https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=2157&f=HLS&s=hkc26at8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Galavision
 http://bestott.net:80/A14553AA81A4/66D4646C4C55/195243
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Gol Peru
-http://clubtv.link/m03/sport.php?c=golperu&k=tecno&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Gol TV
-http://clubtv.link/m03/sport.php?c=goltv&k=tecno&f=.m3u8
+http://154.62.74.29:1935/live/gol/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", GOLF Channel
 https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=0179&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", HAVOC
