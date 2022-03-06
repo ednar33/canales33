@@ -101,6 +101,9 @@ https://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Antena 3
 http://91.126.141.13:1935/live/11/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Antena 3 Internacional Op2
+https://mdstrm.com/live-stream-playlist/5cae574f875a4e1adebe5c39.m3u8?access_token=DSTa8e7881c9f2118f08d2376239f3292d8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Antena 3 Internacional
 https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=0199&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 
@@ -147,7 +150,7 @@ http://191.97.56.183:1935/imagentv/imagentv/playlist.m3u8
 http://91.126.141.13:1935/live/41/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", La 2
-http://91.126.141.13:1935/live/81/playlist.m3u8
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", La Red
 https://marine2.miplay.cl/lared/mono.m3u8
@@ -169,8 +172,6 @@ http://xdgo.live:8080/live/fontanezenittmia/AXaWZNUG6J/1744.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Chilevision 2
 https://marine2.miplay.cl/chilevision/mono.m3u8
-
-##### https://mdstrm.com/live-stream-playlist-v/5c928b7f6d6f41084bdae898.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Mega - Chile
 https://unlimited10-cl.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8
@@ -245,10 +246,10 @@ https://wnjulive-lh.akamaihd.net/i/NY_STREAM7@183615/master.m3u8
 https://wtmolive-lh.akamaihd.net/i/WTMO_LIVE1@749969/index_1500_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Telemundo Internacional
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=85&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=0085&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Telemundo Internacional 2
-http://clubtv.link/m03/smartv.php?c=telemundoint&k=tecno&f=.m3u8
+http://clubtv.link/m03/ch04/geomex2.php?c=85&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Univision (TEST)
 http://162.212.179.22:9981/stream/channelid/900291939?ticket=28870B5310E73BC7E97D1ED6A9663A97AD50FAD1&profile=pass
