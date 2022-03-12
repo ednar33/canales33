@@ -237,7 +237,7 @@ https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=0085&f=HLSAD&s=hkc26a
 http://clubtv.link/mar8/ch8/geomex.php?c=85&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Univision (TEST)
-http://162.212.179.22:9981/stream/channelid/900291939?ticket=28870B5310E73BC7E97D1ED6A9663A97AD50FAD1&profile=pass
+http://162.212.179.22:9981/stream/channelid/900291939?ticket=B4B376B7D83635950C11FB2ADC7075A00496F2A1&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Univision
 http://www.tecniconsult.hn/UnivisionHD/index.m3u8
@@ -628,6 +628,11 @@ http://clubtv.link/mar8/lista1.php?c=3248
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", ESPN Deportes
 http://clubtv.link/mar8/lista1.php?c=3203
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", Fox Sports Op2
+https://sv.spliktv.xyz/live/caster/RB/FOX-SPORTS.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", Fox Sports 2 Op2
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", DirecTV Sports Op2
 http://megaservers.xyz:8080/play/V7eKaMMZkyDi-YMDjc02nD4VvPwM3eNQq6qXgWCFHho/.m3u8
@@ -919,6 +924,9 @@ https://chromecast.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", TNT Sports (ARG)
 https://chromecast.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Estadio TNT Sports (ARG)
+https://d3junmnzdfp8ej.cloudfront.net/hls/tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", ESPN VIVO
 http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
