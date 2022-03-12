@@ -616,22 +616,18 @@ https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=1799&f=HLSAD&s=hkc26a
 https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=0180&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", Afizzionados
-http://clubtv.link/mar8/lista1.php?c=3193
+http://clubtv.link/mar8/ch8/lista1.php?c=3193
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", Bein Sports Ñ
-http://clubtv.link/mar8/lista1.php?c=3195
+http://clubtv.link/mar8/ch8/lista1.php?c=3195
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", DirecTV Sports 
-http://clubtv.link/mar8/lista1.php?c=3246
+http://clubtv.link/mar8/ch8/lista1.php?c=3246
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", DirecTV Sports 2
-http://clubtv.link/mar8/lista1.php?c=3247
+http://clubtv.link/mar8/ch8/lista1.php?c=3247
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", DirecTV Sports +
-http://clubtv.link/mar8/lista1.php?c=3248
+http://clubtv.link/mar8/ch8/lista1.php?c=3248
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", ESPN Deportes
-http://clubtv.link/mar8/lista1.php?c=3203
+http://clubtv.link/mar8/ch8/lista1.php?c=3203
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", Fox Sports Op2
-https://sv.spliktv.xyz/live/caster/RB/FOX-SPORTS.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", Fox Sports 2 Op2
-https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", DirecTV Sports Op2
@@ -656,6 +652,8 @@ https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=0167&f=HLS&s=hkc26at8
 https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=0171&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", Fox Sports 2 MX
 https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=0172&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", Fox Sports 2 Op2
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", Fox Sports 3 MX
 https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=0178&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", Fox Sports PREMIUM
@@ -681,13 +679,13 @@ https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=2148&f=HLSAD&s=hkc26a
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", LAS Deportes
 https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=2089&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", La Liga
-http://clubtv.link/mar8/sport.php?c=laliga&k=tecno&f=.m3u8
+http://clubtv.link/mar8/ch8/sport.php?c=laliga&k=tecno&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Movistar La Liga
-http://clubtv.link/mar8/sport.php?c=mlaliga&k=tecno&f=.m3u8
+http://clubtv.link/mar8/ch8/sport.php?c=mlaliga&k=tecno&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", TELEMUNDO
 https://chromecast.cvattv.com.ar/live/live/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", TUDN US
-http://clubtv.link/mar8/sport.php?c=tudn-us&k=tecno&f=.m3u8
+http://clubtv.link/mar8/ch8/sport.php?c=tudn-us&k=tecno&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", TVC Deportes
 https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=2157&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", TyC SPORTS
@@ -697,45 +695,45 @@ http://bestott.net:80/A14553AA81A4/66D4646C4C55/237496
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", UNIVERSO
 http://bestott.net:80/A14553AA81A4/66D4646C4C55/194525
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", NBC SPORTS NET
-http://clubtv.link/mar8/sport.php?c=nbcsn&k=tecno&f=.m3u8
+http://clubtv.link/mar8/ch8/sport.php?c=nbcsn&k=tecno&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", WWE
-http://clubtv.link/mar8/sport.php?c=wwe&k=tecno&f=.m3u8
+http://clubtv.link/mar8/ch8/sport.php?c=wwe&k=tecno&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", AyM Sports
-http://clubtv.link/mar8/lista2.php?c=3194
+http://clubtv.link/mar8/ch8/lista2.php?c=3194
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Claro Sports
-http://clubtv.link/mar8/lista2.php?c=3198
+http://clubtv.link/mar8/ch8/lista2.php?c=3198
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", ESPN +
-http://clubtv.link/mar8/lista2.php?c=3202
+http://clubtv.link/mar8/ch8/lista2.php?c=3202
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", ESPN Deportes
-http://clubtv.link/mar8/lista2.php?c=3203
+http://clubtv.link/mar8/ch8/lista2.php?c=3203
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", FOX Deportes
-http://clubtv.link/mar8/lista2.php?c=3204
+http://clubtv.link/mar8/ch8/lista2.php?c=3204
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", NFL Network
-http://clubtv.link/mar8/lista2.php?c=3211
+http://clubtv.link/mar8/ch8/lista2.php?c=3211
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", UFC Fight Pass
-http://clubtv.link/mar8/lista2.php?c=3218
+http://clubtv.link/mar8/ch8/lista2.php?c=3218
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", WinSports
-http://clubtv.link/mar8/lista2.php?c=3219
+http://clubtv.link/mar8/ch8/lista2.php?c=3219
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Eurosport 1
-http://clubtv.link/mar8/lista2.php?c=3221
+http://clubtv.link/mar8/ch8/lista2.php?c=3221
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Eurosport 2
-http://clubtv.link/mar8/lista2.php?c=3222
+http://clubtv.link/mar8/ch8/lista2.php?c=3222
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Movistar Deportes
-http://clubtv.link/mar8/lista2.php?c=3223
+http://clubtv.link/mar8/ch8/lista2.php?c=3223
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Movistar Deportes 2
-http://clubtv.link/mar8/lista2.php?c=3224
+http://clubtv.link/mar8/ch8/lista2.php?c=3224
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Movistar F1
-http://clubtv.link/mar8/lista2.php?c=3225
+http://clubtv.link/mar8/ch8/lista2.php?c=3225
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Movistar Golf
-http://clubtv.link/mar8/lista2.php?c=3226
+http://clubtv.link/mar8/ch8/lista2.php?c=3226
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Movistar Liga de Campeones
-http://clubtv.link/mar8/lista2.php?c=3227
+http://clubtv.link/mar8/ch8/lista2.php?c=3227
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", FOX Sports Premium
-http://clubtv.link/mar8/lista2.php?c=3236
+http://clubtv.link/mar8/ch8/lista2.php?c=3236
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", TNT Sports
-http://clubtv.link/mar8/lista2.php?c=3237
+http://clubtv.link/mar8/ch8/lista2.php?c=3237
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", CDO Premium
-http://clubtv.link/mar8/lista2.php?c=3243
+http://clubtv.link/mar8/ch8/lista2.php?c=3243
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Win Sports
 http://soberon.us:25461/live/bullnew/soberonnew/179.m3u8
 
