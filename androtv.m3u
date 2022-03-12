@@ -171,7 +171,7 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=757
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", RT Español
-https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Saber Mas
 https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
@@ -436,7 +436,7 @@ https://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
 https://estrellanews-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Noticias", RT Español
-https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Noticias", Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
