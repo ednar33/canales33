@@ -222,7 +222,7 @@ http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Telemundo HD
-http://45.160.73.129:8888/play/a04p/index.m3u8
+http://23.237.22.47:25461/live/Monicajdjfjfkfidk/Monicajdksjdheiwkej/42742.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Telemundo 1
 https://wnjulive-lh.akamaihd.net/i/NY_STREAM7@183615/master.m3u8
