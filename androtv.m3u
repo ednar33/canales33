@@ -239,11 +239,14 @@ http://clubtv.link/mar8/ch8/geomex.php?c=85&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Univision (TEST)
 http://162.212.179.22:9981/stream/channelid/900291939?ticket=28870B5310E73BC7E97D1ED6A9663A97AD50FAD1&profile=pass
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Univision 2 (TEST)
+http://162.212.179.22:9981/stream/channelid/900291939.m3u8?ticket=28870B5310E73BC7E97D1ED6A9663A97AD50FAD1&profile=pass
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Univision
 http://www.tecniconsult.hn/UnivisionHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Unimas (TEST)
-http://162.212.179.22:9981/stream/channelid/358793691?ticket=189EF33BE91663E632FACBA0487BBD3CECB6A1C3&profile=pass
+http://162.212.179.22:9981/stream/channelid/358793691.m3u8?ticket=189EF33BE91663E632FACBA0487BBD3CECB6A1C3&profile=pass
 
 
 
