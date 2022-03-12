@@ -349,14 +349,6 @@ https://bamus-spa-roku.amagi.tv/playlist.m3u8
 https://5e50264bd6766.streamlock.net/gks/videogks/chunklist_w42483601.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Telemundo Noticias
 https://tlmdhd-lh.akamaihd.net/i/tlmd1_1@79627/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Univision
-http://bestott.net:80/A14553AA81A4/66D4646C4C55/214650
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Galavision
-http://bestott.net:80/A14553AA81A4/66D4646C4C55/195243
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Unimas
-http://bestott.net:80/A14553AA81A4/66D4646C4C55/237496
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", NBC Universo
-http://bestott.net:80/A14553AA81A4/66D4646C4C55/194525
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Uforia Debut (1)
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/5892
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Uforia Debut (2)
@@ -369,9 +361,6 @@ https://newidco-babysharktv-2-mx.samsung.wurl.tv/3000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Niños", Cartoon Network 
 https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=0112&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Niños", Tooncast 
-https://delivery.cdn.rcs.net.ar/mnp/tooncast_hls/playlist.m3u8"
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Niños", Zoo Moo (US)
 https://8e3b9b86a94645d8b36c7722967c0086.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Zoomoo/playlist.m3u8
@@ -527,9 +516,6 @@ http://190.171.101.36:80/Cinemax/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Chiquilines
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_6.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Dios TeVe Kids
-https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v4a1/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Retro Plus Series
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 
@@ -589,9 +575,6 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Musica", Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Musica", La Ribereña
-https://inliveserver.com:1936/19020/19020/.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Musica", tdn
 http://108.175.14.125:1935/tdn/tdn/.m3u8
 
@@ -620,7 +603,7 @@ http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Musica", H-TV 
-https://chromecast.cvattv.com.ar/live/c2live/HTV/SA_SAGEMCOM/HTV.m3u8
+https://chromecast.cvattv.com.ar/live/c6live/HTV/SA_SAGEMCOM/HTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Musica", Spectrum Channel
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
