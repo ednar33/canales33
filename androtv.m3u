@@ -362,6 +362,18 @@ https://tlmdhd-lh.akamaihd.net/i/tlmd1_1@79627/master.m3u8
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/5892
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Uforia Debut (2)
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/368
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Galavision
+http://ui.mrzutv.net:8080/spiderman/spiderman/25892
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Telemundo 
+http://ui.mrzutv.net:8080/spiderman/spiderman/12059
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Unimas
+http://ui.mrzutv.net:8080/spiderman/spiderman/16424
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Univision
+http://ui.mrzutv.net:8080/spiderman/spiderman/16430
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", NBC Universo
+http://ui.mrzutv.net:8080/spiderman/spiderman/27267
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Univision TUDN
+http://ui.mrzutv.net:8080/spiderman/spiderman/42225
 
 
 
