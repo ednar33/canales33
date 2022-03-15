@@ -2160,3 +2160,95 @@ https://delivery.cdn.rcs.net.ar/mnp/universal_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", warner
 https://delivery.cdn.rcs.net.ar/mnp/warner_hls/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Temporal", AMC 
+http://ui.mrzutv.net:8080/spiderman/spiderman/11863
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Temporal", AMC Op2
+http://ui.mrzutv.net:8080/spiderman/spiderman/16624
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Temporal", AMC
+http://ui.mrzutv.net:8080/spiderman/spiderman/62
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Temporal", AXN
+http://ui.mrzutv.net:8080/spiderman/spiderman/11865
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Temporal", Cine Canal Op2
+http://ui.mrzutv.net:8080/spiderman/spiderman/16641
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Temporal", Cine LAtino
+http://ui.mrzutv.net:8080/spiderman/spiderman/16640
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Temporal", Cinecanal
+http://ui.mrzutv.net:8080/spiderman/spiderman/65838
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Temporal", Cinemax
+http://ui.mrzutv.net:8080/spiderman/spiderman/16642
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Temporal", Claro Cinema
+http://ui.mrzutv.net:8080/spiderman/spiderman/16644
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Temporal", De Pelicula Plus
+http://ui.mrzutv.net:8080/spiderman/spiderman/97
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Temporal", De Pelicula
+http://ui.mrzutv.net:8080/spiderman/spiderman/77
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Temporal", Fox Comedy
+http://ui.mrzutv.net:8080/spiderman/spiderman/84
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Temporal", Golden Plus
+http://ui.mrzutv.net:8080/spiderman/spiderman/26243
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Temporal", Golden Edge
+http://ui.mrzutv.net:8080/spiderman/spiderman/26242
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Temporal", Golden Edge Op2
+http://ui.mrzutv.net:8080/spiderman/spiderman/62984
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Temporal", Golden Premier
+http://ui.mrzutv.net:8080/spiderman/spiderman/78
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Temporal", Golden
+http://ui.mrzutv.net:8080/spiderman/spiderman/16682
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Temporal", HBO 1 Op2
+http://ui.mrzutv.net:8080/spiderman/spiderman/16685
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Temporal", HBO 1 
+http://ui.mrzutv.net:8080/spiderman/spiderman/11989
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Temporal", HBO 2
+http://ui.mrzutv.net:8080/spiderman/spiderman/11993
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Temporal", HBO 2 Op2
+http://ui.mrzutv.net:8080/spiderman/spiderman/16688
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Temporal", HBO Family 
+http://ui.mrzutv.net:8080/spiderman/spiderman/11988
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Temporal", HBO Family Op2
+http://ui.mrzutv.net:8080/spiderman/spiderman/16686
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Temporal", HBO Mundi
+http://ui.mrzutv.net:8080/spiderman/spiderman/20422
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Temporal", HBO Plus 
+http://ui.mrzutv.net:8080/spiderman/spiderman/11991
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Temporal", HBO Plus Op2
+http://ui.mrzutv.net:8080/spiderman/spiderman/16687
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Temporal", HBO Pop
+http://ui.mrzutv.net:8080/spiderman/spiderman/8102
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Temporal", HBO Signature
+http://ui.mrzutv.net:8080/spiderman/spiderman/5722
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Temporal", HBO Xtreme Op2
+http://ui.mrzutv.net:8080/spiderman/spiderman/16697
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Temporal", HBO Xtreme
+http://ui.mrzutv.net:8080/spiderman/spiderman/4942
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Temporal", HBO Xtreme Op3
+http://ui.mrzutv.net:8080/spiderman/spiderman/12011
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Temporal", Mumltipremier
+http://ui.mrzutv.net:8080/spiderman/spiderman/16700
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Temporal", Paramount 
+http://ui.mrzutv.net:8080/spiderman/spiderman/30792
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Temporal", Paramount Op2
+http://ui.mrzutv.net:8080/spiderman/spiderman/67
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Temporal", Paramount Op3
+http://ui.mrzutv.net:8080/spiderman/spiderman/16708
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Temporal", Space
+http://ui.mrzutv.net:8080/spiderman/spiderman/12034
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Temporal", Space Op2
+http://ui.mrzutv.net:8080/spiderman/spiderman/16710
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Temporal", Studio Universal
+http://ui.mrzutv.net:8080/spiderman/spiderman/12039
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Temporal", Studio Universal Op2
+http://ui.mrzutv.net:8080/spiderman/spiderman/16711
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Temporal", Studio Universal Op3
+http://ui.mrzutv.net:8080/spiderman/spiderman/58
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Temporal", TCM 
+http://ui.mrzutv.net:8080/spiderman/spiderman/16715
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Temporal", TNT 
+http://ui.mrzutv.net:8080/spiderman/spiderman/59
+##EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Temporal", TNT Op2
+http://ui.mrzutv.net:8080/spiderman/spiderman/12048
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium Temporal", TNT Op3
+http://ui.mrzutv.net:8080/spiderman/spiderman/16717
