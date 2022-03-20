@@ -836,7 +836,11 @@ https://cdn.livepeer.com/hls/7a5914474q0ku76l/0_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Movistar La Liga Op2
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Movistar La Liga PPV
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Movistar La Liga PPV2
+http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
 
 
 
