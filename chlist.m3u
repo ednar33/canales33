@@ -658,6 +658,9 @@ http://93.152.174.144:4000/play/beinlaliga/index.m3u8?mvk
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Sky Sports
 http://xdgo.live:8080/live/fontanezenittmia/AXaWZNUG6J/30423.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Sky Sports Op2
+https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/stream08/streamPlaylist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", TyC Sports
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
 
