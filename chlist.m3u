@@ -584,17 +584,17 @@ https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=1799&f=HLSAD&s=hkc26a
 https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=0180&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", Afizzionados
-http://clubtv.link/14mr/ch8/lista1.php?c=3193
+http://blackaddon.com/play/zufree-370.php?black=dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dg&c=3193
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", Bein Sports Ñ
-http://clubtv.link/14mr/ch8/lista1.php?c=3195
+http://blackaddon.com/play/zufree-370.php?black=dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dg&c=3195
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", DirecTV Sports 
-http://clubtv.link/14mr/ch8/lista1.php?c=3246
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", DirecTV Sports 2
-http://clubtv.link/14mr/ch8/lista1.php?c=3247
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", DirecTV Sports +
-http://clubtv.link/14mr/ch8/lista1.php?c=3248
+http://blackaddon.com/play/zufree-370.php?black=dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dg&c=3246
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", DirecTV Sports DirecTV Sports 2
+http://blackaddon.com/play/zufree-370.php?black=dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dg&c=3247
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", DirecTV Sports DirecTV Sports +
+http://blackaddon.com/play/zufree-370.php?black=dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dg&c=3248
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", ESPN Deportes
-http://clubtv.link/14mr/ch8/lista1.php?c=3203
+http://blackaddon.com/play/zufree-370.php?black=dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dg&c=3203
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", Claro Sports
@@ -844,6 +844,14 @@ http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Movistar La Liga PPV 3
 http://loga.ultratotal.ml/xls/ligota/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", DirectTV (ARG)
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/667.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", DirectTV (PR)
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium HD", Cartelera Premiere HD
