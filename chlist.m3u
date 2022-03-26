@@ -585,16 +585,13 @@ https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=0180&f=HLS&s=hkc26at8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", Afizzionados
 http://blackaddon.com/play/zufree-370.php?black=dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dg&c=3193
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", Bein Sports Ñ
-http://blackaddon.com/play/zufree-370.php?black=dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dg&c=3195
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", DirecTV Sports 
 http://alv.encohd.co:39591/live/j0roNAC/n3XT33/382.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", DirecTV Sports DirecTV Sports 2
 http://alv.encohd.co:39591/live/j0roNAC/n3XT33/383.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", DirecTV Sports DirecTV Sports +
 http://alv.encohd.co:39591/live/j0roNAC/n3XT33/549.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", ESPN Deportes
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/523.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", Claro Sports
