@@ -98,6 +98,9 @@ https://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", America TV - Chile
 https://Stmv1.zcastbr.com/americatvchile/americatvchile/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Az Mundo
+http://xdgo.live:8080/live/fontanezenittmia/AXaWZNUG6J/201.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Antena 3
 http://91.126.141.13:1935/live/11/playlist.m3u8
 
@@ -217,6 +220,12 @@ http://xdgo.live:8080/live/fontanezenittmia/AXaWZNUG6J/157.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Telecinco
 http://91.126.141.13:1935/live/61/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Divinity
+http://xdgo.live:8080/live/fontanezenittmia/AXaWZNUG6J/35.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", FDF
+http://xdgo.live:8080/live/fontanezenittmia/AXaWZNUG6J/33.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Venevision
 http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8
