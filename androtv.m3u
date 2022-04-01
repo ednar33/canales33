@@ -942,13 +942,22 @@ http://154.62.74.29:1935/live/gol/playlist.m3u8
 http://xdgo.live:8080/live/fontanezenittmia/AXaWZNUG6J/1829.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Movistar La Liga
-https://cdn.livepeer.com/hls/7a5914474q0ku76l/0_1/index.m3u8
+http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Movistar La Liga Op2
-http://93.152.174.144:4000/play/beinlaliga/index.m3u8
+http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1108.ts.M3U8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Movistar Liga de Campeones
+http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1107.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", DAZN F1
+http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1106.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", RUSH
 http://xdgo.live:8080/live/fontanezenittmia/AXaWZNUG6J/368.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", DirecTV ARG
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/667.m3u8
 
 
 
