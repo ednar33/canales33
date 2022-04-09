@@ -804,7 +804,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Eurosports 1
 http://46.34.209.243/btv/SWM/Eurosport/Eurosport_576p_2000kbps.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Eurosports Op2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Eurosports 1 Op2
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Eurosports 2
@@ -851,7 +851,7 @@ http://84.22.33.215/nbatv/index.m3u8?token=test
 https://chromecast.cvattv.com.ar/live/c2live/NBA_TV/SA_SAGEMCOM/NBA_TV.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", USA | UFC
-http://xdgo.live:8080/live/fontanezenittmia/AXaWZNUG6J/5429.m3u8
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", USA | Sky 1
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
@@ -872,19 +872,13 @@ http://38.127.211.18/live/c2eds/ESPN2USA/HLS/index.m3u8
 https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_PREV_v0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Fox Sports 1 (ARG)
-https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Fox Sports 2 (ARG)
-https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Fox Sports 3 (ARG)
-https://chromecast.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
+http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/59808.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Fox Sports Premium (ARG)
-https://chromecast.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
+http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/22113.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Fox Deportes
-http://xdgo.live:8080/live/fontanezenittmia/AXaWZNUG6J/1838.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", EI - Esporte Interactivo  (BR)
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", ESPN Extra
 http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/69719.m3u8
@@ -902,16 +896,10 @@ http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/1542.m3u8
 http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/977.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", TNT Sports (ARG)
-https://chromecast.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", TNT Sports 2
-http://xdgo.live:8080/live/fontanezenittmia/AXaWZNUG6J/1842.m3u8
+http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/3180.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Estadio TNT Sports (ARG)
 https://d3junmnzdfp8ej.cloudfront.net/hls/tv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", ESPN VIVO
-http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Fite Boxing 
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
@@ -955,17 +943,8 @@ http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1108.ts.M3U8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Movistar Liga de Campeones
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1107.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", DAZN F1
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1106.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", RUSH
-http://xdgo.live:8080/live/fontanezenittmia/AXaWZNUG6J/368.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", RUSH Op2
 http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", DirecTV ARG
-http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/667.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Eventos Temp
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
