@@ -11,6 +11,13 @@ http://satelliteiptv.xyz:8080/8r7ixagcs6/000mkLou87cd/7246
 #EXTINF:-1 group-title="PRUEBA", DAZN F1 HD ES
 http://satelliteiptv.xyz:8080/8r7ixagcs6/000mkLou87cd/13549
 
+#EXTINF:-1 group-title="PRUEBA", BT Sports 1
+http://93.152.174.144:4000/play/btsport1/index.m3u8
+#EXTINF:-1 group-title="PRUEBA", BT Sports 2
+http://93.152.174.144:4000/play/btsport2/index.m3u8
+#EXTINF:-1 group-title="PRUEBA", BT Sports 3
+http://93.152.174.144:4000/play/btsport3/index.m3u8
+
 
 
 
