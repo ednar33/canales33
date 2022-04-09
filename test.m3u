@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="PRUEBA",Bein ESP
+http://satelliteiptv.xyz:8080/live/8r7ixagcs6/000mkLou87cd/8745.m3u8
+#EXTINF:-1 group-title="PRUEBA", DAZN 1 FHD VIP ES
+http://satelliteiptv.xyz:8080/8r7ixagcs6/000mkLou87cd/683544
+#EXTINF:-1 group-title="PRUEBA", DAZN 2 HD VIP ES
+http://satelliteiptv.xyz:8080/8r7ixagcs6/000mkLou87cd/683545
+#EXTINF:-1 group-title="PRUEBA", DAZN F1 FHD ES
+http://satelliteiptv.xyz:8080/8r7ixagcs6/000mkLou87cd/7246
+#EXTINF:-1 group-title="PRUEBA", DAZN F1 HD ES
+http://satelliteiptv.xyz:8080/8r7ixagcs6/000mkLou87cd/13549
+
+
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/wQXHgYW.png",AXN HD
 http://spliktv-edge2.wedrly.xyz/live/vod/AXNHD/SA_Live_WebVTT_FTA/AXNHD.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.ibb.co/z7DwS7B/nationalgeo.png",NATGEO
