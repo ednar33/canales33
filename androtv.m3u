@@ -452,6 +452,14 @@ http://jjooliveclarovideo.akamaized.net/Content/hls/Live/Channel(tveducationch01
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Niños", ITV
 https://marine2.miplay.cl/itv/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Niños", Teletubbies
+https://dhx-teletubbies-1-gb.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Niños", Angry Birds
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=547
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Niños", Lego Toons
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
 
 
 
