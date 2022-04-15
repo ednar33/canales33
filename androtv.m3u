@@ -120,7 +120,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczc
 https://stream.rpc.com.py/live/trece.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Canela TV
-https://stream.ads.ottera.tv/cl/dc768646-d8c8-4cd4-b02b-9a6c15cd11dc/1280x720_2300000_4_false.m3u8
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Canela Novelas
 https://stream.ads.ottera.tv/cl/64a985b5-1ca8-4f23-a1f4-9fed19d273c4/1280x720_2300000_4_false.m3u8
@@ -743,6 +743,10 @@ http://ytv.plus:25461/live/Maria/1234/17327.m3u8
 http://ytv.plus:25461/live/Maria/1234/17328.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", SKY Sports Op4
 http://plus-tv.net:25461/live/genoveva/genoveva/7158.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", SKY Sports Premier
+http://plus-tv.net:25461/live/genoveva/genoveva/7164.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", SKY Sports Premier 2
+http://plus-tv.net:25461/live/genoveva/genoveva/7165.m3u8
 
 
 
