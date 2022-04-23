@@ -797,3 +797,83 @@ https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/chunklist_b4128000.m3u8
 https://cdnlive.shooowit.net/la8burgoslive/smil:streamswitchingchannel.smil/chunklist_b2200000.m3u8
 #EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://www.tvcubana.icrt.cu/images/television.jpg",🇨🇺 ●| Cubavision Internacional
 http://93.241.75.134:19981/stream/channelid/660821106?profile=pass
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Extra" tvg-logo="https://innovatv.live/posters/1602432742130.png",ESTUDIO-UNIVERSAL
+http://51.79.18.128:8081/LATINO%7CSTUDIOUNIVERSAL/LATINO%7CSTUDIOUNIVERSAL/playlist.m3u8
+#EXTINF:-1 group-title="Extra" tvg-logo="https://innovatv.live/posters/1602293222276.png",CINECANAL
+http://51.79.18.128:8081/LATINO%7CCINECANAL/LATINO%7CCINECANAL/playlist.m3u8
+#EXTINF:-1 group-title="Extra" tvg-logo="https://innovatv.live/posters/1602324109426.jpg",GOLDENPLUS
+http://51.79.18.128:8081/LATINO%7CGOLDENPLUS/LATINO%7CGOLDENPLUS/playlist.m3u8
+#EXTINF:-1 group-title="Extra" tvg-logo="https://innovatv.live/posters/1602432840128.png",SONY-CHANNEL
+http://51.79.18.128:8081/LATINO%7CSONYCHANNEL/LATINO%7CSONYCHANNEL/playlist.m3u8
+#EXTINF:-1 group-title="Extra" tvg-logo="https://innovatv.live/posters/1602320787525.jpg",CINEMAX
+http://51.79.18.128:8081/LATINO%7CCINEMAX/LATINO%7CCINEMAX/playlist.m3u8
+#EXTINF:-1 group-title="Extra" tvg-logo="https://innovatv.live/posters/1602323935427.jpg",FX
+http://51.79.18.128:8081/LATINO%7CFX/LATINO%7CFX/playlist.m3u8
+#EXTINF:-1 group-title="Extra" tvg-logo="https://innovatv.live/posters/1602428486133.png",WARNER
+http://51.79.18.128:8081/LATINO%7CWARNER/LATINO%7CWARNER/playlist.m3u8
+#EXTINF:-1 group-title="Extra" tvg-logo="https://innovatv.live/posters/1602291358305.png",AMC
+http://51.79.18.128:8081/LATINO%7CAMC/LATINO%7CAMC/playlist.m3u8
+#EXTINF:-1 group-title="Extra" tvg-logo="https://innovatv.live/posters/1602321026229.jpg",DEPELICULA
+http://51.79.18.128:8081/LATINO%7CDEPELICULA/LATINO%7CDEPELICULA/playlist.m3u8
+#EXTINF:-1 group-title="Extra" tvg-logo="https://innovatv.live/posters/1602704088279.jpg",LOS-SIMPSON
+http://51.79.18.128:8081/24%7C7%7CLATINO%7CSIMPSONS/SIMPSONS/playlist.m3u8
+#EXTINF:-1 group-title="Extra" tvg-logo="https://innovatv.live/posters/1602703986157.png",BOB-ESPONJA
+http://51.79.18.128:8081/24%7C7%7CBOBESPONJA/24%7C7%7CBOBESPONJA/playlist.m3u8
+#EXTINF:-1 group-title="Extra" tvg-logo="https://innovatv.live/posters/1602344506477.png",NATGEO-MUNDO
+http://51.79.18.128:8081/LATINO%7CNATGEOMUNDO/LATINO%7CNATGEOMUNDO/playlist.m3u8
+#EXTINF:-1 group-title="Extra" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png",ESPN
+http://189.91.128.150:4444/udp/227.10.20.81:1234
+#EXTINF:-1 group-title="Extra" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png",ESPN 2
+http://189.91.128.150:4444/udp/227.10.20.128:1234
+#EXTINF:-1 group-title="Extra" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png",ESPN 2
+http://189.91.128.150:4444/udp/227.10.20.86:1234
+#EXTINF:-1 group-title="Extra" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png",ESPN 3
+http://189.91.128.150:4444/udp/227.10.20.153:1234
+#EXTINF:-1 group-title="Extra" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png",ESPN 4
+http://189.91.128.150:4444/udp/227.10.20.116:1234
+#EXTINF:-1 group-title="Extra" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png",FOX Sports 2
+http://189.91.128.150:4444/udp/227.10.20.132:1234
+#EXTINF:-1 group-title="Extra" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/premiere.png",Premiere
+http://189.91.128.150:4444/udp/227.10.20.102:1234
+#EXTINF:-1 group-title="Extra" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/premiere.png",Premiere 2
+http://189.91.128.150:4444/udp/227.10.20.104:1234
+#EXTINF:-1 group-title="Extra" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",24 HORAS
+https://marine2.miplay.cl/24horas/mono.m3u8
+#EXTINF:-1 group-title="Extra" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",ARIRANG
+https://marine2.miplay.cl/arirang/mono.m3u8
+#EXTINF:-1 group-title="Extra" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",CANAL 13
+https://marine2.miplay.cl/canal13/mono.m3u8
+#EXTINF:-1 group-title="Extra" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",CHILEVISION
+https://marine2.miplay.cl/chilevision/mono.m3u8
+#EXTINF:-1 group-title="Extra" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",FRANCE 24
+https://marine2.miplay.cl/france24/mono.m3u8
+#EXTINF:-1 group-title="Extra" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",ITV
+https://marine2.miplay.cl/itv/mono.m3u8
+#EXTINF:-1 group-title="Extra" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",KANAL D
+https://marine2.miplay.cl/kanald/mono.m3u8
+#EXTINF:-1 group-title="Extra" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",LA RED
+https://marine2.miplay.cl/lared/mono.m3u8
+#EXTINF:-1 group-title="Extra" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",MEGA
+https://marine2.miplay.cl/mega/mono.m3u8
+#EXTINF:-1 group-title="Extra" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",MEGA PLUS
+https://marine2.miplay.cl/megaplus/mono.m3u8
+#EXTINF:-1 group-title="Extra" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",NHK
+https://marine2.miplay.cl/nhk/mono.m3u8
+#EXTINF:-1 group-title="Extra" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",REC TV
+https://marine2.miplay.cl/rec/mono.m3u8
+#EXTINF:-1 group-title="Extra" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",TVN
+https://marine2.miplay.cl/tvn/mono.m3u8
+#EXTINF:-1 group-title="Extra" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",TVR
+https://marine2.miplay.cl/tvr/mono.m3u8
+#EXTINF:-1 group-title="Extra" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",UCV3
+https://marine2.miplay.cl/ucv3/mono.m3u8
+#EXTINF:-1 group-title="Extra" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",ZOOMOO
+https://marine2.miplay.cl/zoomoo/mono.m3u8
