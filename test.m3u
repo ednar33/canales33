@@ -1,15 +1,136 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="PRUEBA", Bein ESP
-http://satelliteiptv.xyz:8080/live/8r7ixagcs6/000mkLou87cd/8745.m3u8
-#EXTINF:-1 group-title="PRUEBA", DAZN 1 FHD VIP ES
-http://satelliteiptv.xyz:8080/8r7ixagcs6/000mkLou87cd/683544
-#EXTINF:-1 group-title="PRUEBA", DAZN 2 HD VIP ES
-http://satelliteiptv.xyz:8080/8r7ixagcs6/000mkLou87cd/683545
-#EXTINF:-1 group-title="PRUEBA", DAZN F1 FHD ES
-http://satelliteiptv.xyz:8080/8r7ixagcs6/000mkLou87cd/7246
-#EXTINF:-1 group-title="PRUEBA", DAZN F1 HD ES
-http://satelliteiptv.xyz:8080/8r7ixagcs6/000mkLou87cd/13549
+#EXTINF:-1 group-title="LATIN TV",Canal 2 de las Estrellas FULL.HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/411.m3u8
+#EXTINF:-1 group-title="LATIN TV",IMAGEN TELEVISION HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/341.m3u
+#EXTINF:-1 group-title="LATIN TV",IMAGEN TELEVISION HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/341.m3u8
+#EXTINF:-1 group-title="LATIN TV",AZTECA UNO HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/775.m3u8
+#EXTINF:-1 group-title="LATIN TV",GALAVISION TV HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/56.m3u8
+#EXTINF:-1 group-title="LATIN TV",PASION FULL.HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/755.m3u8
+#EXTINF:-1 group-title="LATIN TV",TLN NOVELAS HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/832.m3u8
+#EXTINF:-1 group-title="LATIN TV",HTV HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/66.m3u8
+#EXTINF:-1 group-title="LATIN TV",TELEHIT MUSICA HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/154.m3u8
+#EXTINF:-1 group-title="LATIN TV",CINE LATINO
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/295.m3u8
+#EXTINF:-1 group-title="LATIN TV",AZTECA CINEMA HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/186.m3u8
+#EXTINF:-1 group-title="LATIN TV",DE PELICULA HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/481.m3u8
+#EXTINF:-1 group-title="LATIN TV",Az Corazon HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/834.m3u8
+#EXTINF:-1 group-title="LATIN TV",UNICABLE HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/653.m3u8
+#EXTINF:-1 group-title="LATIN TV",TELEMUNDO HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/660.m3u8
+#EXTINF:-1 group-title="LATIN TV",Azteca 7 FUL.HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/635.m3u8
+#EXTINF:-1 group-title="LATIN TV",CANAL 5 HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/14.m3u8
+#EXTINF:-1 group-title="MOVIES",LIFETIME FULL.HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/152.m3u8
+#EXTINF:-1 group-title="MOVIES",GOLDEN FULL.HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/57.m3u8
+#EXTINF:-1 group-title="MOVIES",G EDGE HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/58.m3u8
+#EXTINF:-1 group-title="MOVIES",SONY CHANNEL FULL.HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/498.m3u8
+#EXTINF:-1 group-title="MOVIES",DHE HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/844.m3u8
+#EXTINF:-1 group-title="MOVIES",STAR CHANNEL FULL.HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/489.m3u8
+#EXTINF:-1 group-title="MOVIES",STAR LIFE FULL.HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/50.m3u8
+#EXTINF:-1 group-title="MOVIES",FX FULL.HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/495.m3u8
+#EXTINF:-1 group-title="MOVIES",FXM FULL.HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/43.m3u8
+#EXTINF:-1 group-title="MOVIES",CINECANAL FULL.HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/479.m3u8
+#EXTINF:-1 group-title="MOVIES",AMC FULL.HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/475.m3u8
+#EXTINF:-1 group-title="MOVIES",A&E HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/1.m3u8
+#EXTINF:-1 group-title="MOVIES",TCM FULL.HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/85.m3u8
+#EXTINF:-1 group-title="MOVIES",TBS HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/831.m3u8
+#EXTINF:-1 group-title="MOVIES",TNT FULL.HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/500.m3u8
+#EXTINF:-1 group-title="MOVIES",TNT SERIES HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/650.m3u8
+#EXTINF:-1 group-title="MOVIES",SPACE FUL-HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/499.m3u8
+#EXTINF:-1 group-title="MOVIES",UNIVERSAL CHANNEL FUL.HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/137.m3u8
+#EXTINF:-1 group-title="MOVIES",STUDIO CHANNEL FULL.HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/84.m3u8
+#EXTINF:-1 group-title="MOVIES",WARNER FULL.HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/503.m3u8
+#EXTINF:-1 group-title="MOVIES",SYFY HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/648.m3u8
+#EXTINF:-1 group-title="MOVIES",PARAMOUNT CHANNEL HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/647.m3u8
+#EXTINF:-1 group-title="MOVIES",HBO FULL.HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/62.m3u8
+#EXTINF:-1 group-title="MOVIES",HBO 2 FUL-HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/732.m3u8
+#EXTINF:-1 group-title="MOVIES",HBO Family HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/63.m3u8
+#EXTINF:-1 group-title="MOVIES",CINEMAX FULL.HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/638.m3u8
+#EXTINF:-1 group-title="MOVIES",HBO + HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/64.m3u8
+#EXTINF:-1 group-title="MOVIES",HBO XTREME FULL.4K
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/814.m3u8
+#EXTINF:-1 group-title="MOVIES",E FULL.HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/483.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="http://dusktill.masuk.web.id/img/animalplanet.png",Animal Planet HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/3.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",Discovery ID HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/825.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",DISCOVERY H&H HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/24.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",Discovery TLC
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/87.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",DISCOVERY SCIENCE
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/26.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",DISCOVERY TURBO HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/727.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",DISCOVERY THEATER HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/27.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",Discovery World HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/187.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",Discovery Channel HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/639.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",NatGEO HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/644.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",NatGeo Wild HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/77.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",HISTORY HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/642.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",HISTORY 2 HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/61.m3u8
+#EXTINF:-1 group-title="MOVIES",HGTV HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/23.m3u8
+#EXTINF:-1 group-title="KIDS",BABY
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/7.m3u8
+#EXTINF:-1 group-title="KIDS",NICK FULL.HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/78.m3u8
+#EXTINF:-1 group-title="KIDS",TEEN Nick HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/646.m3u8
+#EXTINF:-1 group-title="KIDS",NICK JR HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/79.m3u8
+
+
+
 
 #EXTINF:-1 group-title="PRUEBA", BT Sports 1
 http://93.152.174.144:4000/play/btsport1/index.m3u8
