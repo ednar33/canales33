@@ -102,7 +102,22 @@ https://tunelive.net:3141/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="IP-TV", Distrito Comedia
 https://2.tunelive.net:3734/stream/play.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="IP-TV", Foro TV
+https://2.tunelive.net:3650/stream/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="IP-TV", Canal 5
+https://2.tunelive.net:3503/stream/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="IP-TV", TV UNAM
+https://2.tunelive.net:3541/stream/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="IP-TV", Azteca Uno
+https://2.tunelive.net:3475/stream/play.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="IP-TV", De Pelicula Plus
+https://2.tunelive.net:3359/stream/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="IP-TV", De Pelicula
 https://2.tunelive.net:3359/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="IP-TV", Galavision
@@ -111,20 +126,16 @@ https://2.tunelive.net:3349/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="IP-TV", Multimedios Monterrey
 https://2.tunelive.net:3255/stream/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="IP-TV", Milenio TV
-https://2.tunelive.net:3108/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="IP-TV", Azteca 7
+https://2.tunelive.net:3189/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="IP-TV", Unicable
 https://2.tunelive.net:3141/stream/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="IP-TV", Canal 5
-https://2.tunelive.net:3503/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="IP-TV", Milenio TV
+https://2.tunelive.net:3108/stream/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="IP-TV", TV UNAM
-https://2.tunelive.net:3541/stream/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="IP-TV", Foro TV
-https://2.tunelive.net:3650/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="IP-TV", Latina Peru
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/LATINA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINA_stream_hj&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1547510270&_cdn_session=178096011&_cdn_timestamp=1650768304&_cdn_token=39be2a287441685f6884ff622f383d3a8246f649
@@ -212,5 +223,3 @@ http://51.79.18.128:8081/24%7C7%7CLATINO%7CSIMPSONS/SIMPSONS/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="IP-TV", NatGeo Mundo 
 http://51.79.18.128:8081/LATINO%7CNATGEOMUNDO/LATINO%7CNATGEOMUNDO/playlist.m3u8
-
-
