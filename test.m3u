@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Varios",A3
+#EXTINF:-1 group-title="Varios",A3_0
 http://38.123.205.70:8000/play/a0bu/index.m3u8
 
 #EXTINF:-1 group-title="Varios",A3_1
