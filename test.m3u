@@ -4,44 +4,20 @@
 http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/67.m3u8
 
 
+
 #EXTINF:-1 group-title="SPORTS",Skysports
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/stream08/streamPlaylist.m3u8
 #EXTINF:-1 group-title="SPORTS",Sky 1
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
 #EXTINF:-1 group-title="SPORTS",Sky 2
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
-
-#EXTINF:-1 group-title="SPORTS 2", SKY Sport Boxing SD
+#EXTINF:-1 group-title="SPORTS", SKY Sport Boxing SD
 http://31.172.87.32:2200/EX/skysportboxingSD-uk/index.m3u8?token=RED_BZZcWqGH8Z_cyzXdy2XJTw==
-
-#EXTINF:-1 group-title="SPORTS 2", Dazn Sports 1 SD Events
+#EXTINF:-1 group-title="SPORTS", Dazn Sports 1 SD Events
 http://31.172.87.35:2200/EX/Dazn_Sports_1_SD_-uk/index.m3u8?token=RED_BZZcWqGH8Z_cyzXdy2XJTw==
 
 
-#EXTINF:-1 group-title="SPORTS 2", Dazn Sports 2 SD Events
-http://46.105.112.116/?watch=EX/Dazn_Sports_2_SD_-uk&token=RED_BZZcWqGH8Z_cyzXdy2XJTw==,1648653608.96596990299|User-agent=REDLINECLIENT
-#EXTINF:-1 group-title="SPORTS 2", Dazn Sports 3 SD Events
-http://46.105.112.116/?watch=EX/Dazn_Sports_3_SD_-uk&token=RED_BZZcWqGH8Z_cyzXdy2XJTw==,1648653608.96596990299|User-agent=REDLINECLIENT
-#EXTINF:-1 group-title="SPORTS 2", Dazn Sports 4 SD Events
-http://46.105.112.116/?watch=EX/Dazn_Sports_4_SD_-uk&token=RED_BZZcWqGH8Z_cyzXdy2XJTw==,1648653608.96596990299|User-agent=REDLINECLIENT
-#EXTINF:-1 group-title="SPORTS 2", Dazn Sports 5 SD Events
-http://46.105.112.116/?watch=EX/Dazn_Sports_5_SD_-uk&token=RED_BZZcWqGH8Z_cyzXdy2XJTw==,1648653608.96596990299|User-agent=REDLINECLIENT
-#EXTINF:-1 group-title="SPORTS 2", Dazn Sports 6 SD Events
-http://46.105.112.116/?watch=EX/Dazn_Sports_6_SD_-uk&token=RED_BZZcWqGH8Z_cyzXdy2XJTw==,1648653608.96596990299|User-agent=REDLINECLIENT
-#EXTINF:-1 group-title="SPORTS 2", Dazn Sports 7 SD Events
-http://46.105.112.116/?watch=EX/Dazn_Sports_7_SD_-uk&token=RED_BZZcWqGH8Z_cyzXdy2XJTw==,1648653608.96596990299|User-agent=REDLINECLIENT
-#EXTINF:-1 group-title="SPORTS 2", Dazn Sports 8 SD Events
-http://46.105.112.116/?watch=EX/Dazn_Sports_8_SD_-uk&token=RED_BZZcWqGH8Z_cyzXdy2XJTw==,1648653608.96596990299|User-agent=REDLINECLIENT
-#EXTINF:-1 group-title="SPORTS 2", Dazn Sports 9 SD Events
-http://46.105.112.116/?watch=EX/Dazn_Sports_9_SD_-uk&token=RED_BZZcWqGH8Z_cyzXdy2XJTw==,1648653608.96596990299|User-agent=REDLINECLIENT
-#EXTINF:-1 group-title="SPORTS 2", Dazn Sports 10 SD Events
-http://46.105.112.116/?watch=EX/Dazn_Sports_10_SD_-uk&token=RED_BZZcWqGH8Z_cyzXdy2XJTw==,1648653608.96596990299|User-agent=REDLINECLIENT
-#EXTINF:-1 group-title="SPORTS 2", Dazn Sports 11 SD Events
-http://46.105.112.116/?watch=EX/Dazn_Sports_11_SD_-uk&token=RED_BZZcWqGH8Z_cyzXdy2XJTw==,1648653608.96596990299|User-agent=REDLINECLIENT
-#EXTINF:-1 group-title="SPORTS 2", Dazn Sports 12 SD Events
-http://46.105.112.116/?watch=EX/Dazn_Sports_12_SD_-uk&token=RED_BZZcWqGH8Z_cyzXdy2XJTw==,1648653608.96596990299|User-agent=REDLINECLIENT
-#EXTINF:-1 group-title="SPORTS 2", Dazn Sports 13 SD Events
-http://46.105.112.116/?watch=EX/Dazn_Sports_13_SD_-uk&token=RED_BZZcWqGH8Z_cyzXdy2XJTw==,1648653608.96596990299|User-agent=REDLINECLIENT
+
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://innovatv.live/posters/1602432742130.png",ESTUDIO-UNIVERSAL
 http://51.79.18.128:8081/LATINO%7CSTUDIOUNIVERSAL/LATINO%7CSTUDIOUNIVERSAL/playlist.m3u8
@@ -137,12 +113,7 @@ https://marine2.miplay.cl/ucv3/mono.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",ZOOMOO
 https://marine2.miplay.cl/zoomoo/mono.m3u8
 
-#EXTINF:-1 group-title="SPORTS",Skysports
-https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/stream08/streamPlaylist.m3u8
-#EXTINF:-1 group-title="SPORTS",Sky 1
-https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
-#EXTINF:-1 group-title="SPORTS",Sky 2
-https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TVE-1.png",🇪🇸 ●| La 1ᴴᴰ 
