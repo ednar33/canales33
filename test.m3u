@@ -1,20 +1,21 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Varios",A3_0
-http://38.123.205.70:8000/play/a0bu/index.m3u8
+http://gratis.shortgod.com/nomerobesweon8/tv6.php?c=12008
+
 
 #EXTINF:-1 group-title="Varios",A3_1
-http://ts3.tvcluboficial.com/ts/Antena3/_5655.ts
+http://ts3.tvcluboficial.com/ts/Antena3/5655.ts
 #EXTINF:-1 group-title="Varios",A3_2
-http://ts3.tvcluboficial.com/ts/Antena3/_5656.ts
+http://ts3.tvcluboficial.com/ts/Antena3/5656.ts
 #EXTINF:-1 group-title="Varios",A3_3
-http://ts3.tvcluboficial.com/ts/Antena3/_5657.ts
+http://ts3.tvcluboficial.com/ts/Antena3/5657.ts
 #EXTINF:-1 group-title="Varios",A3_4
-http://ts3.tvcluboficial.com/ts/Antena3/_5658.ts
+http://ts3.tvcluboficial.com/ts/Antena3/5658.ts
 #EXTINF:-1 group-title="Varios",A3_5
-http://ts3.tvcluboficial.com/ts/Antena3/_5659.ts
+http://ts3.tvcluboficial.com/ts/Antena3/5659.ts
 #EXTINF:-1 group-title="Varios",A3_6
-http://ts3.tvcluboficial.com/ts/Antena3/_5660.ts
+http://ts3.tvcluboficial.com/ts/Antena3/5660.ts
 
 #EXTINF:-1 group-title="SPORTS",Skysports
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/stream08/streamPlaylist.m3u8
