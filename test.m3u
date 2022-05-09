@@ -9,6 +9,8 @@ http://latinosiptv.online:8090/notocar/xmauc84bx1/2567
 http://latinosiptv.online:8090/notocar/xmauc84bx1/12
 #EXTINF:-1 group-title="Varios",ANTENA 3
 http://latinosiptv.online:8090/notocar/xmauc84bx1/987
+#EXTINF:-1 group-title="Varios",Telemundo US
+https://h2.ustvgo.la/Telemundo/myStream/playlist.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS",Skysports
