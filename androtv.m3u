@@ -424,10 +424,6 @@ https://5e50264bd6766.streamlock.net/gks/videogks/chunklist_w42483601.m3u8
 https://tlmdhd-lh.akamaihd.net/i/tlmd1_1@79627/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Univision Noticias 24/7
 https://linear-254.frequency.stream/dist/localnow/254/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Uforia Debut (1)
-http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/5892
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Uforia Debut (2)
-http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/368
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Univision
 http://ytv.plus:25461/live/Maria/1234/752.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Univision Op2
@@ -458,12 +454,8 @@ http://ytv.plus:25461/live/Maria/1234/17323.m3u8
 http://ytv.plus:25461/live/Maria/1234/1601.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Unimas Op2
 http://ytv.plus:25461/live/Maria/1234/1839.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Unimas Op3
-http://tvencasa.fun:2052/live/4236/4236/4429.m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", NBC Universo 
 http://ytv.plus:25461/live/Maria/1234/217.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Galavision
-http://tvencasa.fun:2052/live/4236/4236/4332.m3u
 
 
 
@@ -544,9 +536,6 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Noticias", Foro TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Noticias", Uno TV
-https://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Noticias", Estrella News
 https://estrellanews-plex.amagi.tv/playlist.m3u8
 
@@ -585,9 +574,6 @@ https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", A3Cine
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", A3S Series
-https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/a3s/dash/a3s.mpd?begin=&end=&nvb=1527155886&nva=1958691886&hash=089340b5ce26dc28126b08a229fa47efe3a0fee3e
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Cine Sureño
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master_6.m3u8
 
@@ -603,12 +589,6 @@ https://cinereal-plex.amagi.tv/CineReal/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Horrify
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master_6.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Run Time 1
-https://runtime-espana-rakuten.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Run Time 2
-https://ammo-espanol-plex.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", My Time Movie
 https://linear-261.frequency.stream/dist/localnow/261/hls/master/playlist.m3u8
 
@@ -617,9 +597,6 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", My Time Movie 2
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", DarkMatter
-https://darkmatter-spanish-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Cine AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
@@ -633,9 +610,6 @@ https://ss3.domint.net:3134/otv_str/orbittv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Villa TV
 https://inliveserver.com:1936/10016/10016/chunklist_w1357319705.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Cine Kids
-https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Cinemax
 http://190.171.101.36:80/Cinemax/playlist.m3u8
 
@@ -646,9 +620,6 @@ https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_6.m3u8
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Butaca TV
-https://veranda-butacatv-1-es.samsung.wurl.tv/3000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Butaca TV2
 https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", MoovieMex
@@ -660,30 +631,14 @@ https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Cosmos
 https://clientes.videostreaming.ar:19360/cosmos/cosmos.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", ViWix TV (cine)
-https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Cine Latino
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97902/12?f=.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Movistar Drama
-http://xdgo.live:8080/live/fontanezenittmia/AXaWZNUG6J/119.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Movistar Estrenos 2
-http://xdgo.live:8080/live/fontanezenittmia/AXaWZNUG6J/118.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Movistar Series
-http://xdgo.live:8080/live/fontanezenittmia/AXaWZNUG6J/121.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Movistar Series 2
-http://xdgo.live:8080/live/fontanezenittmia/AXaWZNUG6J/122.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Musica", Activa TV
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Musica", Conecta TV
-https://stream8.mexiserver.com/conectatv/conectatv/.m3u8
+https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Musica", Dance Star TV
 https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
@@ -698,10 +653,10 @@ https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Musica", DeeJay TV
-http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Musica", m2o
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Musica", Mola TV
 http://ventdelnord.tv:8080/mola/directe.m3u8
@@ -711,9 +666,6 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Musica", Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Musica", tdn
-http://108.175.14.125:1935/tdn/tdn/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Musica", K-Pop
 https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
@@ -735,12 +687,6 @@ https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Musica", Play TV
 http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Musica", 1HD Music
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Musica", H-TV 
-https://chromecast.cvattv.com.ar/live/c6live/HTV/SA_SAGEMCOM/HTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Musica", Spectrum Channel
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
