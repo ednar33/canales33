@@ -41,6 +41,8 @@ https://h2.ustvgo.la/Telemundo/myStream/playlist.m3u8
 http://line.thesmartiptv.com:900/live/4297836676/9573024070/165971.m3u8
 #EXTINF:-1 group-title="Varios",La Liga TV Bar
 http://dontuse.offshorerev.cc/live/SPIDER_F175Sd/422pl9z2/105115.m3u8
+#EXTINF:-1 group-title="Varios", Channel 5
+https://v-sd.mybtv.net/event/486/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 
 
 
