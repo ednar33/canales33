@@ -1,27 +1,27 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="Espanha" tvg-logo="http://www.panoramaaudiovisual.com/en/wp-content/uploads/2013/01/Cosmopolitan-Tv.png",🇪🇸 ➾ Cosmolitan
+#EXTINF:-1 group-title="Espanha2" tvg-logo="http://www.panoramaaudiovisual.com/en/wp-content/uploads/2013/01/Cosmopolitan-Tv.png",🇪🇸 ➾ Cosmolitan
 http://154.62.74.12:1935/live/smil:cosmoHD.smil/chunklist_w103482874_b1928000_sleng.m3u8
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://www.antena3.com/public/img/a3com/favicon/icon160.webp",🇪🇸 ➾ Antena 3ᴴᴰ
+#EXTINF:-1 tvg-id="" group-title="Espanha2" tvg-logo="https://www.antena3.com/public/img/a3com/favicon/icon160.webp",🇪🇸 ➾ Antena 3ᴴᴰ
 http://ott.riotelecomm.es:4512/m3u8/ANTENA3HD.m3u8
-#EXTINF:-1 group-title="Espanha" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320",🇪🇸 ➾ Telecincoᴴᴰ
+#EXTINF:-1 group-title="Espanha2" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320",🇪🇸 ➾ Telecincoᴴᴰ
 http://ott.riotelecomm.es:4512/m3u8/TELECINCOHD.m3u8
-#EXTINF:-1 group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/LaSexta.png",🇪🇸 ➾ La Sexta
+#EXTINF:-1 group-title="Espanha2" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/LaSexta.png",🇪🇸 ➾ La Sexta
 http://ott.riotelecomm.es:4512/m3u8/LASEXTAHD.m3u8
-#EXTINF:-1 group-title="Espanha" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEMAD.png",🇪🇸 ➾ Bmadᴴᴰ
+#EXTINF:-1 group-title="Espanha2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEMAD.png",🇪🇸 ➾ Bmadᴴᴰ
 http://ott.riotelecomm.es:4512/m3u8/BEMADTVHD.m3u8
-#EXTINF:-1 group-title="Espanha" tvg-logo="https://graph.facebook.com/E.EnergyTV/picture?width=200&height=200",🇪🇸 ➾ Energy
+#EXTINF:-1 group-title="Espanha2" tvg-logo="https://graph.facebook.com/E.EnergyTV/picture?width=200&height=200",🇪🇸 ➾ Energy
 http://ott.riotelecomm.es:4512/m3u8/ENERGY.m3u8
-#EXTINF:-1 group-title="Espanha" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FDFESPANHA.png",🇪🇸 ➾ fdf
+#EXTINF:-1 group-title="Espanha2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FDFESPANHA.png",🇪🇸 ➾ fdf
 http://ott.riotelecomm.es:4512/m3u8/FDF.m3u8
-#EXTINF:-1 group-title="Espanha" tvg-logo="https://graph.facebook.com/megaTDT/picture?width=200&height=200",🇪🇸 ➾ Megaᴴᴰ
+#EXTINF:-1 group-title="Espanha2" tvg-logo="https://graph.facebook.com/megaTDT/picture?width=200&height=200",🇪🇸 ➾ Megaᴴᴰ
 http://154.62.74.29:1935/live/mega/chunklist_w1555082919.m3u8
-#EXTINF:-1 group-title="Espanha" tvg-logo="https://graph.facebook.com/megaTDT/picture?width=200&height=200",🇪🇸 ➾ Megaᴴᴰ
+#EXTINF:-1 group-title="Espanha2" tvg-logo="https://graph.facebook.com/megaTDT/picture?width=200&height=200",🇪🇸 ➾ Megaᴴᴰ
 http://ott.riotelecomm.es:4512/m3u8/MEGA.m3u8
-#EXTINF:-1 group-title="Espanha" tvg-logo="https://graph.facebook.com/neox/picture?width=200&height=200",🇪🇸 ➾ Neox
+#EXTINF:-1 group-title="Espanha2" tvg-logo="https://graph.facebook.com/neox/picture?width=200&height=200",🇪🇸 ➾ Neox
 http://ott.riotelecomm.es:4512/m3u8/NEOX.m3u8
-#EXTINF:-1 group-title="Espanha" tvg-logo="https://graph.facebook.com/DKissTV/picture?width=200&height=200",🇪🇸 ➾ DKiss
+#EXTINF:-1 group-title="Espanha2" tvg-logo="https://graph.facebook.com/DKissTV/picture?width=200&height=200",🇪🇸 ➾ DKiss
 http://ott.riotelecomm.es:4512/m3u8/DKISS.m3u8
 
 #EXTINF:-1 group-title="Varios",A3_0
@@ -37,6 +37,15 @@ http://latinosiptv.online:8090/notocar/xmauc84bx1/987
 https://h2.ustvgo.la/Telemundo/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Varios",Telemundo
 https://h2.ustvgo.la/Telemundo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjIgMTA6NTI6MDMgUE0maGFzaF92YWx1ZT1yeFdHc29OWVFBemVOY09lMUNoVVd3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 group-title="Varios",Univision
+https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk
+#EXTINF:-1 group-title="Varios",Movistar La Liga
+http://line.thesmartiptv.com:900/live/4297836676/9573024070/165971.m3u8
+#EXTINF:-1 group-title="Varios",La Liga TV Bar
+http://dontuse.offshorerev.cc/live/SPIDER_F175Sd/422pl9z2/105115.m3u8
+
+
+
 
 
 #EXTINF:-1 group-title="SPORTS",Skysports
