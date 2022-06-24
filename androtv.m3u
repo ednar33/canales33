@@ -389,8 +389,8 @@ http://e33@2690.ovh:25461/live/34baxmo5/56bwf44u/3780.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", ITV 4 (UK)
 http://e33@2690.ovh:25461/live/34baxmo5/56bwf44u/3779.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Zee Mundo
-http://dream8k.pro:80/Simone/Simone/273985
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", TVG America
+https://america-crtvg.flumotion.com/playlist.m3u8
 
 
 
