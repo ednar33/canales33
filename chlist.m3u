@@ -4,7 +4,7 @@
 https://www.facebook.com/ednar33TV/videos/699879137421226/?__tn__=%2CO
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Leeme", CANALES33.TK
 https://www.facebook.com/ednar33TV/videos/699879137421226/?__tn__=%2CO
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Leeme", Actualización: 20/JUNIO/2022
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Leeme", Actualización: 02/JULIO/2022
 https://www.facebook.com/ednar33TV/videos/699879137421226/?__tn__=%2CO
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Leeme", facebook: Ednar33tv
 https://www.facebook.com/ednar33TV/posts/3217671218461096?__xts__%5B0%5D=68.ARCKgpB1Ay_DZxZ_ICGSO4uTQGsAzowbr8u6ABJfbCo1Nnr7tDaco2wUnRVIaJ6wAB-WqrjZzdEsqb5SUXV034Oh_-upOnP3XqbaYB7osXgXAcCmyaf-HJvyz5x8Iww8B4L6lu_QdplkG2HHv-ZHhPzuY38MGZvPpXTgpipjFRUjES1_4nw-8h12W8a4Nkw_mBRjyWQ7AFWoeNw3Wq3h4_BpfXIkwSOx7xZZ-zfoRrHrGy1er8CyXsuO_ehdwUEu-Ftvg42LBItysX3-oVaHmHTk9g60YGKT8G_kIqZCgAFfQKt0fOX_7CFmjS9RBilvVEQ&__tn__=-R
@@ -114,6 +114,12 @@ https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Antena 3
 http://jp@2690.ovh:25461/live/34baxmo5/56bwf44u/14132.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Antena 3 Op2
+http://dream8k.pro:80/Simone/Simone/273069
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Antena 3 Internacional  Op2
+http://dream8k.pro:80/Simone/Simone/273070
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Antena 3 Internacional
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=199&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 
@@ -132,8 +138,11 @@ https://elrey-canela.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Caracol 
 https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Caracol Op2
+http://dream8k.pro:80/Simone/Simone/271462
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Caracol Internacional
-http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/53535.m3u8
+http://dream8k.pro:80/Simone/Simone/273940
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Cuatro
 http://jp@2690.ovh:25461/live/34baxmo5/56bwf44u/5545.m3u8
@@ -191,6 +200,9 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/LATINA/40-hls/live-media.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Latina Peru Op2
 http://177.53.152.186:8000/play/a019/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Latina Peru Op3
+http://dream8k.pro:80/Simone/Simone/237987
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Chilevision
 https://marine2.miplay.cl/chilevision/tracks-v1a1/mono.m3u8
@@ -357,6 +369,12 @@ https://bamus-spa-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Vivo Play
 https://linear-260.frequency.stream/dist/localnow/260/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Amé HD (RD)
+https://ss9.domint.net:3040/ame_str/amecanal47/chunklist_w471128982.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Kanal D - Novelas
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/daf94cdf-35ec-47b8-b09a-2b2f429fe15a/1.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", ITV (UK)
 http://e33@2690.ovh:25461/live/34baxmo5/56bwf44u/6032.m3u8
 
@@ -368,9 +386,11 @@ http://e33@2690.ovh:25461/live/34baxmo5/56bwf44u/6033.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", ITV 3(UK)
 http://e33@2690.ovh:25461/live/34baxmo5/56bwf44u/3780.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", ITV 4 (UK)
 http://e33@2690.ovh:25461/live/34baxmo5/56bwf44u/3779.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", TVG America
+https://america-crtvg.flumotion.com/playlist.m3u8
 
 
 
@@ -384,8 +404,87 @@ https://tlmdhd-lh.akamaihd.net/i/tlmd1_1@79627/master.m3u8
 https://linear-254.frequency.stream/dist/localnow/254/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Canal 57
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_1b89127040e111ec94bb9191b5291a5e/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Univision 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Univision 41
 https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Azteca America
+https://v-ny.mybtv.net/live/645.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Estrella TV 
+https://v-ny.mybtv.net/live/650.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Novelissima
+https://v-ny.mybtv.net/live/652.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Telemundo
+https://v-ny.mybtv.net/live/659.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", TeleXitos 
+https://v-ny.mybtv.net/live/660.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Cine Visión Latina
+https://v-ny.mybtv.net/live/663.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Unimas
+https://v-ny.mybtv.net/live/713.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Galavision
+http://dream8k.pro:80/Simone/Simone/273804
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Galavision (Este)
+http://dream8k.pro:80/Simone/Simone/273858
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Galavision (Oeste)
+http://dream8k.pro:80/Simone/Simone/273857
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Telemundo (Este)
+http://dream8k.pro:80/Simone/Simone/273038
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Telemundo (Oeste)
+http://dream8k.pro:80/Simone/Simone/273038
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Telemundo 23 Monterey
+http://dream8k.pro:80/Simone/Simone/273022
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Telemundo 31 Orlando
+http://dream8k.pro:80/Simone/Simone/272978
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Telemundo 39 Dallas
+http://dream8k.pro:80/Simone/Simone/273589
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Telemundo 47 New York
+http://dream8k.pro:80/Simone/Simone/273599
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Telemundo 51 Miami
+http://dream8k.pro:80/Simone/Simone/273605
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Telemundo 52 Los Angeles
+http://dream8k.pro:80/Simone/Simone/273605
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Telemundo Internacional
+https://vp01-telemundosd.delivery.fuugo.com/ngrp:vp01-Telemundo_SD-147c97bb_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Univision Network
+http://dream8k.pro:80/Simone/Simone/273056
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Univision 21 Fresno/Visalia
+http://dream8k.pro:80/Simone/Simone/273011
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Univision 23 Garland
+http://dream8k.pro:80/Simone/Simone/273012
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Univision 34 Atlanta
+http://dream8k.pro:80/Simone/Simone/273015
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Univision 41 NewYork
+http://dream8k.pro:80/Simone/Simone/273010
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Univision 61 Cleveland
+http://dream8k.pro:80/Simone/Simone/273013
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Univision 62 Austin
+http://dream8k.pro:80/Simone/Simone/273014
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Univision TUDN
+http://dream8k.pro:80/Simone/Simone/272172
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", UniMas Network
+http://dream8k.pro:80/Simone/Simone/273055
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", UniMas 3 Tucson
+http://dream8k.pro:80/Simone/Simone/273053
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", UniMas 13 Arizona
+http://dream8k.pro:80/Simone/Simone/273054
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", UniMas 31 Austin
+http://dream8k.pro:80/Simone/Simone/273043
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", UniMas 46 Los Angeles
+http://dream8k.pro:80/Simone/Simone/273052
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", UniMas 61 Fresno/Visalia
+http://dream8k.pro:80/Simone/Simone/273051
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", UniMas 69 Hollywood
+http://dream8k.pro:80/Simone/Simone/273048
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", NBC Universo (Este)
+http://dream8k.pro:80/Simone/Simone/272212
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", NBC Universo (Oeste)
+http://dream8k.pro:80/Simone/Simone/272213
+
+
 
 
 
@@ -433,6 +532,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=547
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Niños", Lego Toons
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Niños", Canal Infantil Cariflix
+http://streannlivecariflix.cachefly.net/cariflix4/cariflix4/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Niños", TVG Infantil
+http://infantil-crtvg.flumotion.com/playlist.m3u8
 
 
 
@@ -562,6 +667,14 @@ https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Cosmos
 https://clientes.videostreaming.ar:19360/cosmos/cosmos.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Cine Familiar Cariflix
+http://streannlivecariflix.cachefly.net/cariflix5/cariflix5/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Pánico
+http://170.178.189.66:1935/live/Stream1/.m3u8
+
+
+
 
 
 
@@ -628,6 +741,14 @@ https://linear-257.frequency.stream/dist/localnow/257/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Musica", MTV India
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Musica", Quello Concerts
+https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Musica", Oxigeno TV
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/chunklist_w1649816878.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", Adrenalina Sports
@@ -653,7 +774,7 @@ http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/60373.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", SKY Sports Op2
 https://tunelive.net:3592/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", ESPN Deportes (USA)
-http://satelliteiptv.xyz:8080/live/Rada/steklic1/677142.m3u8
+http://bronzetv.xyz:80/Webster/Webster/98395
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", Claro Sports
@@ -722,10 +843,10 @@ https://claro-jw.cdn.vustreams.com/live/channel05/live.isml/master.m3u8
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", BEIN Sports HD
-http://satelliteiptv.xyz:8080/live/Rada/steklic1/7248.m3u8
+http://dream8k.pro:80/Simone/Simone/273938
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", BEIN Sports Op2
-http://satelliteiptv.xyz:8080/live/Rada/steklic1/8745.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", BEIN Sports La Liga
+http://dream8k.pro:80/Simone/Simone/273937
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", beIN Sports Extra
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
@@ -864,7 +985,7 @@ http://satelliteiptv.xyz:8080/live/Rada/steklic1/677142.m3u8
 http://e33@2690.ovh:25461/live/34baxmo5/56bwf44u/109738.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", USA | Combate UFC
-http://tvencasa.fun:2052/live/4236/4236/239078.m3u8
+http://dream8k.pro:80/Simone/Simone/98538
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", USA | Billiard TV
 
@@ -1080,6 +1201,9 @@ http://2690.ovh:25461/live/34baxmo5/56bwf44u/4771.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", EuroSports 2 (UK)
 http://2690.ovh:25461/live/34baxmo5/56bwf44u/4770.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Best Cable Sports 
+https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
+
 
 
 
@@ -1104,7 +1228,6 @@ http://2690.ovh:25461/live/34baxmo5/56bwf44u/4775.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", BT Sports ESPN
 http://2690.ovh:25461/live/34baxmo5/56bwf44u/4742.m3u8
-
 
 
 
@@ -1375,22 +1498,6 @@ http://ss8.domint.net:2124/tbt_str/telebendicion/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Relax", ANIMALS
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Relax", AURORA 
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Relax", FOREST 
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Relax", LAKES
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Relax", MOUNTAINS
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Relax", BEACHES
 
 
 
@@ -1748,6 +1855,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492e6d7f3f560007a
 
 
 
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Videos Chistosos
 https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
 
@@ -1922,6 +2030,9 @@ https://linear-358.frequency.stream/dist/localnow/358/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Cine Club - PrendeTV
 https://linear-192.frequency.stream/dist/localnow/192/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Cine Club - Vix
+https://linear-192.frequency.stream/192/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Lo Mejor de la Liga MX - PrendeTV
 https://linear-193.frequency.stream/dist/localnow/193/hls/master/playlist.m3u8
 
@@ -1934,8 +2045,8 @@ https://linear-195.frequency.stream/dist/localnow/195/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Novelas de Oro - PrendeTV
 https://linear-196.frequency.stream/dist/localnow/196/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Novelas de Oro - Vix
+https://linear-196.frequency.stream/196/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", RCN Mas
 https://linear-286.frequency.stream/dist/localnow/286/hls/master/playlist.m3u8
-
-
-
